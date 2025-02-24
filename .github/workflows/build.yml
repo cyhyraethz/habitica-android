@@ -1,0 +1,87 @@
+name: Create and Release AV nightly
+on:
+    # This can be used to automatically publish nightlies at UTC nighttime
+    #schedule:
+    #  - cron: '0 23 * * *' # run at 2 AM UTC
+    # This can be used to allow manually triggering nightlies from the web interface
+    workflow_dispatch:
+    #pull_request:
+    #merge_group:
+    #push:
+    #  branches: [ main, develop ]
+
+env:
+    GRADLE_OPTS: -Dorg.gradle.jvmargs="-Xmx6g -XX:MaxMetaspaceSize=512m -Dfile.encoding=UTF-8 -XX:+HeapDumpOnOutOfMemoryError" -Dkotlin.incremental=false -XX:+UseG1GC
+    CI_GRADLE_ARG_PROPERTIES: --stacktrace --no-daemon -Dsonar.gradle.skipCompile=true
+
+jobs:
+    nightly:
+        name: Deploy nightly
+        #concurrency:
+        #  group: ${{ format('build-release-main-gplay-{0}', github.sha) }}
+        #  cancel-in-progress: true
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Use JDK 17
+              uses: actions/setup-java@v3
+              with:
+                  distribution: "temurin" # See 'Supported distributions' for available options
+                  java-version: "17"
+            - name: Prepare
+              run: ./.github/prepare-workflow
+            - name: Run with Gradle
+              uses: gradle/gradle-build-action@v2
+              with:
+                  arguments: gradlew assembleProd -PdisablePreDex "-Dorg.gradle.jvmargs=-Xmx2g"
+
+            - name: Get apk path
+              id: apk-path
+              run: |
+                  echo "path=$(find . -regex '^.*/build/outputs/apk/.*\.apk$' -type f | head -1)" >> $GITHUB_OUTPUT
+                  echo "path=$(find . -regex '^.*/build/outputs/apk/.*$' -type f | head -1)"
+            - name: Get apk info
+              id: apk-info
+              uses: hkusu/apk-info-action@v1
+              with:
+                  apk-path: ${{ steps.apk-path.outputs.path }}
+            - name: Show apk info
+              run: |
+                  echo '${{ steps.apk-info.outputs.application-name }}'
+                  echo '${{ steps.apk-info.outputs.application-id }}'
+                  echo '${{ steps.apk-info.outputs.version-code }}'
+                  echo '${{ steps.apk-info.outputs.version-name }}'
+                  echo '${{ steps.apk-info.outputs.min-sdk-version }}'
+                  echo '${{ steps.apk-info.outputs.target-sdk-version }}'
+                  echo '${{ steps.apk-info.outputs.compile-sdk-version }}'
+                  echo '${{ steps.apk-info.outputs.uses-permissions }}'
+                  echo '${{ steps.apk-info.outputs.debuggable }}'
+                  echo '${{ steps.apk-info.outputs.allow-backup }}'
+                  echo '${{ steps.apk-info.outputs.supports-rtl }}'
+                  echo '${{ steps.apk-info.outputs.file-size }}'
+                  echo '${{ steps.apk-info.outputs.readable-file-size }}'
+            #- name: Upload bundle as artifact
+            #  uses: actions/upload-artifact@v4
+            #  with:
+            #    name: elementx-av-nightly
+            #    path: |
+            #      app/build/outputs/apk/gplay/nightly/app-gplay-arm64-v8a-nightly.apk
+
+            #- name: Send to Matrix
+            #  uses: daedric7/Matrix-Send-File@v0.2-beta6
+            #  with:
+            #    room_id: ${{ secrets.MATRIX_ROOM_ID }}
+            #    access_token: ${{ secrets.MATRIX_ACCESS_TOKEN }}
+            #    server: "https://prfn.xyz"
+            #    file: app/build/outputs/apk/gplay/nightly/app-gplay-arm64-v8a-nightly.apk
+            #    message: "AV Element X Nightly Build Complete"
+
+            #- name: Deploy Nightly
+            #  uses: WebFreak001/deploy-nightly@v3.1.0
+            #  with:
+            #    upload_url: https://uploads.github.com/repos/cyhyraethz/element-x-av/releases/180527698/assets{?name,label} # find out this value by opening https://api.github.com/repos/<owner>/<repo>/releases in your browser and copy the full "upload_url" value including the {?name,label} part
+            #    release_id: 180527698 # same as above (id can just be taken out the upload_url, it's used to find old releases)
+            #    asset_path: app/build/outputs/apk/gplay/nightly/app-gplay-arm64-v8a-nightly.apk # path to archive to upload
+            #    asset_name: av-element-x-$$.apk # name to upload the release as, use $$ to insert date (YYYYMMDD) and 6 letter commit hash
+            #    asset_content_type: application/vnd.android.package-archive # required by GitHub API
+            #    max_releases: 1 # optional, if there are more releases than this matching the asset_name, the oldest ones are going to be deleted
