@@ -595,7 +595,7 @@
     <string name="usernamePromptTitle">是时候设置用户名了！</string>
     <string name="usernamePromptBody">现在用户名就是登录名，同时用户名还用于邀请、聊天版上@你，还有私信。</string>
     <string name="usernamePromptWiki">如果您想了解更多关于此变动的信息，<a href="https://habitica.wikia.com/wiki/Player_Names">请参阅Habitica Wiki。</a></string>
-    <string name="usernamePromptDisclaimer">用户名应该符合我们的<a href="https://habitica.com/static/terms">使用条款</a>以及<a href="https://habitica.com/static/community-guidelines">社区准则</a>。如果你从前没有设置登录名，会自动为你生成一个用户名。</string>
+    <string name="usernamePromptDisclaimer">用户名应该符合我们的<a href="https://habitica.prfn.xyz/static/terms">使用条款</a>以及<a href="https://habitica.prfn.xyz/static/community-guidelines">社区准则</a>。如果你从前没有设置登录名，会自动为你生成一个用户名。</string>
     <string name="confirm_username_title">你确定要用这个名字吗？</string>
     <string name="confirm_username_description">用户名一经确认就会显示在邀请，@提到你和私信中。你随时都可以在设置里修改用户名。</string>
     <string name="cancel">取消</string>
@@ -675,7 +675,7 @@
     <string name="purchase">购买</string>
     <string name="preference_push_party_mention">来自队伍的提醒</string>
     <string name="more_out_of_habitica">在Habitica中得到更多物品</string>
-    <string name="gift_gems_disclaimer">Habitica决不会要求你将宝石赠送给其他玩家。向别人讨要宝石是一种 违反社区准则的行为，所有这类情况应该报告给admin@habitica.com。</string>
+    <string name="gift_gems_disclaimer">Habitica决不会要求你将宝石赠送给其他玩家。向别人讨要宝石是一种 违反社区准则的行为，所有这类情况应该报告给admin@habitica.prfn.xyz。</string>
     <string name="gems_gift_description">想赠送闪闪发光的宝石给别人吗？</string>
     <string name="profile_gift_subscription">赠送
 \n订阅</string>
@@ -769,7 +769,7 @@
     <string name="mystery_sets">神秘套装</string>
     <string name="report_message_hint">举报理由</string>
     <string name="report_message_title">举报%s违反：</string>
-    <string name="report_explanation">你**只能**举报违反了【社会准则】（https://habitica.com/static/community-guidelines）和/或者【服务条款】（https://habitica.com/static/terms）的消息。不当的举报会让你违规。</string>
+    <string name="report_explanation">你**只能**举报违反了【社会准则】（https://habitica.prfn.xyz/static/community-guidelines）和/或者【服务条款】（https://habitica.prfn.xyz/static/terms）的消息。不当的举报会让你违规。</string>
     <string name="gems_to_gift">宝石送礼</string>
     <string name="preference_push_joined_guild_mention">来自你加入的公会的提醒</string>
     <string name="preference_push_unjoined_guild_mention">来自未加入的公会的提醒</string>
@@ -1053,7 +1053,7 @@
     <string name="fortify_shop">稳固药剂</string>
     <string name="invitation_title_no_leader">你被邀请加入一个队伍</string>
     <string name="you">你</string>
-    <string name="login_disclaimer">点击注册，即表示你已经阅读并同意<a href="https://habitica.com/static/terms">《使用条款》</a>和<a href="https://habitica.com/static/privacy">《隐私策略》。</a></string>
+    <string name="login_disclaimer">点击注册，即表示你已经阅读并同意<a href="https://habitica.prfn.xyz/static/terms">《使用条款》</a>和<a href="https://habitica.prfn.xyz/static/privacy">《隐私策略》。</a></string>
     <string name="finish">结束</string>
     <string name="user_is_blocked_explanation">被屏蔽的玩家无法向你发送私信，但你仍能看到他们的帖子</string>
     <string name="user_is_blocked">你已屏蔽该用户</string>
@@ -1354,11 +1354,11 @@
     </plurals>
     <string name="change_class_message">这将移除您当前的职业并退还所有属性点数，然后你可以选择一个新职业</string>
     <string name="reset_account_description_no_pw">你将会失去所有的等级、金币和经验。你设置的所有任务及其任务历史数据将会被删除（挑战任务除外）。你将失去除了订阅者物品和免费纪念物品外的所有装备，但你之后可以重新购买被删除的物品。重新购买职业专属装备需要对应的职业。你当前的职业、成就、宠物和坐骑将会保留。如果你已确定要重置数据，请在下方输入“RESET”。</string>
-    <string name="report_message_explanation">您只能举报违反[社区准则](https://habitica.com/static/community-guidelines)和/或[服务条款](https://habitica.com/static/terms)的帖子。提交虚假报告违反了 Habitica 社区准则。</string>
+    <string name="report_message_explanation">您只能举报违反[社区准则](https://habitica.prfn.xyz/static/community-guidelines)和/或[服务条款](https://habitica.prfn.xyz/static/terms)的帖子。提交虚假报告违反了 Habitica 社区准则。</string>
     <string name="todo_summary_description">这是一项没有截止日期的 **%1$s** 任务。</string>
     <string name="shadow_mute_user">禁言</string>
     <string name="plenty_of_potions_description">我们返场了 10 种最受社区欢迎的魔法孵化药水。前往 \"市场 \"来完善你的收藏吧！</string>
-    <string name="report_user_explanation">您只能举报违反[社区准则](https://habitica.com/static/community-guidelines)和/或[服务条款](https://habitica.com/static/terms)的玩家。提交虚假报告是违反 Habitica 社区准则的行为。</string>
+    <string name="report_user_explanation">您只能举报违反[社区准则](https://habitica.prfn.xyz/static/community-guidelines)和/或[服务条款](https://habitica.prfn.xyz/static/terms)的玩家。提交虚假报告是违反 Habitica 社区准则的行为。</string>
     <string name="message_flagged">信息已被举报 %d 次。</string>
     <string name="birthday_limitations">这是一个限时活动，从 %1$s 开始，到 %2$s 结束。在此期间可以购买限定版欢腾的狮鹫蛇和十种魔法孵化药水。“四件免费礼品”部分中列出的其他礼品将自动发送到礼品发送日前 30 天内活跃的所有帐户。礼品发送后创建的账户将无法领取礼品。</string>
     <string name="ban_user_confirm">你想要封禁此玩家吗？</string>

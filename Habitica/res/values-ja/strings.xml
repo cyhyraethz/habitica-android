@@ -594,7 +594,7 @@
     <string name="usernamePromptTitle">あなたのユーザー名を決める時間です！</string>
     <string name="usernamePromptBody">ログイン名は、現在は固有のユーザー名になりました。あなたの表示名の近くに表示されて、招待、チャットでの＠返信、メッセージのやりとりなどで使用されるでしょう。</string>
     <string name="usernamePromptWiki">もしこの変更についてより詳しく知りたいときは、<a href="https://habitica.wikia.com/wiki/Player_Names">wiki(英語)をご覧ください。</a></string>
-    <string name="usernamePromptDisclaimer">ユーザー名は、<a href="https://habitica.com/static/terms">サービス利用規約</a>と<a href="https://habitica.com/static/community-guidelines">コミュニティガイドライン</a>を守ったものでなければなりません。もしあなたがログイン名を設定していなかった場合、あなたのユーザー名は自動生成されたものになります。</string>
+    <string name="usernamePromptDisclaimer">ユーザー名は、<a href="https://habitica.prfn.xyz/static/terms">サービス利用規約</a>と<a href="https://habitica.prfn.xyz/static/community-guidelines">コミュニティガイドライン</a>を守ったものでなければなりません。もしあなたがログイン名を設定していなかった場合、あなたのユーザー名は自動生成されたものになります。</string>
     <string name="confirm_username_title">本当に現在のユーザー名を承認しますか？</string>
     <string name="confirm_username_description">承認されたユーザー名は招待や@メンション、メッセージなどで公開されます。ユーザー名はいつでも「設定」から変更可能です。</string>
     <string name="cancel">キャンセル</string>
@@ -710,7 +710,7 @@
     <string name="update_available">アップデートが利用可能です：%1$s (%2$d)</string>
     <string name="leave_guild">ギルドを脱退する</string>
     <string name="mystery_sets">ミステリーセット</string>
-    <string name="report_explanation">[コミュニティガイドライン](https://habitica.com/static/community-guidelines)もしくは[利用規約](https://habitica.com/static/terms)に違反した投稿**だけ**を報告してください。不適切な報告をした場合は、あなた自身が違反となる可能性があります。</string>
+    <string name="report_explanation">[コミュニティガイドライン](https://habitica.prfn.xyz/static/community-guidelines)もしくは[利用規約](https://habitica.prfn.xyz/static/terms)に違反した投稿**だけ**を報告してください。不適切な報告をした場合は、あなた自身が違反となる可能性があります。</string>
     <string name="years">年</string>
     <string name="garden">菜園の</string>
     <string name="join_guild">ギルドに参加する</string>
@@ -816,7 +816,7 @@
     <string name="from_balance">残高から</string>
     <string name="preference_push_party_mention">パーティーチャットでのあなたへの返信</string>
     <string name="more_out_of_habitica">Habiticaをさらに楽しみましょう</string>
-    <string name="gift_gems_disclaimer">Habiticaはプレイヤー間のジェムの贈答を強制しません。他のプレイヤーにジェムを要求することはコミュニティガイドラインに違反します。この行為を見かけた方はadmin@habitica.comまでご連絡ください。</string>
+    <string name="gift_gems_disclaimer">Habiticaはプレイヤー間のジェムの贈答を強制しません。他のプレイヤーにジェムを要求することはコミュニティガイドラインに違反します。この行為を見かけた方はadmin@habitica.prfn.xyzまでご連絡ください。</string>
     <string name="gems_gift_description">どなたかに輝くジェムを送りたいですか？</string>
     <string name="profile_gift_subscription">有料プランを
 \nプレゼントする</string>
@@ -1059,7 +1059,7 @@
     <string name="theme_color">テーマカラー</string>
     <string name="theme_mode">テーマモード</string>
     <string name="dark_mode">ダークモード</string>
-    <string name="login_disclaimer">サインアップすることで<a href="https://habitica.com/static/terms">利用規約</a>と<a href="https://habitica.com/static/privacy">プライバシーポリシー</a>の内容に同意したものとみなします</string>
+    <string name="login_disclaimer">サインアップすることで<a href="https://habitica.prfn.xyz/static/terms">利用規約</a>と<a href="https://habitica.prfn.xyz/static/privacy">プライバシーポリシー</a>の内容に同意したものとみなします</string>
     <string name="finish">終了</string>
     <string name="user_is_blocked_explanation">ブロックしたユーザーからはプライベートメッセージを受けとれません。しかし、そのプレイヤーの投稿は見ることができます</string>
     <string name="user_is_blocked">このユーザーをブロックしています</string>
@@ -1301,8 +1301,8 @@
     <string name="subscribe_listitemFaint">HP1で頑張る！</string>
     <string name="challenges">チャレンジ</string>
     <string name="subscribe_listitemFaint_description">HPが尽きた場合、もう一度挑戦するオプションがあります。</string>
-    <string name="report_message_explanation">[コミュニティガイドライン](https://habitica.com/static/community-guidelines)および/または[利用規約](https://habitica.com/static/terms)に違反する投稿のみを報告してください。虚偽の報告はHabiticaのコミュニティガイドラインに違反します。</string>
-    <string name="report_user_explanation">[コミュニティガイドライン](https://habitica.com/static/community-guidelines)および/または[利用規約](https://habitica.com/static/terms)に違反するプレイヤーのみを報告してください。虚偽の報告はHabiticaのコミュニティガイドラインに違反します。</string>
+    <string name="report_message_explanation">[コミュニティガイドライン](https://habitica.prfn.xyz/static/community-guidelines)および/または[利用規約](https://habitica.prfn.xyz/static/terms)に違反する投稿のみを報告してください。虚偽の報告はHabiticaのコミュニティガイドラインに違反します。</string>
+    <string name="report_user_explanation">[コミュニティガイドライン](https://habitica.prfn.xyz/static/community-guidelines)および/または[利用規約](https://habitica.prfn.xyz/static/terms)に違反するプレイヤーのみを報告してください。虚偽の報告はHabiticaのコミュニティガイドラインに違反します。</string>
     <string name="need_help_description">ご連絡いただければ、チームのメンバーが最善を尽くします！</string>
     <string name="status">ステータス</string>
     <string name="regular_access">通常アクセス</string>

@@ -593,7 +593,7 @@
     <string name="usernamePromptTitle">È giunta l\'ora di scegliere il tuo nome utente!</string>
     <string name="usernamePromptBody">I login sono nuovi, unici nomi utente, che appariranno accanto al tuo nome pubblico e che verranno usati per gli inviti, i @richiami nel chat, e i messaggi.</string>
     <string name="usernamePromptWiki">Per maggiori informazioni su questo cambiamento, <a href="https://habitica.wikia.com/wiki/Player_Names">visita la wiki.</a></string>
-    <string name="usernamePromptDisclaimer">I nomi utente devono rispettare i nostri <a href="https://habitica.com/static/terms">Termini di servizio</a> e le <a href="https://habitica.com/static/community-guidelines">Linee guida Comunitarie</a>. Se non hai ancora impostato il tuo login, il tuo nome utente è stato generato automaticamente.</string>
+    <string name="usernamePromptDisclaimer">I nomi utente devono rispettare i nostri <a href="https://habitica.prfn.xyz/static/terms">Termini di servizio</a> e le <a href="https://habitica.prfn.xyz/static/community-guidelines">Linee guida Comunitarie</a>. Se non hai ancora impostato il tuo login, il tuo nome utente è stato generato automaticamente.</string>
     <string name="confirm_username_title">Sei sicuro di voler confermare il tuo nome utente attuale?</string>
     <string name="confirm_username_description">Confermando il tuo nome utente, lo renderai pubblico per gli inviti, le @menzioni e i messaggi. Puoi cambiare il tuo nome utente andando nei parametri quando vuoi.</string>
     <string name="cancel">Annulla</string>
@@ -671,7 +671,7 @@
     <string name="mystery_sets">Set del Mistero</string>
     <string name="report_message_hint">Ragioni della segnalazione (facoltativo)</string>
     <string name="report_message_title">Segnala %s per violazione:</string>
-    <string name="report_explanation">Segnala **SOLO** i messaggi che violano le [Linee Guida della Community](https://habitica.com/static/community-guidelines) and/o i [Termini di Servizio](https://habitica.com/static/terms). Inappropriately reporting a post may give you an infraction. Se la segnalazione è inappropriata, potrai subire una sanzione.</string>
+    <string name="report_explanation">Segnala **SOLO** i messaggi che violano le [Linee Guida della Community](https://habitica.prfn.xyz/static/community-guidelines) and/o i [Termini di Servizio](https://habitica.prfn.xyz/static/terms). Inappropriately reporting a post may give you an infraction. Se la segnalazione è inappropriata, potrai subire una sanzione.</string>
     <string name="x_class">Classe %s</string>
     <string name="become_x">Sei diventato un %s</string>
     <string name="need_more_help">Hai bisogno di aiuto\?</string>
@@ -883,7 +883,7 @@
     <string name="purchase">Acquista</string>
     <string name="preference_push_party_mention">\@Menzioni nella Squadra</string>
     <string name="more_out_of_habitica">Ottieni di più da Habitica</string>
-    <string name="gift_gems_disclaimer">Habitica non ti chiederà mai di regalare gemme ad altri giocatori. Chiedere gemme è una violazione delle Norme della Community e deve essere segnalato a admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica non ti chiederà mai di regalare gemme ad altri giocatori. Chiedere gemme è una violazione delle Norme della Community e deve essere segnalato a admin@habitica.prfn.xyz.</string>
     <string name="gems_gift_description">Ti piacerebbe regalare un gruzzolo di Gemme brillanti e luccicose a qualcuno\?</string>
     <string name="profile_gift_subscription">Regala
 \nAbbonamento</string>
@@ -1070,7 +1070,7 @@
     <string name="fortify_shop">Pozione di Fortificazione</string>
     <string name="invitation_title_no_leader">Sei stato invitato in una Squadra</string>
     <string name="you">Tu</string>
-    <string name="login_disclaimer">Iscrivendoti, dichiari di aver letto e accettato i <a href="https://habitica.com/static/terms">Termini di servizio</a> e l\'<a href="https://habitica.com/static/privacy">Informativa sulla privacy. </a></string>
+    <string name="login_disclaimer">Iscrivendoti, dichiari di aver letto e accettato i <a href="https://habitica.prfn.xyz/static/terms">Termini di servizio</a> e l\'<a href="https://habitica.prfn.xyz/static/privacy">Informativa sulla privacy. </a></string>
     <string name="finish">Finito</string>
     <string name="submit_feedback">Invia Feedback</string>
     <string name="theme_color">Tema colorato</string>

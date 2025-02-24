@@ -587,7 +587,7 @@
     <string name="usernamePromptTitle">Время выбрать себе Имя пользователя!</string>
     <string name="usernamePromptBody">Имена для логина теперь являются уникальными Никами, которые будут отображаться рядом с вашим отображаемым именем и использоваться для приглашений, чата @упоминаний и обмена сообщениями.</string>
     <string name="usernamePromptWiki">Если хотите узнать более подробнее про изменения, то <a href="https://habitica.fandom.com/wiki/Player_Names">посетите вики.</a></string>
-    <string name="usernamePromptDisclaimer">Имя пользователя должно соответствовать нашим <a href="https://habitica.com/static/terms">Условиям обслуживания</a> и <a href="https://habitica.com/static/community-guidelines">Принципам сообщества</a>. Если вы ранее не выбирали имя для логина, то ваше имя было автоматически сгенерировано.</string>
+    <string name="usernamePromptDisclaimer">Имя пользователя должно соответствовать нашим <a href="https://habitica.prfn.xyz/static/terms">Условиям обслуживания</a> и <a href="https://habitica.prfn.xyz/static/community-guidelines">Принципам сообщества</a>. Если вы ранее не выбирали имя для логина, то ваше имя было автоматически сгенерировано.</string>
     <string name="confirm_username_title">Вы уверены, что хотите выбрать такое Имя пользователя?</string>
     <string name="confirm_username_description">Подтверждая свое Имя пользователя, дает возможность принимать приглашения, @упоминания и сообщения. Вы можете сменить свое Имя пользователя в любое время в настройках.</string>
     <string name="cancel">Отменить</string>
@@ -665,7 +665,7 @@
     <string name="copy_username">Скопировать имя пользователя</string>
     <string name="copy_userid">Скопировать ID пользователя</string>
     <string name="purchase">Купить</string>
-    <string name="gift_gems_disclaimer">Habitica никогда не требует от вас дарить самоцветы другим игрокам. Выпрашивание у игроков самоцветов является нарушением правил сообщества, и о всех подобных случаях следует сообщать на admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica никогда не требует от вас дарить самоцветы другим игрокам. Выпрашивание у игроков самоцветов является нарушением правил сообщества, и о всех подобных случаях следует сообщать на admin@habitica.prfn.xyz.</string>
     <string name="profile_gift_subscription">Подарить
 \nподписку</string>
     <string name="profile_gift_gems">Подарить
@@ -956,7 +956,7 @@
     <string name="fortify_shop">Эликсир укрепления</string>
     <string name="invitation_title_no_leader">Вас пригласили в команду</string>
     <string name="you">Вы</string>
-    <string name="login_disclaimer">Регистрируясь, вы подтверждаете, что прочитали и согласны с <a href="https://habitica.com/static/terms">Условиями предоставления услуг</a> and <a href="https://habitica.com/static/privacy">Политикой конфиденциальности.</a></string>
+    <string name="login_disclaimer">Регистрируясь, вы подтверждаете, что прочитали и согласны с <a href="https://habitica.prfn.xyz/static/terms">Условиями предоставления услуг</a> and <a href="https://habitica.prfn.xyz/static/privacy">Политикой конфиденциальности.</a></string>
     <string name="finish">Завершить</string>
     <string name="user_is_blocked_explanation">Заблокированный игрок не может отправлять вам личные сообщение, но вы все еще будете видеть его посты</string>
     <string name="user_is_blocked">Вы заблокировали этого игрока</string>
@@ -1088,7 +1088,7 @@
     <string name="setup_task_habit_2">Кликните, чтобы сделать это плохой привычкой, от которой Вам бы хотелось отказаться</string>
     <string name="leave_guild_challenges_confirmation">Вы хотите продолжить участвовать в испытании, покинув команду\?</string>
     <string name="leave_guild_confirmation">Вы уверены, что хотите покинуть команду\?</string>
-    <string name="report_explanation">Жалуйтесь ** только ** на те публикации, которые нарушают [Принципы сообщества] (https://habitica.com/static/community-guidelines) и / или [Условия предоставления услуг] (https://habitica.com/static/terms ). Ложное сообщение о нарушении может привести к наказанию.</string>
+    <string name="report_explanation">Жалуйтесь ** только ** на те публикации, которые нарушают [Принципы сообщества] (https://habitica.prfn.xyz/static/community-guidelines) и / или [Условия предоставления услуг] (https://habitica.prfn.xyz/static/terms ). Ложное сообщение о нарушении может привести к наказанию.</string>
     <string name="gift_gems_subtitle">Выберите ниже набор самоцветов, который хотите подарить!</string>
     <string name="available_for">Доступно для %s</string>
     <string name="reloaded_content">Содержимое обновлено</string>
@@ -1284,7 +1284,7 @@
     <string name="task_summary">Краткое описание задачи</string>
     <string name="subscribers_mythic_hourglasses"><i>Подписчики получают мистические песочные часы в течение первых трех дней месяца.</i></string>
     <string name="x_and_y">%1$s и %2$s</string>
-    <string name="report_user_explanation">Вы должны сообщать только об игроке, который нарушает [Правила сообщества](https://habitica.com/static/community-guidelines) и/или [Условия предоставления услуг](https://habitica.com/static/terms). Отправка ложного сообщения является нарушением Правил сообщества Habitica.</string>
+    <string name="report_user_explanation">Вы должны сообщать только об игроке, который нарушает [Правила сообщества](https://habitica.prfn.xyz/static/community-guidelines) и/или [Условия предоставления услуг](https://habitica.prfn.xyz/static/terms). Отправка ложного сообщения является нарушением Правил сообщества Habitica.</string>
     <string name="report_player">Пожаловаться на игрока</string>
     <string name="report_hint">Причина жалобы</string>
     <string name="paypal">PayPal</string>
@@ -1327,9 +1327,9 @@
     <string name="see_more">Увидеть больше</string>
     <string name="reset_account_description_new">Вы потеряете все свои уровни, золото и опыт. Все ваши задания и их исторические данные будут удалены (сложные задания останутся). Вы потеряете все снаряжение, за исключением предметов для подписчиков и бесплатных памятных предметов, но вы сможете выкупить его обратно. Вам нужно будет принадлежать к нужному классу, чтобы повторно приобрести снаряжение, соответствующее классу. Вы сохраните свой текущий класс, достижения, а также своих питомцев и ездовых животных. Чтобы подтвердить сброс, введите свой пароль ниже.</string>
     <string name="reset_account_description_no_pw">Вы потеряете все свои уровни, золото и опыт. Все ваши задания и их исторические данные будут удалены (сложные задания останутся). Вы потеряете все снаряжение, за исключением предметов для подписчиков и бесплатных памятных предметов, но вы сможете выкупить его обратно. Вам нужно будет принадлежать к нужному классу, чтобы повторно приобрести снаряжение, соответствующее классу. Вы сохраните свой текущий класс, достижения, а также своих питомцев и ездовых животных. Чтобы подтвердить сброс, введите СБРОС ниже.</string>
-    <string name="report_message_explanation">Вы должны сообщать только о публикации, нарушающей [Правила сообщества](https://habitica.com/static/community-guidelines) и/или [Условия предоставления услуг](https://habitica.com/static/terms). Отправка ложного сообщения является нарушением Правил сообщества Habitica.</string>
+    <string name="report_message_explanation">Вы должны сообщать только о публикации, нарушающей [Правила сообщества](https://habitica.prfn.xyz/static/community-guidelines) и/или [Условия предоставления услуг](https://habitica.prfn.xyz/static/terms). Отправка ложного сообщения является нарушением Правил сообщества Habitica.</string>
     <string name="invited_to_guild_notification">&lt;font color=#925CF3&gt;%2$s&lt;/font&gt; пригласил(а) вас вступить в группу &lt;b&gt;%1$s&lt;/b&gt;</string>
-    <string name="report_challenge_explanation">Вы должны сообщать только о тех проблемах, которые нарушают [Правила сообщества](https://habitica.com/static/community-guidelines) и/или [Условия предоставления услуг](https://habitica.com/static/terms). Подача ложного сообщения является нарушением Правил сообщества Habitica.</string>
+    <string name="report_challenge_explanation">Вы должны сообщать только о тех проблемах, которые нарушают [Правила сообщества](https://habitica.prfn.xyz/static/community-guidelines) и/или [Условия предоставления услуг](https://habitica.prfn.xyz/static/terms). Подача ложного сообщения является нарушением Правил сообщества Habitica.</string>
     <string name="report_successful">%s жалоба отправлена</string>
     <string name="unmute_user_confirm">Хотите разрешить этому пользователю использовать чат\?</string>
     <string name="assigned_to">Назначен на</string>

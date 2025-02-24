@@ -839,7 +839,7 @@
     <string name="cancel_subscription_group_plan">Je hebt een gratis abonnement omdat je lid bent van een partij of gilde met een groepsplan. Dit eindigt als u vertrekt of als het groepsplan door de eigenaar wordt opgezegd. Alle maanden extra abonnementskrediet die u heeft, worden aan het einde van het groepsplan toegepast.</string>
     <string name="gifted">Gekregen</string>
     <string name="resubscribe_description">Wilt u uw voordelen voortzetten\? U kunt een nieuw abonnement starten voordat dit op is om uw voordelen actief te houden.</string>
-    <string name="gift_gems_disclaimer">Habitica vereist nooit dat je edelstenen schenkt aan andere spelers. Mensen die smeken om edelstenen schenden de communityrichtlijnen en moet worden gemeld aan admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica vereist nooit dat je edelstenen schenkt aan andere spelers. Mensen die smeken om edelstenen schenden de communityrichtlijnen en moet worden gemeld aan admin@habitica.prfn.xyz.</string>
     <string name="promo_subscription_buy_gems_description">Word abonnee om edelstenen met goud te kopen, ontvang maandelijkse mysterie-voorwerpen, verhoogde vondstenlimieten en meer!</string>
     <string name="levelup_detail_10">Kies een klasse die bij je speelstijl past en ontgrendel speciale vaardigheden en bepantsering om je op je reis te helpen</string>
     <string name="leave_guild_confirmation">Wil je het gilde verlaten en de uitdagingen behouden of verlaten\?</string>
@@ -853,7 +853,7 @@
     <string name="mystery_sets">Mysteriesets</string>
     <string name="report_message_hint">Reden voor melding (optioneel)</string>
     <string name="report_message_title">%s melden wegens overtreding:</string>
-    <string name="report_explanation">Meld **alleen** een bericht dat de [Communityrichtlijnen](https://habitica.com/static/community-guidelines) en/of [Servicevoorwaarden](https://habitica.com/static/terms) schendt. Het ongepast melden van een bericht kan een overtreding opleveren.</string>
+    <string name="report_explanation">Meld **alleen** een bericht dat de [Communityrichtlijnen](https://habitica.prfn.xyz/static/community-guidelines) en/of [Servicevoorwaarden](https://habitica.prfn.xyz/static/terms) schendt. Het ongepast melden van een bericht kan een overtreding opleveren.</string>
     <string name="gift_confirmation_text_sub_g1g1">Je hebt %1$s een %2$s-maand Habitica-abonnement gestuurd en hetzelfde abonnement is toegepast op je account voor onze Gift One Get One-promotie!</string>
     <string name="gift_gems_subtitle">Kies hieronder het edelsteenpakket dat je cadeau wilt doen!</string>
     <string name="gift_subscription_subtitle">Kies hieronder het abonnement dat u wilt schenken! Deze aankoop wordt niet automatisch verlengd.</string>
@@ -863,7 +863,7 @@
     <string name="welcomeNameTitle">Hoe moeten we je noemen\?</string>
     <string name="verification_pet">Een van deze Veteraan Huisdieren wacht op je nadat je klaar bent met bevestigen!</string>
     <string name="confirm_username_description">Als u uw gebruikersnaam bevestigt, wordt deze openbaar voor uitnodigingen, @vermeldingen en berichten. U kunt uw gebruikersnaam op elk moment wijzigen vanuit de instellingen.</string>
-    <string name="usernamePromptDisclaimer">Gebruikersnamen moeten voldoen aan onze <a href="https://habitica.com/static/terms">Servicevoorwaarden</a> en <a href="https://habitica.com/static/community-guidelines">Community Richtlijnen</a>. Als u niet eerder een inlognaam heeft ingesteld, is uw gebruikersnaam automatisch gegenereerd.</string>
+    <string name="usernamePromptDisclaimer">Gebruikersnamen moeten voldoen aan onze <a href="https://habitica.prfn.xyz/static/terms">Servicevoorwaarden</a> en <a href="https://habitica.prfn.xyz/static/community-guidelines">Community Richtlijnen</a>. Als u niet eerder een inlognaam heeft ingesteld, is uw gebruikersnaam automatisch gegenereerd.</string>
     <string name="usernamePromptBody">Inlognamen zijn nu unieke gebruikersnamen die zichtbaar zijn naast uw weergavenaam en worden gebruikt voor uitnodigingen, chatvermeldingen en berichten.</string>
     <string name="daily_tip_9">Als je het moeilijk hebt, probeer dan je taken in kleinere delen op te splitsen.</string>
     <string name="daily_tip_8">Je kunt de moeilijkheidsgraad van je taak veranderen om jezelf meer te belonen voor zware taken!</string>

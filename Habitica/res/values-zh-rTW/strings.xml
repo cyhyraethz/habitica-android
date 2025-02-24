@@ -598,7 +598,7 @@
     <string name="usernamePromptTitle">是時候設置用戶名了！</string>
     <string name="usernamePromptBody">現在用戶名就是登錄名，同時用戶名還用於邀請、聊天版上@你，還有私信。</string>
     <string name="usernamePromptWiki">如果你想了解更多關於此變動的信息，<a href="https://habitica.fandom.com/zh/wiki/%E7%8E%A9%E5%AE%B6%E5%90%8D">請看habitica中文wiki。 </a></string>
-    <string name="usernamePromptDisclaimer">用戶名應該符合我們的<a href="https://habitica.com/static/terms">使用條款</a>以及<a href="https://habitica.com/static/community-guidelines">社區準則</a>。如果你從前沒有設置登錄名，會自動為你生成一個用戶名。</string>
+    <string name="usernamePromptDisclaimer">用戶名應該符合我們的<a href="https://habitica.prfn.xyz/static/terms">使用條款</a>以及<a href="https://habitica.prfn.xyz/static/community-guidelines">社區準則</a>。如果你從前沒有設置登錄名，會自動為你生成一個用戶名。</string>
     <string name="confirm_username_title">你確定要用這個名字嗎？</string>
     <string name="confirm_username_description">用戶名一經確認就會顯示在邀請，@提到你和私信中。你隨時都可以在設定裏修改用戶名。</string>
     <string name="cancel">取消</string>
@@ -788,7 +788,7 @@
     <string name="profile_gift_subscription">贈送
 \n訂閱</string>
     <string name="gems_gift_description">是否想送閃閃發光的寶石給別人？</string>
-    <string name="gift_gems_disclaimer">Habitica決不會要求你將寶石贈送給其他玩家。向別人討要寶石是一種 違反社區指南的行為，所有這類情況應該報告給admin@habitica.com。</string>
+    <string name="gift_gems_disclaimer">Habitica決不會要求你將寶石贈送給其他玩家。向別人討要寶石是一種 違反社區指南的行為，所有這類情況應該報告給admin@habitica.prfn.xyz。</string>
     <string name="more_out_of_habitica">從Habitica中得到更多</string>
     <string name="preference_push_party_mention">來自隊伍的提醒</string>
     <string name="purchase">購買</string>
@@ -839,7 +839,7 @@
     <string name="mystery_sets">神秘套裝</string>
     <string name="report_message_hint">報告原因（可選）</string>
     <string name="report_message_title">舉報%s違反：</string>
-    <string name="report_explanation">你**只能**舉報違反了【社會準則】（https://habitica.com/static/community-guidelines）和/或者【服務條款】（https://habitica.com/static/terms）的消息。不當的舉報會讓你違規。</string>
+    <string name="report_explanation">你**只能**舉報違反了【社會準則】（https://habitica.prfn.xyz/static/community-guidelines）和/或者【服務條款】（https://habitica.prfn.xyz/static/terms）的消息。不當的舉報會讓你違規。</string>
     <string name="x_class">%s職業</string>
     <string name="become_x">成為%s</string>
     <string name="need_more_help">需要其他幫助？</string>
@@ -1083,7 +1083,7 @@
     <string name="claim_x_gems">要求 %d 的寶石</string>
     <string name="gift_one_get_one_purchase_banner">贈送一份訂閱即可免費獲得一份訂閱將到 %s</string>
     <string name="g1g1_promo_info_instructions">點選‘贈送訂閱’ 和填入您將贈送給予的帳號之使用者名稱。從那您將選取贈送訂閱的長度並且完成結帳。您的帳號將會自動獲得同贈送等級的訂閱為獎勵。</string>
-    <string name="login_disclaimer">透過註冊程序，您表示您已詳讀及同意其 <a href="https://habitica.com/static/terms">服務條款</a>和<a href="https://habitica.com/static/privacy">隱私權政策。</a></string>
+    <string name="login_disclaimer">透過註冊程序，您表示您已詳讀及同意其 <a href="https://habitica.prfn.xyz/static/terms">服務條款</a>和<a href="https://habitica.prfn.xyz/static/privacy">隱私權政策。</a></string>
     <string name="invitation_title_no_leader">您被邀請加入至一個隊伍</string>
     <string name="g1g1_promo_info_prompt">為了紀念這個隆重的聖誕佳節我們再次推出一個極特別的促銷。現在當您贈予給他人一份訂閱時，您也會得到一份免費相同的訂閱！</string>
     <string name="one_month_one_time">一次一個月的訂閱</string>

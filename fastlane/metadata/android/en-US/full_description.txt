@@ -34,5 +34,5 @@ Wear OS features:
 
 Run by a small team, Habitica is an open-source app made better by contributors who create translations, bug fixes, and more. If you’d like to contribute, you can check out our GitHub or reach out for more information!
 We highly value community, privacy, and transparency. Rest assured, your tasks remain private and we never sell your personal data to third parties.
-Questions or feedback? Feel free to reach us at admin@habitica.com! If you’re enjoying Habitica, we’d be thrilled if you leave us a review.
+Questions or feedback? Feel free to reach us at admin@habitica.prfn.xyz! If you’re enjoying Habitica, we’d be thrilled if you leave us a review.
 Start your journey towards productivity, download Habitica now!

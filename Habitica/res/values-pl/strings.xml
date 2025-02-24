@@ -593,7 +593,7 @@
     <string name="authentication_error_body">Niepoprawna nazwa użytkownika i/lub hasło.</string>
     <string name="network_error_no_network_body">Nie masz połączenia z internetem.</string>
     <string name="confirm_username_title">Czy na pewno chcesz potwierdzić swoją aktualną nazwę użytkownika\?</string>
-    <string name="usernamePromptDisclaimer">Nazwy użytkowników muszą spełniać wymagania określone w <a href="https://habitica.com/static/terms">Warunkach korzystania z Usług</a> oraz <a href="https://habitica.com/static/community-guidelines">Wytyczne Wspólnoty</a>. Jeśli wcześniej nie ustawiono nazwy logowania, to nazwa użytkownika zostanie wygenerowana automatycznie.</string>
+    <string name="usernamePromptDisclaimer">Nazwy użytkowników muszą spełniać wymagania określone w <a href="https://habitica.prfn.xyz/static/terms">Warunkach korzystania z Usług</a> oraz <a href="https://habitica.prfn.xyz/static/community-guidelines">Wytyczne Wspólnoty</a>. Jeśli wcześniej nie ustawiono nazwy logowania, to nazwa użytkownika zostanie wygenerowana automatycznie.</string>
     <string name="usernamePromptWiki">Jeśli chcesz się dowiedzieć więcej o tej zmianie, <a href="https://habitica.fandom.com/wiki/Player_Names">odwiedź naszą Wiki.</a></string>
     <string name="user_level_with_class_unabbreviated">Poziom %1$d %2$s</string>
     <string name="ago_1week">tydzień temu</string>
@@ -714,7 +714,7 @@
     <string name="mystery_sets">Tajemnicze zestawy</string>
     <string name="report_message_hint">Przyczyna zgłoszenia (opcjonalnie)</string>
     <string name="report_message_title">Zgłoś %s za naruszenie:</string>
-    <string name="report_explanation">Zgłaszaj **wyłącznie** post który narusza [Standardy Społeczności](https://habitica.com/static/community-guidelines) i/lub [Warunki usługi](https://habitica.com/static/terms). Niewłaściwe zgłoszenie postu może przynieść Ci naganę.</string>
+    <string name="report_explanation">Zgłaszaj **wyłącznie** post który narusza [Standardy Społeczności](https://habitica.prfn.xyz/static/community-guidelines) i/lub [Warunki usługi](https://habitica.prfn.xyz/static/terms). Niewłaściwe zgłoszenie postu może przynieść Ci naganę.</string>
     <string name="defeat">Porażka</string>
     <string name="damage_paused">Uszkodzenia wstrzymane</string>
     <string name="gift_one_get_one_detailed_description">Gdy ta promocja jest aktywna, otrzymasz pasującą subskrypcję automatycznie po wysłaniu podarunku.</string>
@@ -872,7 +872,7 @@
     <string name="using_habitica">Korzystanie z Habitica</string>
     <string name="using_habitica_description">Spróbujemy tutaj wyjaśnić podstawy i odpowiedzieć na najczęściej zadawane pytania, aby pomóc Ci wdrożyć się w system</string>
     <string name="triadBingoDescription">Odblokowano osiągnięcie: \"Potrójne bingo\" za zebranie wszystkich chowańców, oswojenie wszystkich wierzchowców, i ponowne zebranie wszystkich chowańców!</string>
-    <string name="gift_gems_disclaimer">Habitica nigdy nie będzie od Ciebie wymagać przekazania innym graczom Klejnotów. Proszenie ludzi o Klejnoty jest sprzeczne z naszym Regulaminem Społeczności i powinno zostać zgłoszone e-mailem na adres admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica nigdy nie będzie od Ciebie wymagać przekazania innym graczom Klejnotów. Proszenie ludzi o Klejnoty jest sprzeczne z naszym Regulaminem Społeczności i powinno zostać zgłoszone e-mailem na adres admin@habitica.prfn.xyz.</string>
     <string name="subscribers_mythic_hourglasses"><i>Subskrybenci otrzymują Mistyczną Klepsydrę w pierwszych trzech dniach miesiąca.</i></string>
     <string name="member_group_plan">Członek Planu Grupowego</string>
     <string name="g1g1_info_3_text">Aby skorzystać z promocji, należy podarować Subskrybcję innemu użytkownikowi Habitica. Jeśli Ty lub osoba otrzymująca Twój prezent już posiada Subskrybcję, miesiące z tego zakupu zostaną wykorzystane dopiero po zakończeniu lub zrezygnowaniu z bieżącej Subskrybcji.</string>
@@ -1104,7 +1104,7 @@
     <string name="disablePrivateMessages">Wyłącz prywatne wiadomości</string>
     <string name="block_user_description">Zablokowany użytkownik nie może napisać do Ciebie w wiadomości prywatnej, ale nadal będziesz widzieć jego posty.</string>
     <string name="block">Zablokuj</string>
-    <string name="login_disclaimer">Rejestrując się, oświadczasz, że zapoznałeś(-aś) i zgadzasz się na <a href="https://habitica.com/static/terms">Warunki korzystania z Usług</a> i naszą<a href="https://habitica.com/static/privacy">Politykę Prywatności.</a></string>
+    <string name="login_disclaimer">Rejestrując się, oświadczasz, że zapoznałeś(-aś) i zgadzasz się na <a href="https://habitica.prfn.xyz/static/terms">Warunki korzystania z Usług</a> i naszą<a href="https://habitica.prfn.xyz/static/privacy">Politykę Prywatności.</a></string>
     <string name="you">Ty</string>
     <string name="invitation_title_no_leader">Zaproszono Cię do drużyny</string>
     <string name="fortify_shop">Mikstura Wzmocnienia</string>

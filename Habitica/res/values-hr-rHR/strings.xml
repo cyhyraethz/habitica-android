@@ -585,7 +585,7 @@
     <string name="usernamePromptTitle">Vrijeme je za postaviti tvoje korisničko ime!</string>
     <string name="usernamePromptBody">Imena za prijavljivanje su sada jedinstvena korisnička imena koja će biti vidljiva pokraj tvog imena za prikazivanje i koja će biti korištena u pozivnicama, @spomenima u chatu i porukama.</string>
     <string name="usernamePromptWiki">Ako želiš naučiti više o ovoj promjeni, <a href="https://habitica.wikia.com/wiki/Player_Names">posjeti našu wiki stranicu.</a></string>
-    <string name="usernamePromptDisclaimer">Korisnička imena se trebaju pridržavati naših <a href="https://habitica.com/static/terms">Uvjeta pružanja usluga</a> i <a href="https://habitica.com/static/community-guidelines">Smjernica za zajednicu</a>. Ako prethodno nisi postavio/la svoje korisničko ime, ono je automatski generirano.</string>
+    <string name="usernamePromptDisclaimer">Korisnička imena se trebaju pridržavati naših <a href="https://habitica.prfn.xyz/static/terms">Uvjeta pružanja usluga</a> i <a href="https://habitica.prfn.xyz/static/community-guidelines">Smjernica za zajednicu</a>. Ako prethodno nisi postavio/la svoje korisničko ime, ono je automatski generirano.</string>
     <string name="confirm_username_title">Jesi li siguran/na da želiš potvrditi svoje trenutno korisničko ime?</string>
     <string name="confirm_username_description">Potvrđivanje tvog korisničkog imena će ga učiniti javnim za pozivnice, @spomene i poruke. Možeš promijeniti svoje korisničko ime u postavkama bilo kada.</string>
     <string name="cancel">Otkaži</string>
@@ -729,7 +729,7 @@
     <string name="update_available">Dostupno ažuriranje: %1$s (%2$d)</string>
     <string name="need_help_header_description">Objavi poruku u %s da drugi/e igrači/ce mogu odgovoriti na tvoja pitanja.</string>
     <string name="need_more_help">Trebaš još pomoći\?</string>
-    <string name="report_explanation">**Samo** prijavi objave koje krše [Smjernice zajednice] (https://habitica.com/static/community-guidelines) i/ili [Pravila o korištenju] (https://habitica.com/static/terms). Neprikladne prijave objava ti mogu dati prekršaj.</string>
+    <string name="report_explanation">**Samo** prijavi objave koje krše [Smjernice zajednice] (https://habitica.prfn.xyz/static/community-guidelines) i/ili [Pravila o korištenju] (https://habitica.prfn.xyz/static/terms). Neprikladne prijave objava ti mogu dati prekršaj.</string>
     <string name="special_items">Posebni predmeti</string>
     <string name="party_challenges">Sudjeluješ u Izazovu Družine</string>
     <string name="reset_counter">Resetiraj brojač</string>
@@ -851,7 +851,7 @@
     <string name="reject">Odbij</string>
     <string name="see_other_options">Pogledaj Ostale Opcije</string>
     <string name="gems_gift_description">Želiš li darovati sjajnu lovinu Dragulja nekom drugom\?</string>
-    <string name="gift_gems_disclaimer">Habitica nikad neće insistirati da pokloniš dragulje drugim igračima. Molenje ljudi za dragulje je prekršaj Smjernica zajednice i treba biti prijavljeno na admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica nikad neće insistirati da pokloniš dragulje drugim igračima. Molenje ljudi za dragulje je prekršaj Smjernica zajednice i treba biti prijavljeno na admin@habitica.prfn.xyz.</string>
     <string name="joinedChallengeDescription">Testirao/la si se pridružujući se Izazovu!</string>
     <string name="profile_send_message">Pošalji
 \nPoruku</string>
@@ -1033,7 +1033,7 @@
     <string name="block">Blokiraj</string>
     <string name="something_new">Novo</string>
     <string name="leave_delete_task">Napusti i Izbriši Zadatak</string>
-    <string name="login_disclaimer">Prijavljivanjem, ukazuješ da si pročitao/la i slažeš se s <a href="https://habitica.com/static/terms">Uvjetima pružanja usluge</a> i <a href="https://habitica.com/static/privacy">Pravilima o privatnosti.</a></string>
+    <string name="login_disclaimer">Prijavljivanjem, ukazuješ da si pročitao/la i slažeš se s <a href="https://habitica.prfn.xyz/static/terms">Uvjetima pružanja usluge</a> i <a href="https://habitica.prfn.xyz/static/privacy">Pravilima o privatnosti.</a></string>
     <string name="leave_delete_x_tasks">Napusti i Izbriši %d Zadataka</string>
     <string name="empty_discover_description">Kreni do Otkrij kartice da pronađeš neke kojima se možeš pridružiti!</string>
     <string name="six_months_one_time">Jednokratna pretplata od 6 mjeseci</string>

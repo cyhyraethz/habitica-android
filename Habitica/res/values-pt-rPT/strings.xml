@@ -375,7 +375,7 @@
     <string name="seasonal_achievements">Conquistas Sazonais</string>
     <string name="basic_achievements">Conquistas Básicas</string>
     <string name="sidebar_achievements">Conquistas</string>
-    <string name="usernamePromptDisclaimer">Os nomes de utilizadores devem estar de acordo com os nossos <a href="https://habitica.com/static/terms">Termos de Serviço</a> e <a href="https://habitica.com/static/community-guidelines">Directrizes da Comunidade</a>. Se não definiste anteriormente um nome de início de sessão, o teu nome de utilizador foi gerado automaticamente.</string>
+    <string name="usernamePromptDisclaimer">Os nomes de utilizadores devem estar de acordo com os nossos <a href="https://habitica.prfn.xyz/static/terms">Termos de Serviço</a> e <a href="https://habitica.prfn.xyz/static/community-guidelines">Directrizes da Comunidade</a>. Se não definiste anteriormente um nome de início de sessão, o teu nome de utilizador foi gerado automaticamente.</string>
     <string name="usernamePromptWiki">Se quiseres saber mais sobre esta mudança, <a href="https://habitica.fandom.com/wiki/Player_Names">visita a nossa wiki.</a></string>
     <string name="not_participating">Você não está a participar</string>
     <string name="purchase_from_timetravel_shop">Podes comprar essa customização da loja dos Viajantes do Tempo</string>

@@ -594,7 +594,7 @@
     <string name="usernamePromptTitle">¡Hora de establecer tu nombre de usuario!</string>
     <string name="usernamePromptBody">Los nombre de inicio de sesión ahora son nombres de usuario únicos, que se mostrarán al lado de tu nombre público y se usará para invitaciones, @menciones en los chats, y mensajes. </string>
     <string name="usernamePromptWiki">Si quieres saber más de este cambio, <a href="https://habitica.wikia.com/wiki/Player_Names">visita nuestra wiki.</a></string>
-    <string name="usernamePromptDisclaimer">Los nombres de usuario deben ajustarse a nuestros <a href="https://habitica.com/static/terms">Términos de Servicio</a> y <a href="https://habitica.com/static/community-guidelines">Normas de Comunidad</a>. Si no habías establecido previamente un nombre de inicio de sesión, tu nombre de usuario ha sido autogenerado.</string>
+    <string name="usernamePromptDisclaimer">Los nombres de usuario deben ajustarse a nuestros <a href="https://habitica.prfn.xyz/static/terms">Términos de Servicio</a> y <a href="https://habitica.prfn.xyz/static/community-guidelines">Normas de Comunidad</a>. Si no habías establecido previamente un nombre de inicio de sesión, tu nombre de usuario ha sido autogenerado.</string>
     <string name="confirm_username_title">¿Estás seguro de que quieres confirmar tu nombre de usuario actual?</string>
     <string name="confirm_username_description">Confirmar tu nombre de usuario lo hará público para invitations, @menciones y mensajes. Puedes cambiar tu nombre de usuario en los ajustes en cualquier momento.</string>
     <string name="cancel">Cancelar</string>
@@ -827,7 +827,7 @@
     <string name="report_message_title">Reportar a %s por violación:</string>
     <string name="need_help_header_description">Publica un mensaje en el %s para que tus preguntas sean respondidas por otros jugadores.</string>
     <string name="assigned_stat">Atributo Asignado</string>
-    <string name="report_explanation">**Únicamente** reporta una publicación que viole las [Normas de la comunidad](https://habitica.com/static/community-guidelines) y/o los [Términos de servicio](https://habitica.com/static/terms). Reportar inadecuadamente una publicación puede conllevarte una infracción.</string>
+    <string name="report_explanation">**Únicamente** reporta una publicación que viole las [Normas de la comunidad](https://habitica.prfn.xyz/static/community-guidelines) y/o los [Términos de servicio](https://habitica.prfn.xyz/static/terms). Reportar inadecuadamente una publicación puede conllevarte una infracción.</string>
     <string name="report_message_hint">Motivo de la denuncia (opcional)</string>
     <string name="checklist_text">Texto de la lista</string>
     <string name="preference_push_party_activity">Actividad del equipo</string>
@@ -896,7 +896,7 @@
     <string name="renew_subscription">Renovar Suscripción</string>
     <string name="not_recurring">No Recurrente</string>
     <string name="password_too_short">Tu contraseña tiene que tener por lo menos %d caracteres de largo</string>
-    <string name="gift_gems_disclaimer">Habitica nunca requerirá que regales gemas a otros jugadores. Pedir gemas a otras personas es una violación a las Normas de la Comunidad y debe ser reportado a admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica nunca requerirá que regales gemas a otros jugadores. Pedir gemas a otras personas es una violación a las Normas de la Comunidad y debe ser reportado a admin@habitica.prfn.xyz.</string>
     <string name="sale">Venta</string>
     <string name="event">Evento</string>
     <string name="member_group_plan">Miembro de un Plan de Grupo</string>
@@ -1114,7 +1114,7 @@
     <string name="survey_title">Formulario para usuarios de Habitica</string>
     <string name="create_task_description">Añade una tarea de algo que te gustaría conseguir hacer esta semana</string>
     <string name="fedPetDescription">Cada mascota tiene una comida favorita específica. ¡Experimenta para descubrir cuál es la que hace crecer más rápido a tu mascota!</string>
-    <string name="login_disclaimer">Al registrarte, estás confirmando que has leído y estás de acuerdo con las <a href="https://habitica.com/static/terms">términos de servicio</a> y la <a href="https://habitica.com/static/privacy">política de privacidad.</a></string>
+    <string name="login_disclaimer">Al registrarte, estás confirmando que has leído y estás de acuerdo con las <a href="https://habitica.prfn.xyz/static/terms">términos de servicio</a> y la <a href="https://habitica.prfn.xyz/static/privacy">política de privacidad.</a></string>
     <string name="empty_discover_description">¡Dirígete al submenú \"Gremios &gt; Descubre Gremios\" para encontrar uno del que formar parte!</string>
     <string name="x_remaining">%s restante</string>
     <string name="discard_changes_to_task_message">¿Está seguro de descartar los cambios de esta tarea\?</string>

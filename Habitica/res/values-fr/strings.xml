@@ -596,7 +596,7 @@
     <string name="usernamePromptTitle">Il est temps de choisir votre identifiant !</string>
     <string name="usernamePromptBody">Les identifiants sont maintenant uniques. Ils seront visibles sous votre pseudo, et seront utilisés pour les invitations, les @mentions et les discussions.</string>
     <string name="usernamePromptWiki">Si vous souhaitez en savoir plus sur ce changement, <a href="https://habitica.wikia.com/wiki/Player_Names">visitez notre wiki.</a></string>
-    <string name="usernamePromptDisclaimer">Les identifiants doivent respecter nos <a href="https://habitica.com/static/terms">Conditions d\'Utilisation</a> et nos <a href="https://habitica.com/static/community-guidelines">règles de vie en communauté</a>. Si vous n\'avez pas choisi un pseudo précédemment, votre identifiant a été généré automatiquement.</string>
+    <string name="usernamePromptDisclaimer">Les identifiants doivent respecter nos <a href="https://habitica.prfn.xyz/static/terms">Conditions d\'Utilisation</a> et nos <a href="https://habitica.prfn.xyz/static/community-guidelines">règles de vie en communauté</a>. Si vous n\'avez pas choisi un pseudo précédemment, votre identifiant a été généré automatiquement.</string>
     <string name="confirm_username_title">Êtes-vous sûr(e) de vouloir confirmer votre identifiant actuel \?</string>
     <string name="confirm_username_description">Confirmer votre identifiant le rendra public pour les invitations, les @mentions et les messages. Vous pouvez le changer depuis les paramètres à n\'importe quel moment.</string>
     <string name="cancel">Annuler</string>
@@ -741,7 +741,7 @@
     <string name="mystery_sets">Ensembles mystère</string>
     <string name="report_message_hint">Motif du signalement (optionnel)</string>
     <string name="report_message_title">Signaler %s pour violation :</string>
-    <string name="report_explanation">Ne signalez **que** les messages qui enfreignent les [règles de vie en communauté](https://habitica.com/static/community-guidelines) et/ou les [conditions de service](https://habitica.com/static/terms). Signaler des messages de façon inadéquate pourrait vous valoir une infraction.</string>
+    <string name="report_explanation">Ne signalez **que** les messages qui enfreignent les [règles de vie en communauté](https://habitica.prfn.xyz/static/community-guidelines) et/ou les [conditions de service](https://habitica.prfn.xyz/static/terms). Signaler des messages de façon inadéquate pourrait vous valoir une infraction.</string>
     <string name="x_class">Classe %s</string>
     <string name="become_x">Devenez un %s</string>
     <string name="need_more_help">Besoin d\'un peu plus d\'aide \?</string>
@@ -781,7 +781,7 @@
     <string name="purchase">Acheter</string>
     <string name="preference_push_party_mention">\@mentions dans l\'équipe</string>
     <string name="more_out_of_habitica">Profitez encore plus d\'Habitica</string>
-    <string name="gift_gems_disclaimer">Habitica ne vous obligera jamais à offrir des gemmes à d\'autres personnes. Réclamer des gemmes est une violation de notre guide de vie en communauté qui doit être reportée à admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica ne vous obligera jamais à offrir des gemmes à d\'autres personnes. Réclamer des gemmes est une violation de notre guide de vie en communauté qui doit être reportée à admin@habitica.prfn.xyz.</string>
     <string name="gems_gift_description">Vous voulez octroyer un butin scintillant à quelqu\'un d\'autre \?</string>
     <string name="profile_gift_subscription">Offrir
 \nun abonnement</string>
@@ -1091,7 +1091,7 @@
     <string name="fortify_shop">Potion de fortification</string>
     <string name="invitation_title_no_leader">Vous avez reçu une invitation à rejoindre une équipe</string>
     <string name="you">Vous</string>
-    <string name="login_disclaimer">En vous inscrivant, vous confirmez avoir lu et accepté les <a href="https://habitica.com/static/terms">Termes du service</a> et le <a href="https://habitica.com/static/privacy">règles de confidentialité.</a></string>
+    <string name="login_disclaimer">En vous inscrivant, vous confirmez avoir lu et accepté les <a href="https://habitica.prfn.xyz/static/terms">Termes du service</a> et le <a href="https://habitica.prfn.xyz/static/privacy">règles de confidentialité.</a></string>
     <string name="finish">Terminer</string>
     <string name="user_is_blocked_explanation">Une personne bloquée ne peut pas vous envoyé de message privé, mais vous verrez toujours leurs messages à la taverne ou dans les guildes.</string>
     <string name="user_is_blocked">Vous avez bloqué cette personne</string>

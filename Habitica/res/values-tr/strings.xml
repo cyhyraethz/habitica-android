@@ -593,7 +593,7 @@
     <string name="usernamePromptTitle">Kullanıcı adına karar verme vakti!</string>
     <string name="usernamePromptBody">Giriş isimleri artık görünen adının yanında görünecek ve davetiyelerde, sohbet @bahsetmelerinde ve mesajlaşmalarda kullanılacak eşsiz kullanıcı adlarına dönüştü.</string>
     <string name="usernamePromptWiki">Eğer bu değişim hakkında daha fazla şey öğrenmek istiyorsan, <a href="https://habitica.wikia.com/wiki/Player_Names">wikimizi ziyaret et.</a></string>
-    <string name="usernamePromptDisclaimer">Kullanıcı Adları <a href="https://habitica.com/static/terms">Hizmet Koşulları\'mıza</a> ve <a href="https://habitica.com/static/community-guidelines">Topluluk İlkeleri\'mize</a> uygun olmalıdır. Daha önce bir Giriş Adı belirlemediysen, Kullanıcı Adın otomatik olarak oluşturulmuştur.</string>
+    <string name="usernamePromptDisclaimer">Kullanıcı Adları <a href="https://habitica.prfn.xyz/static/terms">Hizmet Koşulları\'mıza</a> ve <a href="https://habitica.prfn.xyz/static/community-guidelines">Topluluk İlkeleri\'mize</a> uygun olmalıdır. Daha önce bir Giriş Adı belirlemediysen, Kullanıcı Adın otomatik olarak oluşturulmuştur.</string>
     <string name="confirm_username_title">Geçerli kullanıcı adını onaylamak istediğine emin misin?</string>
     <string name="confirm_username_description">Kullanıcı adını onaylayarak onu davetlerde, sohbetlerde ve mesajlaşmalarda aleni hâle getiriyorsun. Kullanıcı adını istediğin her an ayarlardan değiştirebilirsin.</string>
     <string name="cancel">İptal </string>
@@ -783,7 +783,7 @@
     <string name="mystery_sets">Gizem Setleri</string>
     <string name="report_message_hint">Bildirme nedeni (tercihen)</string>
     <string name="report_message_title">%s kullanıcısını ihlal nedeniyle bildir:</string>
-    <string name="report_explanation">**Sadece** [Topluluk Kuralları](https://habitica.com/static/community-guidelines)\'nı ve/veya [Kullanım Koşulları](https://habitica.com/static/terms)\' nı ihlal eden gönderileri bildirin. Aksi takdirde ceza alabilirsiniz.</string>
+    <string name="report_explanation">**Sadece** [Topluluk Kuralları](https://habitica.prfn.xyz/static/community-guidelines)\'nı ve/veya [Kullanım Koşulları](https://habitica.prfn.xyz/static/terms)\' nı ihlal eden gönderileri bildirin. Aksi takdirde ceza alabilirsiniz.</string>
     <string name="x_class">%s Sınıfı</string>
     <string name="become_x">%s ol</string>
     <string name="purchase_equipment_description">Ekipman kuşanmak, avatarını özelleştirmenin ve istatistiklerini iyileştirmenin bir yoludur</string>
@@ -917,7 +917,7 @@
     <string name="copy_username">Kullanıcı adını kopyala</string>
     <string name="id_copied">Kullanıcı Kimliği panoya kopyalandı</string>
     <string name="copy_userid">Kullanıcı Kimliğini Kopyala</string>
-    <string name="gift_gems_disclaimer">Habitica asla diğer oyunculara elmas hediye etmenizi istemez. İnsanlardan değerli taşlar için yalvarmak Topluluk Kurallarını ihlal eder ve admin@habitica.com adresine bildirilmelidir.</string>
+    <string name="gift_gems_disclaimer">Habitica asla diğer oyunculara elmas hediye etmenizi istemez. İnsanlardan değerli taşlar için yalvarmak Topluluk Kurallarını ihlal eder ve admin@habitica.prfn.xyz adresine bildirilmelidir.</string>
     <string name="gems_gift_description">Başkasına parlak bir elmas paketi vermek mi istiyorsun\?</string>
     <string name="profile_gift_subscription">Abonelik
 \nHediye Et</string>
@@ -1059,7 +1059,7 @@
     <string name="quest_leave_message">Görevden ayrılmak istediğinizden emin misiniz? Tüm ilerlemeniz kaybolacak.</string>
     <string name="quest_leave_message_nostart">Görevden ayrılmak istediğinizden emin misiniz? Katılamayacaksınız.</string>
     <string name="available_for">%s için mevcuttur</string>
-    <string name="login_disclaimer">Kaydolarak, <a href="https://habitica.com/static/terms">Hizmet Şartlarını</a> ve <a href="https://habitica.com/static/privacy">Gizlilik Politikasını</a> okuyup kabul ettiğinizi belirtiyorsunuz.</string>
+    <string name="login_disclaimer">Kaydolarak, <a href="https://habitica.prfn.xyz/static/terms">Hizmet Şartlarını</a> ve <a href="https://habitica.prfn.xyz/static/privacy">Gizlilik Politikasını</a> okuyup kabul ettiğinizi belirtiyorsunuz.</string>
     <string name="cant_like_own_message">Kendi mesajlarını beğenemezsin</string>
     <string name="claim_x_gems">%d Mücevher Al</string>
     <string name="congratulations">Tebrikler!</string>

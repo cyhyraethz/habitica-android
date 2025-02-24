@@ -216,16 +216,16 @@
     </string-array>
 
     <string-array name="server_urls">
-        <item>https://habitica.com</item>
-        <item>https://staging.habitica.com</item>
-        <item>https://bat.habitica.com</item>
-        <item>https://frog.habitica.com</item>
-        <item>https://llama.habitica.com</item>
-        <item>https://monkey.habitica.com</item>
-        <item>https://seal.habitica.com</item>
-        <item>https://shrimp.habitica.com</item>
-        <item>https://star.habitica.com</item>
-        <item>https://turtle.habitica.com</item>
+        <item>https://habitica.prfn.xyz</item>
+        <item>https://staging.habitica.prfn.xyz</item>
+        <item>https://bat.habitica.prfn.xyz</item>
+        <item>https://frog.habitica.prfn.xyz</item>
+        <item>https://llama.habitica.prfn.xyz</item>
+        <item>https://monkey.habitica.prfn.xyz</item>
+        <item>https://seal.habitica.prfn.xyz</item>
+        <item>https://shrimp.habitica.prfn.xyz</item>
+        <item>https://star.habitica.prfn.xyz</item>
+        <item>https://turtle.habitica.prfn.xyz</item>
     </string-array>
 
     <string-array name="task_list_modes">

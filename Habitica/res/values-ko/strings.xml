@@ -614,7 +614,7 @@
     <string name="week_reminder_title">과제 실행은 잘 되고 있나요\?</string>
     <string name="week_reminder_text">휴식은 당연히 몸에 좋지만, 간단한 활동도 병행하면 포인트를 벌어 레벨업을 하고 멋진 장비를 얻을 수 있습니다!</string>
     <string name="usernamePromptBody">이제 로그인 네임은 본인의 유일한 유저아이디로써 닉네임 옆에 표시되며, 초대할 때나 채팅에서 @로 언급할 때, 그리고 메세지를 보낼 때에 사용됩니다.</string>
-    <string name="usernamePromptDisclaimer">유저아이디는 <a href="https://habitica.com/static/terms">이용 약관</a>과 <a href="https://habitica.com/static/community-guidelines">커뮤니티 방침</a>에 따라야 합니다. 전에 로그인 네임을 따로 설정한 적이 없다면 자동으로 생성됩니다.</string>
+    <string name="usernamePromptDisclaimer">유저아이디는 <a href="https://habitica.prfn.xyz/static/terms">이용 약관</a>과 <a href="https://habitica.prfn.xyz/static/community-guidelines">커뮤니티 방침</a>에 따라야 합니다. 전에 로그인 네임을 따로 설정한 적이 없다면 자동으로 생성됩니다.</string>
     <string name="confirm_username_description">유저아이디를 저장하면 초대, @언급 그리고 메세지를 주고 받을 때 공개적으로 사용하게 됩니다. 언제든디 설정에서 유저아이디를 바꾸실 수 있습니다.</string>
     <string name="enter_recipient_username">받는 사람의 @ 유저아이디를 입력하세요</string>
     <string name="verification_pet">확인 절차를 마치고나면 여기 베테랑 펫 중 하나가 당신을 기다리고 있을 겁니다!</string>
@@ -681,7 +681,7 @@
     <string name="mystery_sets">미스터리 세트</string>
     <string name="report_message_hint">신고 이유 (생략 가능)</string>
     <string name="report_message_title">%s 을(를) 규정 위반으로 신고하기:</string>
-    <string name="report_explanation">해당 글이 [커뮤니티 방침](https://habitica.com/static/community-guidelines)이나 [이용 약관](https://habitica.com/static/terms)을 **위반했을 때만** 신고하세요. 허위 신고는 규정 위반으로 간주됩니다.</string>
+    <string name="report_explanation">해당 글이 [커뮤니티 방침](https://habitica.prfn.xyz/static/community-guidelines)이나 [이용 약관](https://habitica.prfn.xyz/static/terms)을 **위반했을 때만** 신고하세요. 허위 신고는 규정 위반으로 간주됩니다.</string>
     <string name="x_class">%s 직업</string>
     <string name="become_x">%s 이(가) 되세요</string>
     <string name="need_more_help">더 도움이 필요하신가요\?</string>
@@ -808,7 +808,7 @@
     <string name="from_balance">잔고에서</string>
     <string name="purchase">구매하기</string>
     <string name="more_out_of_habitica">해비티카에서 더 많은 것을 얻으세요</string>
-    <string name="gift_gems_disclaimer">해비티카는 다른 사람에게 보석 선물하는 것을 절대 강제적으로 권유하지 않습니다. 보석을 구걸하는 행위는 커뮤니티 가이드라인에 위배되는 행위로 admin@habitica.com에 신고해주세요.</string>
+    <string name="gift_gems_disclaimer">해비티카는 다른 사람에게 보석 선물하는 것을 절대 강제적으로 권유하지 않습니다. 보석을 구걸하는 행위는 커뮤니티 가이드라인에 위배되는 행위로 admin@habitica.prfn.xyz에 신고해주세요.</string>
     <string name="gems_gift_description">반짝이는 보석 한아름을 다른 사람에게 선물하고 싶으신가요\?</string>
     <string name="profile_gift_subscription">구독
 \n선물하기</string>
@@ -1098,7 +1098,7 @@
     <string name="user_is_blocked">이 유저를 차단했습니다</string>
     <string name="user_is_blocked_explanation">차단된 유저는 당신에게 쪽지를 보낼 수 없습니다. 하지만 여전히 여관이나 길드에선 차단된 유저의 글이 보일 것입니다.</string>
     <string name="finish">끝내기</string>
-    <string name="login_disclaimer">Habitica에 가입하는 것은 <a href="https://habitica.com/static/terms">서비스 약관(Terms of Service)</a>과 <a href="https://habitica.com/static/privacy">개인 정보 보호 정책(Privacy Policy)</a>을 읽고 동의했음을 나타냅니다.</string>
+    <string name="login_disclaimer">Habitica에 가입하는 것은 <a href="https://habitica.prfn.xyz/static/terms">서비스 약관(Terms of Service)</a>과 <a href="https://habitica.prfn.xyz/static/privacy">개인 정보 보호 정책(Privacy Policy)</a>을 읽고 동의했음을 나타냅니다.</string>
     <string name="theme_color">테마 색상</string>
     <string name="invitation_title_no_leader">파티에 참가 초대를 받았습니다</string>
     <string name="fortify_shop">강화 물약</string>

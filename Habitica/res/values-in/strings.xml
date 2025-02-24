@@ -649,7 +649,7 @@
     <string name="delete_oauth_account_description">Ini akan menghapus akunmu selamanya dan tidak akan pernah bisa dikembalikan! Permata yang tersimpan atau dibelanjakan tidak akan dikembalikan. Jika kamu benar-benar yakin, ketik DELETE ke kotak teks berikut ini.</string>
     <string name="daily_tip_3">Kamu dapat menjadwalkan pengingat untuk Harian tertentu juga.</string>
     <string name="confirm_username_description">Mengonfirmasi nama penggunamu akan memperbolehkan orang lain untuk mengundang, mentions dan saling bertukar pesan.Kamu dapat mengubah nama penggunamu melalui Pengaturan kapan saja.</string>
-    <string name="usernamePromptDisclaimer">Nama pengguna harus sesuai dengan <a href="https://habitica.com/static/terms">Syarat Layanan</a> dan <a href="https://habitica.com/static/community-guidelines">Pedoman Komunitas</a>. Jika kamu sebelumnya belum membuat nama masuk, nama penggunamu akan dibuat otomatis.</string>
+    <string name="usernamePromptDisclaimer">Nama pengguna harus sesuai dengan <a href="https://habitica.prfn.xyz/static/terms">Syarat Layanan</a> dan <a href="https://habitica.prfn.xyz/static/community-guidelines">Pedoman Komunitas</a>. Jika kamu sebelumnya belum membuat nama masuk, nama penggunamu akan dibuat otomatis.</string>
     <string name="stat_description">Semua karakter di Habitica memiliki 4 status (stat) yang berpengaruh pada permainan di Habitica.
 \n
 \n**Kekuatan (KUAT)** berpengaruh pada pukulan kritikal dan menaikkan dampak kerusakan pada Misi Boss. Prajurit dan Pencuri mendapat KUAT dari perlengkapan kelas mereka.
@@ -760,7 +760,7 @@
     <string name="mystery_sets">Set Misteri</string>
     <string name="report_message_hint">Alasan pelaporan (opsional)</string>
     <string name="report_message_title">Melaporkan %s atas pelanggaran:</string>
-    <string name="report_explanation">**Laporkan** hanya jika postingan tersebut melanggar [Pedoman Komunitas](https://habitica.com/static/community-guidelines) dan/atau [Syarat Layanan](https://habitica.com/static/terms). Laporan yang tidak sesuai dapat memberimu pelanggaran.</string>
+    <string name="report_explanation">**Laporkan** hanya jika postingan tersebut melanggar [Pedoman Komunitas](https://habitica.prfn.xyz/static/community-guidelines) dan/atau [Syarat Layanan](https://habitica.prfn.xyz/static/terms). Laporan yang tidak sesuai dapat memberimu pelanggaran.</string>
     <string name="become_x">Menjadi %s</string>
     <string name="x_class">Kelas %s</string>
     <string name="need_more_help">Butuh bantuan lebih lanjut\?</string>
@@ -769,7 +769,7 @@
     <string name="purchase">Membeli</string>
     <string name="preference_push_party_mention">\@Mentions di Party</string>
     <string name="more_out_of_habitica">Dapatkan yang lebih banyak lagi di Habitica</string>
-    <string name="gift_gems_disclaimer">Habitica tidak akan pernah meminta kamu untuk memberikan permata kepada pemain lain. Mengemis orang lain agar diberi permata adalah tindakan pelanggaran pada Pedoman Komunitas dan akan dilaporkan pada admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica tidak akan pernah meminta kamu untuk memberikan permata kepada pemain lain. Mengemis orang lain agar diberi permata adalah tindakan pelanggaran pada Pedoman Komunitas dan akan dilaporkan pada admin@habitica.prfn.xyz.</string>
     <string name="gems_gift_description">Ingin menganugerahi Permata berkilauan kepada orang lain\?</string>
     <string name="profile_gift_subscription">Memberikan
 \nBerlangganan</string>

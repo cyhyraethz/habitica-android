@@ -69,7 +69,7 @@ object MainNavigationController {
             builder = builder.scheme("https")
         }
         if (uri.host == null) {
-            builder = builder.authority("habitica.com")
+            builder = builder.authority("habitica.prfn.xyz")
         }
         navigate(builder.build())
     }

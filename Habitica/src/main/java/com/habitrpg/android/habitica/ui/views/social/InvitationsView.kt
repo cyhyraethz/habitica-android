@@ -47,7 +47,7 @@ constructor(
                     binding.groupleaderTextView.setMarkdown(
                         context.getString(
                             R.string.invitation_title,
-                            "[${leader.formattedUsername}](https://habitica.com/profile/$leaderID)",
+                            "[${leader.formattedUsername}](https://habitica.prfn.xyz/profile/$leaderID)",
                             invitation.name
                         )
                     )

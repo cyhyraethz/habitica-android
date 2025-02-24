@@ -631,7 +631,7 @@ Die Quest-Schriftrolle wird an den Quest-Besitzer zurückgegeben.</string>
     <string name="week_reminder_text">Hacke sie jetzt für Belohnungen und EP in Habitica ab!</string>
     <string name="usernamePromptBody">Loginnamen sind jetzt einzigartige Benutzernamen, welche neben Deinem Anzeigenamen sichtbar sind und für Einladungen, Chat @Erwähnungen und Nachrichten benutzt werden.</string>
     <string name="usernamePromptWiki">Wenn Du mehr über diese Änderung erfahren möchtest, <a href="https://habitica.fandom.com/wiki/Player_Names">geh auf unser Wiki.</a></string>
-    <string name="usernamePromptDisclaimer">Benutzernamen sollten mit unseren <a href="https://habitica.com/static/terms">Servicebedingungen</a> und <a href="https://habitica.com/static/community-guidelines">Community-Richtlinien</a> übereinstimmen. Falls Du vorher keinen Login-Namen festgelegt hast, wurde Dein Benutzername automatisch generiert.</string>
+    <string name="usernamePromptDisclaimer">Benutzernamen sollten mit unseren <a href="https://habitica.prfn.xyz/static/terms">Servicebedingungen</a> und <a href="https://habitica.prfn.xyz/static/community-guidelines">Community-Richtlinien</a> übereinstimmen. Falls Du vorher keinen Login-Namen festgelegt hast, wurde Dein Benutzername automatisch generiert.</string>
     <string name="confirm_username_description">Das Bestätigen Deines Nutzernamens wird diesen für Einladungen, @Erwähnungen und Nachrichten öffentlich machen. Du kannst Deinen Benutzernamen jederzeit in den Einstellungen ändern.</string>
     <string name="equipment_str">STR:</string>
     <string name="equipment_con">CON:</string>
@@ -711,7 +711,7 @@ Die Quest-Schriftrolle wird an den Quest-Besitzer zurückgegeben.</string>
     <string name="purchase">Kaufen</string>
     <string name="preference_push_party_mention">\@Erwähnung in der Party</string>
     <string name="more_out_of_habitica">Profitiere mehr von Habitica</string>
-    <string name="gift_gems_disclaimer">Habitica würde von Dir niemals verlangen anderen Usern Edelsteine zu schenken. Um Edelsteine zu bitten stellt einen Verstoß gegen die Community-Richtlinien dar und sollte an admin@habitica.com gemeldet werden.</string>
+    <string name="gift_gems_disclaimer">Habitica würde von Dir niemals verlangen anderen Usern Edelsteine zu schenken. Um Edelsteine zu bitten stellt einen Verstoß gegen die Community-Richtlinien dar und sollte an admin@habitica.prfn.xyz gemeldet werden.</string>
     <string name="profile_gift_subscription">Abonnement
 \nVerschenken</string>
     <string name="profile_gift_gems">Edelsteine
@@ -804,7 +804,7 @@ Die Quest-Schriftrolle wird an den Quest-Besitzer zurückgegeben.</string>
     <string name="guild_description">Gildenbeschreibung</string>
     <string name="report_message_hint">Grund für die Meldung (optional)</string>
     <string name="report_message_title">Melde %s wegen eines Verstoßes:</string>
-    <string name="report_explanation">Melde einen Post **nur**, wenn er die [Community-Richtlinien](https://habitica.com/static/community-guidelines) und/oder die [Allgemeinen Geschäftsbedingungen](https://habitica.com/static/terms) verletzt. Zweckwidrige Meldungen können Dir eine Rüge einbringen.</string>
+    <string name="report_explanation">Melde einen Post **nur**, wenn er die [Community-Richtlinien](https://habitica.prfn.xyz/static/community-guidelines) und/oder die [Allgemeinen Geschäftsbedingungen](https://habitica.prfn.xyz/static/terms) verletzt. Zweckwidrige Meldungen können Dir eine Rüge einbringen.</string>
     <string name="x_class">%s-Klasse</string>
     <string name="become_x">Werde %s</string>
     <string name="need_more_help">Brauchst Du mehr Hilfe\?</string>
@@ -1087,7 +1087,7 @@ Die Quest-Schriftrolle wird an den Quest-Besitzer zurückgegeben.</string>
     <string name="claim_x_gems">Erhalte %d Edelsteine</string>
     <string name="won_achievement_description_noname">Du wurdest als Gewinner ausgewählt! Dein Sieg wurde in deinen Erfolgen vermerkt.</string>
     <string name="quest_leave_message_nostart">Bist Du sicher, dass Du aus dem Quest austreten willst\? Du wirst nicht daran teilnehmen können.</string>
-    <string name="login_disclaimer">Durch Deine Registrierung bestätigst Du, dass Du die <a href="https://habitica.com/static/terms">Allgemeinen Geschäftsbedingungen</a> und die <a href="https://habitica.com/static/privacy">Datenschutzrichtlinien</a> gelesen hast und mit ihnen einverstanden bist.</string>
+    <string name="login_disclaimer">Durch Deine Registrierung bestätigst Du, dass Du die <a href="https://habitica.prfn.xyz/static/terms">Allgemeinen Geschäftsbedingungen</a> und die <a href="https://habitica.prfn.xyz/static/privacy">Datenschutzrichtlinien</a> gelesen hast und mit ihnen einverstanden bist.</string>
     <string name="create_guild_description">Um eine Gilde zu erstellen, logge dich auf der Habitica Webseite ein und wähle den \"Erstellen\" Knopf auf der \"Meine Gilden\" Seite.</string>
     <string name="end_challenge_description">Um eine Herausforderung zu beenden, logge dich auf der Habitica Seite ein und nutze dann den \"Beende die Herausforderung\" Knopf auf der rechten Seite der Herausforderung.</string>
     <string name="g1g1_promo_info_prompt">Zu Ehren der Jahreszeit des Gebens, präsentieren wir wieder eine ganz besondere Aktion. Wenn Du jetzt ein Abonnement verschenkst, erhältst Du für Dich selbst das gleiche Abo kostenlos!</string>

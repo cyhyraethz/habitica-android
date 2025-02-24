@@ -594,7 +594,7 @@
     <string name="usernamePromptTitle">Време е да си създадете потребителско име!</string>
     <string name="usernamePromptBody">Имената за вписване вече са уникални потребителски имена, които се виждат до екранните имена и се използват за покани, @споменавания в чата и за изпращане на съобщения.</string>
     <string name="usernamePromptWiki">Ако искате да научите повече за тази промяна, посетете <a href="https://habitica.wikia_com/wiki/Player_Names">уикито ни</a></string>
-    <string name="usernamePromptDisclaimer">Потребителските имена трябва са съобразени с <a href="https://habitica.com/static/terms">Условията за ползване</a> и <a href="https://habitica_com/static/community-guidelines">Обществените правила</a>. Ако преди това не сте имали име за вписване, то потребителското Ви име е създадено автоматично.</string>
+    <string name="usernamePromptDisclaimer">Потребителските имена трябва са съобразени с <a href="https://habitica.prfn.xyz/static/terms">Условията за ползване</a> и <a href="https://habitica.prfn.xyz/static/community-guidelines">Обществените правила</a>. Ако преди това не сте имали име за вписване, то потребителското Ви име е създадено автоматично.</string>
     <string name="confirm_username_title">Наистина ли искате да потвърдите текущото си потребителско име?</string>
     <string name="confirm_username_description">Ако потвърдите потребителското си име, то ще стане публично и ще може да се използва за покани, @споменавания и съобщения. Можете да промените потребителското си име по всяко време в настройките.</string>
     <string name="cancel">Отказ</string>
