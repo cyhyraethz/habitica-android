@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.app.AlarmManager
 import android.app.PendingIntent
@@ -6,12 +6,12 @@ import android.content.Context
 import android.content.Intent
 import android.os.Build
 import androidx.preference.PreferenceManager
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.models.tasks.RemindersItem
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
-import com.habitrpg.android.habitica.receivers.NotificationPublisher
-import com.habitrpg.android.habitica.receivers.TaskReceiver
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.models.tasks.RemindersItem
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.receivers.NotificationPublisher
+import xyz.prfn.android.habitica.receivers.TaskReceiver
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.shared.habitica.HLogger
 import com.habitrpg.shared.habitica.LogLevel

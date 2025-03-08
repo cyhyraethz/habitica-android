@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.models.tasks
+package xyz.prfn.android.habitica.models.tasks
 
 import android.os.Parcel
 import android.os.Parcelable
 import android.text.Spanned
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.matchesRepeatDays
-import com.habitrpg.android.habitica.extensions.parseToZonedDateTime
-import com.habitrpg.android.habitica.extensions.toZonedDateTime
-import com.habitrpg.android.habitica.models.BaseMainObject
-import com.habitrpg.android.habitica.models.Tag
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.matchesRepeatDays
+import xyz.prfn.android.habitica.extensions.parseToZonedDateTime
+import xyz.prfn.android.habitica.extensions.toZonedDateTime
+import xyz.prfn.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.Tag
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.MarkdownParser
 import com.habitrpg.shared.habitica.models.tasks.Attribute

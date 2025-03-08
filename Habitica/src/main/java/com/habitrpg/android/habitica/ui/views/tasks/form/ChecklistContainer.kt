@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks.form
+package xyz.prfn.android.habitica.ui.views.tasks.form
 
 import android.animation.LayoutTransition
 import android.content.Context
@@ -6,8 +6,8 @@ import android.util.AttributeSet
 import android.view.View
 import androidx.core.view.children
 import androidx.core.view.updateMargins
-import com.habitrpg.android.habitica.models.tasks.ChecklistItem
-import com.habitrpg.android.habitica.ui.views.DragLinearLayout
+import xyz.prfn.android.habitica.models.tasks.ChecklistItem
+import xyz.prfn.android.habitica.ui.views.DragLinearLayout
 import com.habitrpg.common.habitica.extensions.dpToPx
 
 class ChecklistContainer

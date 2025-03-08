@@ -7,7 +7,7 @@ import android.view.animation.AnticipateOvershootInterpolator
 import android.view.animation.TranslateAnimation
 import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.databinding.ActivityContinuePhoneBinding
+import xyz.prfn.android.habitica.databinding.ActivityContinuePhoneBinding
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.wearos.habitica.ui.viewmodels.ContinuePhoneViewModel
 import dagger.hilt.android.AndroidEntryPoint

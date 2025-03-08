@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.social.challenges
+package xyz.prfn.android.habitica.ui.fragments.social.challenges
 
 import android.content.Intent
 import android.os.Bundle
@@ -14,11 +14,11 @@ import androidx.core.view.MenuItemCompat
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.google.android.material.tabs.TabLayoutMediator
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.ChallengeRepository
-import com.habitrpg.android.habitica.databinding.FragmentViewpagerBinding
-import com.habitrpg.android.habitica.ui.activities.ChallengeFormActivity
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.ChallengeRepository
+import xyz.prfn.android.habitica.databinding.FragmentViewpagerBinding
+import xyz.prfn.android.habitica.ui.activities.ChallengeFormActivity
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

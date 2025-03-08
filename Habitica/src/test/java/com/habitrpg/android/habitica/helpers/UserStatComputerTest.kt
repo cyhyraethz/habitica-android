@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.helpers.UserStatComputer.AttributeRow
-import com.habitrpg.android.habitica.helpers.UserStatComputer.EquipmentRow
-import com.habitrpg.android.habitica.models.inventory.Equipment
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.helpers.UserStatComputer.AttributeRow
+import xyz.prfn.android.habitica.helpers.UserStatComputer.EquipmentRow
+import xyz.prfn.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.user.Stats
 import io.kotest.core.spec.style.StringSpec
 import io.kotest.matchers.shouldBe
 

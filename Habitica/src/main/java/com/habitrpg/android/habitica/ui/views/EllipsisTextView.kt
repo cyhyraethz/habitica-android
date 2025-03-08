@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 /**
  * Author: Michael Ritchie, ThanksMister LLC

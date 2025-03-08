@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.support
+package xyz.prfn.android.habitica.ui.fragments.support
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -20,15 +20,15 @@ import android.widget.LinearLayout
 import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.FAQRepository
-import com.habitrpg.android.habitica.databinding.FragmentFaqOverviewBinding
-import com.habitrpg.android.habitica.databinding.SupportFaqItemBinding
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
-import com.habitrpg.android.habitica.ui.views.UsernameLabel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.FAQRepository
+import xyz.prfn.android.habitica.databinding.FragmentFaqOverviewBinding
+import xyz.prfn.android.habitica.databinding.SupportFaqItemBinding
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.ui.views.UsernameLabel
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.helpers.AppTestingLevel

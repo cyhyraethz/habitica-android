@@ -10,8 +10,8 @@ import android.graphics.Shader
 import android.util.AttributeSet
 import android.widget.FrameLayout
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ButtonAddTaskBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ButtonAddTaskBinding
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.layoutInflater
 

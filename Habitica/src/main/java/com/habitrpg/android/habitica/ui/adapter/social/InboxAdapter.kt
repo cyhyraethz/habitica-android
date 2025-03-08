@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.ui.adapter.social
+package xyz.prfn.android.habitica.ui.adapter.social
 
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.viewHolders.ChatRecyclerIntroViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.ChatRecyclerMessageViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.ChatRecyclerViewHolder
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.viewHolders.ChatRecyclerIntroViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.ChatRecyclerMessageViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.ChatRecyclerViewHolder
 import com.habitrpg.common.habitica.extensions.inflate
 
 class InboxAdapter(private var user: User?) :

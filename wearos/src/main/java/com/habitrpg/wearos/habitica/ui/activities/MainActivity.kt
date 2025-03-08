@@ -9,8 +9,8 @@ import androidx.appcompat.content.res.AppCompatResources
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
 import androidx.wear.widget.WearableLinearLayoutManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityMainBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityMainBinding
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import com.habitrpg.wearos.habitica.models.user.MenuItem
 import com.habitrpg.wearos.habitica.ui.adapters.HubAdapter

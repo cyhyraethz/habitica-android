@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
 import android.content.Context
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.ContentRepository
-import com.habitrpg.android.habitica.data.local.ContentLocalRepository
-import com.habitrpg.android.habitica.helpers.AprilFoolsHandler
-import com.habitrpg.android.habitica.models.ContentResult
-import com.habitrpg.android.habitica.models.WorldState
-import com.habitrpg.android.habitica.models.inventory.SpecialItem
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.ContentRepository
+import xyz.prfn.android.habitica.data.local.ContentLocalRepository
+import xyz.prfn.android.habitica.helpers.AprilFoolsHandler
+import xyz.prfn.android.habitica.models.ContentResult
+import xyz.prfn.android.habitica.models.WorldState
+import xyz.prfn.android.habitica.models.inventory.SpecialItem
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import io.realm.RealmList
 import kotlinx.coroutines.flow.Flow
 import java.util.Date

@@ -10,7 +10,7 @@ import android.graphics.RectF
 import android.util.AttributeSet
 import android.view.View
 import android.view.animation.AccelerateDecelerateInterpolator
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.extensions.dpToPx
 
 class CircularProgressView(

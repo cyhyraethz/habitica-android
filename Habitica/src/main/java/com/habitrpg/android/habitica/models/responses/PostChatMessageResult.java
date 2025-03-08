@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models.responses;
+package xyz.prfn.android.habitica.models.responses;
 
-import com.habitrpg.android.habitica.models.social.ChatMessage;
+import xyz.prfn.android.habitica.models.social.ChatMessage;
 
 /**
  * Created by Negue on 30.08.2015.

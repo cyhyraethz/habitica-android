@@ -1,22 +1,22 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
 import com.google.gson.JsonParseException
-import com.habitrpg.android.habitica.models.inventory.Quest
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.members.MemberFlags
-import com.habitrpg.android.habitica.models.members.MemberPreferences
-import com.habitrpg.android.habitica.models.social.UserParty
-import com.habitrpg.android.habitica.models.user.Authentication
-import com.habitrpg.android.habitica.models.user.Backer
-import com.habitrpg.android.habitica.models.user.ContributorInfo
-import com.habitrpg.android.habitica.models.user.Inbox
-import com.habitrpg.android.habitica.models.user.Items
-import com.habitrpg.android.habitica.models.user.Outfit
-import com.habitrpg.android.habitica.models.user.Profile
-import com.habitrpg.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.inventory.Quest
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.members.MemberFlags
+import xyz.prfn.android.habitica.models.members.MemberPreferences
+import xyz.prfn.android.habitica.models.social.UserParty
+import xyz.prfn.android.habitica.models.user.Authentication
+import xyz.prfn.android.habitica.models.user.Backer
+import xyz.prfn.android.habitica.models.user.ContributorInfo
+import xyz.prfn.android.habitica.models.user.Inbox
+import xyz.prfn.android.habitica.models.user.Items
+import xyz.prfn.android.habitica.models.user.Outfit
+import xyz.prfn.android.habitica.models.user.Profile
+import xyz.prfn.android.habitica.models.user.Stats
 import io.realm.Realm
 import java.lang.reflect.Type
 

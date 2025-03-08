@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.content.Context
 import androidx.core.app.NotificationManagerCompat
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.common.habitica.models.Notification
 import kotlinx.coroutines.MainScope

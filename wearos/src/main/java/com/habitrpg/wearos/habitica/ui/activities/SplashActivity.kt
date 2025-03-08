@@ -6,7 +6,7 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.databinding.ActivitySplashBinding
+import xyz.prfn.android.habitica.databinding.ActivitySplashBinding
 import com.habitrpg.wearos.habitica.ui.viewmodels.SplashViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.Dispatchers

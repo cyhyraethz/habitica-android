@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.testing.FragmentScenario
 import androidx.viewbinding.ViewBinding
-import com.habitrpg.android.habitica.HabiticaTestCase
+import xyz.prfn.android.habitica.HabiticaTestCase
 import io.github.kakaocup.kakao.screen.Screen
 import org.junit.Before
 

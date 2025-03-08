@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.app.Activity
 import android.content.Intent
@@ -9,11 +9,11 @@ import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.google.android.material.tabs.TabLayoutMediator
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.databinding.ActivitySkillTasksBinding
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.ui.fragments.skills.SkillTasksRecyclerViewFragment
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.databinding.ActivitySkillTasksBinding
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.ui.fragments.skills.SkillTasksRecyclerViewFragment
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

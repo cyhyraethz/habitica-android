@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.purchases
+package xyz.prfn.android.habitica.ui.fragments.purchases
 
 import android.app.Dialog
 import android.content.DialogInterface
@@ -13,15 +13,15 @@ import com.android.billingclient.api.ProductDetails
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.databinding.FragmentBottomsheetSubscriptionBinding
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.helpers.PurchaseHandler
-import com.habitrpg.android.habitica.helpers.PurchaseTypes
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.views.subscriptions.SubscriptionOptionView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.databinding.FragmentBottomsheetSubscriptionBinding
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.helpers.PurchaseHandler
+import xyz.prfn.android.habitica.helpers.PurchaseTypes
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.views.subscriptions.SubscriptionOptionView
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.habitrpg.common.habitica.helpers.launchCatching

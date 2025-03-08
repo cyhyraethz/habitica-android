@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.gson.TypeAdapter
 import com.google.gson.stream.JsonReader

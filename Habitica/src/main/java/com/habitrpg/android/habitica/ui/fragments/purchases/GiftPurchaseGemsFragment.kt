@@ -1,16 +1,16 @@
-package com.habitrpg.android.habitica.ui.fragments.purchases
+package xyz.prfn.android.habitica.ui.fragments.purchases
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import com.android.billingclient.api.ProductDetails
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.databinding.FragmentGiftGemPurchaseBinding
-import com.habitrpg.android.habitica.helpers.PurchaseHandler
-import com.habitrpg.android.habitica.helpers.PurchaseTypes
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.ui.GemPurchaseOptionsView
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.databinding.FragmentGiftGemPurchaseBinding
+import xyz.prfn.android.habitica.helpers.PurchaseHandler
+import xyz.prfn.android.habitica.helpers.PurchaseTypes
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.ui.GemPurchaseOptionsView
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.CoroutineScope

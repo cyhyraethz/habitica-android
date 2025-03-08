@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.State

@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.tasks
+package xyz.prfn.android.habitica.models.tasks
 
-import com.habitrpg.android.habitica.models.BaseObject
-import com.habitrpg.android.habitica.models.Tag
+import xyz.prfn.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.Tag
 import io.realm.RealmObject
 import io.realm.annotations.RealmClass
 

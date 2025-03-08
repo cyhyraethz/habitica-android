@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.stable
+package xyz.prfn.android.habitica.ui.fragments.inventory.stable
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,16 +6,16 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
-import com.habitrpg.android.habitica.models.inventory.Mount
-import com.habitrpg.android.habitica.models.inventory.StableSection
-import com.habitrpg.android.habitica.models.user.OwnedMount
-import com.habitrpg.android.habitica.ui.adapter.inventory.MountDetailRecyclerAdapter
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.helpers.SafeDefaultItemAnimator
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
+import xyz.prfn.android.habitica.models.inventory.Mount
+import xyz.prfn.android.habitica.models.inventory.StableSection
+import xyz.prfn.android.habitica.models.user.OwnedMount
+import xyz.prfn.android.habitica.ui.adapter.inventory.MountDetailRecyclerAdapter
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.helpers.SafeDefaultItemAnimator
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint

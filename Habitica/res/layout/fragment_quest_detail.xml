@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.habitrpg.android.habitica.ui.views.HabiticaScrollView
+<xyz.prfn.android.habitica.ui.views.HabiticaScrollView
         android:id="@+id/nested_scroll_view"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -136,4 +136,4 @@
                 style="@style/HabiticaButton.Red" />
         </LinearLayout>
     </LinearLayout>
-</com.habitrpg.android.habitica.ui.views.HabiticaScrollView>
+</xyz.prfn.android.habitica.ui.views.HabiticaScrollView>

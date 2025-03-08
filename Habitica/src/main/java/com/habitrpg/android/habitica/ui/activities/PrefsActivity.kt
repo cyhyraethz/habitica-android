@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.os.Bundle
 import android.view.ViewGroup
 import androidx.preference.PreferenceFragmentCompat
 import androidx.preference.PreferenceScreen
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.fragments.preferences.AccountPreferenceFragment
-import com.habitrpg.android.habitica.ui.fragments.preferences.EmailNotificationsPreferencesFragment
-import com.habitrpg.android.habitica.ui.fragments.preferences.PreferencesFragment
-import com.habitrpg.android.habitica.ui.fragments.preferences.PushNotificationsPreferencesFragment
-import com.habitrpg.android.habitica.ui.views.SnackbarActivity
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.fragments.preferences.AccountPreferenceFragment
+import xyz.prfn.android.habitica.ui.fragments.preferences.EmailNotificationsPreferencesFragment
+import xyz.prfn.android.habitica.ui.fragments.preferences.PreferencesFragment
+import xyz.prfn.android.habitica.ui.fragments.preferences.PushNotificationsPreferencesFragment
+import xyz.prfn.android.habitica.ui.views.SnackbarActivity
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 
 import android.app.Activity
@@ -21,16 +21,16 @@ import com.google.android.gms.common.api.Scope
 import com.google.android.libraries.identity.googleid.GetSignInWithGoogleOption
 import com.google.android.libraries.identity.googleid.GoogleIdTokenCredential
 import com.google.android.libraries.identity.googleid.GoogleIdTokenParsingException
-import com.habitrpg.android.habitica.BuildConfig
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.extensions.AuthenticationErrors
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.helpers.AnalyticsTarget
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.helpers.EventCategory
-import com.habitrpg.android.habitica.helpers.HitType
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.extensions.AuthenticationErrors
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.helpers.AnalyticsTarget
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.helpers.EventCategory
+import xyz.prfn.android.habitica.helpers.HitType
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import com.habitrpg.common.habitica.api.HostConfig
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.KeyHelper

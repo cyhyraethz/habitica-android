@@ -1,18 +1,18 @@
-package com.habitrpg.android.habitica.ui.adapter
+package xyz.prfn.android.habitica.ui.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.CustomizationGridItemBinding
-import com.habitrpg.android.habitica.databinding.CustomizationSectionFooterBinding
-import com.habitrpg.android.habitica.databinding.CustomizationSectionHeaderBinding
-import com.habitrpg.android.habitica.models.inventory.Customization
-import com.habitrpg.android.habitica.models.inventory.CustomizationSet
-import com.habitrpg.android.habitica.models.shops.ShopItem
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.CustomizationGridItemBinding
+import xyz.prfn.android.habitica.databinding.CustomizationSectionFooterBinding
+import xyz.prfn.android.habitica.databinding.CustomizationSectionHeaderBinding
+import xyz.prfn.android.habitica.models.inventory.Customization
+import xyz.prfn.android.habitica.models.inventory.CustomizationSet
+import xyz.prfn.android.habitica.models.shops.ShopItem
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.helpers.MainNavigationController

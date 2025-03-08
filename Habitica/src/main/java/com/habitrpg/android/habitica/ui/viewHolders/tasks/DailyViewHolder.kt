@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.ui.viewHolders.tasks
+package xyz.prfn.android.habitica.ui.viewHolders.tasks
 
 import android.view.View
-import com.habitrpg.android.habitica.helpers.GroupPlanInfoProvider
-import com.habitrpg.android.habitica.models.tasks.ChecklistItem
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.helpers.GroupPlanInfoProvider
+import xyz.prfn.android.habitica.models.tasks.ChecklistItem
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.common.habitica.helpers.LanguageHelper
 import com.habitrpg.shared.habitica.models.responses.TaskDirection
 import java.text.DateFormat

@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.social
+package xyz.prfn.android.habitica.models.social
 
-import com.habitrpg.android.habitica.models.BaseMainObject
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.shared.habitica.models.tasks.TasksOrder
 import io.realm.RealmModel
 import io.realm.RealmObject

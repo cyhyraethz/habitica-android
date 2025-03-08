@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.os.Bundle
 import android.view.MenuItem
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.setMarkdown
 import dagger.hilt.android.AndroidEntryPoint

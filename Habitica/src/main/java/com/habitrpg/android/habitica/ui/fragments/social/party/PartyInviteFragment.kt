@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.social.party
+package xyz.prfn.android.habitica.ui.fragments.social.party
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -53,16 +53,16 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.fragment.app.viewModels
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.databinding.FragmentComposeBinding
-import com.habitrpg.android.habitica.models.invitations.InviteResponse
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
-import com.habitrpg.android.habitica.ui.theme.colors
-import com.habitrpg.android.habitica.ui.viewmodels.BaseViewModel
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
-import com.habitrpg.android.habitica.ui.views.LoadingButtonState
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.databinding.FragmentComposeBinding
+import xyz.prfn.android.habitica.models.invitations.InviteResponse
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.ui.viewmodels.BaseViewModel
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.ui.views.LoadingButtonState
 import com.habitrpg.common.habitica.extensions.isValidEmail
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.habitrpg.common.habitica.helpers.launchCatching

@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.ui.views.dialogs
+package xyz.prfn.android.habitica.ui.views.dialogs
 
 import android.content.Context
-import com.habitrpg.android.habitica.extensions.addCloseButton
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.ui.views.shops.PurchaseDialogQuestContent
+import xyz.prfn.android.habitica.extensions.addCloseButton
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.ui.views.shops.PurchaseDialogQuestContent
 
 class DetailDialog(context: Context) : HabiticaAlertDialog(context) {
     var quest: QuestContent? = null

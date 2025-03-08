@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 
 fun HabiticaAlertDialog.addOkButton(
     isPrimary: Boolean = true,

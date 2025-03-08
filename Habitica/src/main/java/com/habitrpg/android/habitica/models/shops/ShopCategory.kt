@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models.shops
+package xyz.prfn.android.habitica.models.shops
 
 import com.google.gson.annotations.SerializedName
 import java.util.Date

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity

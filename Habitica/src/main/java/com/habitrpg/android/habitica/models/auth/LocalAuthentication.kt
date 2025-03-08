@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.auth
+package xyz.prfn.android.habitica.models.auth
 
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.BaseObject
 import com.habitrpg.shared.habitica.models.AvatarLocalAuthentication
 import io.realm.RealmObject
 import io.realm.annotations.RealmClass

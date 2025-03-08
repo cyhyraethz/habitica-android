@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.text.format.DateUtils
 import androidx.compose.foundation.Image
@@ -13,7 +13,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.helpers.LanguageHelper
 import java.text.DateFormat
 import java.util.Date

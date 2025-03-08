@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import android.os.Build
 import com.google.gson.JsonDeserializationContext

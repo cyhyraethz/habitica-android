@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.stable
+package xyz.prfn.android.habitica.ui.views.stable
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.CubicBezierEasing
@@ -54,16 +54,16 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.zIndex
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.addCloseButton
-import com.habitrpg.android.habitica.interactors.SharePetUseCase
-import com.habitrpg.android.habitica.models.inventory.Food
-import com.habitrpg.android.habitica.models.inventory.Pet
-import com.habitrpg.android.habitica.ui.theme.colors
-import com.habitrpg.android.habitica.ui.views.BackgroundScene
-import com.habitrpg.android.habitica.ui.views.HabiticaButton
-import com.habitrpg.android.habitica.ui.views.PixelArtView
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.addCloseButton
+import xyz.prfn.android.habitica.interactors.SharePetUseCase
+import xyz.prfn.android.habitica.models.inventory.Food
+import xyz.prfn.android.habitica.models.inventory.Pet
+import xyz.prfn.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.ui.views.BackgroundScene
+import xyz.prfn.android.habitica.ui.views.HabiticaButton
+import xyz.prfn.android.habitica.ui.views.PixelArtView
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.habitrpg.common.habitica.helpers.launchCatching

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.customization
+package xyz.prfn.android.habitica.ui.fragments.inventory.customization
 
 import android.content.res.Configuration
 import android.os.Bundle
@@ -63,18 +63,18 @@ import androidx.core.content.ContextCompat
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.databinding.FragmentComposeBinding
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.models.inventory.Equipment
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.helpers.ToolbarColorHelper
-import com.habitrpg.android.habitica.ui.theme.colors
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
-import com.habitrpg.android.habitica.ui.views.PixelArtView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.databinding.FragmentComposeBinding
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.helpers.ToolbarColorHelper
+import xyz.prfn.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.ui.views.PixelArtView
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.common.habitica.theme.HabiticaTheme

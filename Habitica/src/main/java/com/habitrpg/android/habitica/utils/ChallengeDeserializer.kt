@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import android.text.TextUtils
 import com.google.gson.JsonDeserializationContext
@@ -8,8 +8,8 @@ import com.google.gson.JsonObject
 import com.google.gson.JsonParseException
 import com.google.gson.JsonSerializationContext
 import com.google.gson.JsonSerializer
-import com.habitrpg.android.habitica.extensions.getAsString
-import com.habitrpg.android.habitica.models.social.Challenge
+import xyz.prfn.android.habitica.extensions.getAsString
+import xyz.prfn.android.habitica.models.social.Challenge
 import java.lang.reflect.Type
 import java.util.Date
 

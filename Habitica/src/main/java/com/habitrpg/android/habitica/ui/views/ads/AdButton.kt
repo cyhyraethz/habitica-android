@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.ads
+package xyz.prfn.android.habitica.ui.views.ads
 
 import android.content.Context
 import android.util.AttributeSet
@@ -7,12 +7,12 @@ import android.view.View
 import android.widget.LinearLayout
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.LifecycleCoroutineScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.AdButtonBinding
-import com.habitrpg.android.habitica.extensions.getMinuteOrSeconds
-import com.habitrpg.android.habitica.extensions.getShortRemainingString
-import com.habitrpg.android.habitica.helpers.AdHandler
-import com.habitrpg.android.habitica.helpers.AdType
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.AdButtonBinding
+import xyz.prfn.android.habitica.extensions.getMinuteOrSeconds
+import xyz.prfn.android.habitica.extensions.getShortRemainingString
+import xyz.prfn.android.habitica.helpers.AdHandler
+import xyz.prfn.android.habitica.helpers.AdType
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

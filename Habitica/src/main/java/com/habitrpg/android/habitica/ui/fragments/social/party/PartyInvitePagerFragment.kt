@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.social.party
+package xyz.prfn.android.habitica.ui.fragments.social.party
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -9,10 +9,10 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.distinctUntilChanged
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.google.android.material.tabs.TabLayoutMediator
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentViewpagerBinding
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.viewmodels.PartyViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentViewpagerBinding
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.viewmodels.PartyViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

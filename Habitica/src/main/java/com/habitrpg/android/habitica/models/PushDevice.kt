@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models
+package xyz.prfn.android.habitica.models
 
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName

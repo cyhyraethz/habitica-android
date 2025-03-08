@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.widget
+package xyz.prfn.android.habitica.widget
 
 import android.app.PendingIntent
 import android.appwidget.AppWidgetManager
@@ -7,10 +7,10 @@ import android.content.Context
 import android.content.Intent
 import android.view.View
 import android.widget.RemoteViews
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.activities.MainActivity
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.helpers.HealthFormatter
 import com.habitrpg.common.habitica.helpers.NumberAbbreviator
 import com.habitrpg.common.habitica.helpers.launchCatching

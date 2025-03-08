@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.graphics.Paint
 import android.graphics.PorterDuff
@@ -8,12 +8,12 @@ import android.view.View
 import android.widget.TextView
 import androidx.core.app.NavUtils
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityAdventureGuideBinding
-import com.habitrpg.android.habitica.databinding.AdventureGuideItemBinding
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityAdventureGuideBinding
+import xyz.prfn.android.habitica.databinding.AdventureGuideItemBinding
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.common.habitica.extensions.fromHtml
 import com.habitrpg.common.habitica.extensions.loadImage
 import dagger.hilt.android.AndroidEntryPoint

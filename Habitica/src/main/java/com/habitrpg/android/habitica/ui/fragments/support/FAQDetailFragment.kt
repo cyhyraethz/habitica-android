@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.support
+package xyz.prfn.android.habitica.ui.fragments.support
 
 import android.os.Bundle
 import android.text.method.LinkMovementMethod
@@ -6,9 +6,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.data.FAQRepository
-import com.habitrpg.android.habitica.databinding.FragmentFaqDetailBinding
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.data.FAQRepository
+import xyz.prfn.android.habitica.databinding.FragmentFaqDetailBinding
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
 import com.habitrpg.common.habitica.helpers.MarkdownParser
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint

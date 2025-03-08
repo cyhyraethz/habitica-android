@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.setup
+package xyz.prfn.android.habitica.ui.fragments.setup
 
 import android.os.Bundle
 import android.util.TypedValue
@@ -9,18 +9,18 @@ import android.widget.RelativeLayout
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.tabs.TabLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.data.SetupCustomizationRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.databinding.FragmentSetupAvatarBinding
-import com.habitrpg.android.habitica.extensions.applyScrollContentWindowInsets
-import com.habitrpg.android.habitica.models.SetupCustomization
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.activities.SetupActivity
-import com.habitrpg.android.habitica.ui.adapter.setup.CustomizationSetupAdapter
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
-import com.habitrpg.android.habitica.ui.views.setup.AvatarCategoryView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.data.SetupCustomizationRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.databinding.FragmentSetupAvatarBinding
+import xyz.prfn.android.habitica.extensions.applyScrollContentWindowInsets
+import xyz.prfn.android.habitica.models.SetupCustomization
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.activities.SetupActivity
+import xyz.prfn.android.habitica.ui.adapter.setup.CustomizationSetupAdapter
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.ui.views.setup.AvatarCategoryView
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint
 import java.util.Random

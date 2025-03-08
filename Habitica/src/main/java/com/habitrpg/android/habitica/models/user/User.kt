@@ -1,16 +1,16 @@
-package com.habitrpg.android.habitica.models.user
+package xyz.prfn.android.habitica.models.user
 
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.BaseMainObject
-import com.habitrpg.android.habitica.models.PushDevice
-import com.habitrpg.android.habitica.models.QuestAchievement
-import com.habitrpg.android.habitica.models.Tag
-import com.habitrpg.android.habitica.models.VersionedObject
-import com.habitrpg.android.habitica.models.invitations.Invitations
-import com.habitrpg.android.habitica.models.social.ChallengeMembership
-import com.habitrpg.android.habitica.models.social.UserParty
-import com.habitrpg.android.habitica.models.tasks.TaskList
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.PushDevice
+import xyz.prfn.android.habitica.models.QuestAchievement
+import xyz.prfn.android.habitica.models.Tag
+import xyz.prfn.android.habitica.models.VersionedObject
+import xyz.prfn.android.habitica.models.invitations.Invitations
+import xyz.prfn.android.habitica.models.social.ChallengeMembership
+import xyz.prfn.android.habitica.models.social.UserParty
+import xyz.prfn.android.habitica.models.tasks.TaskList
 import com.habitrpg.shared.habitica.models.Avatar
 import com.habitrpg.shared.habitica.models.tasks.TasksOrder
 import io.realm.RealmList

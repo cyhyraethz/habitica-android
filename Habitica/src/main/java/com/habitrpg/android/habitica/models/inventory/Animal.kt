@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models.inventory
+package xyz.prfn.android.habitica.models.inventory
 
 interface Animal {
     var key: String

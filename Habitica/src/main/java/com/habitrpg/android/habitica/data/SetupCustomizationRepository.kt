@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.data
+package xyz.prfn.android.habitica.data
 
-import com.habitrpg.android.habitica.models.SetupCustomization
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.SetupCustomization
+import xyz.prfn.android.habitica.models.user.User
 
 interface SetupCustomizationRepository {
     fun getCustomizations(

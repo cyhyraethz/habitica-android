@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.receivers
+package xyz.prfn.android.habitica.receivers
 
 import android.app.NotificationManager
 import android.content.BroadcastReceiver
@@ -8,13 +8,13 @@ import android.text.Spannable
 import android.widget.Toast
 import androidx.core.app.NotificationManagerCompat
 import androidx.core.app.RemoteInput
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.interactors.NotifyUserUseCase
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.interactors.NotifyUserUseCase
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint

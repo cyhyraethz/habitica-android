@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models
+package xyz.prfn.android.habitica.models
 
 interface VersionedObject {
     var versionNumber: Int

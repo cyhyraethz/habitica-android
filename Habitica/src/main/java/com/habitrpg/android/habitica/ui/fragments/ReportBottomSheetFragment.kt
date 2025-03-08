@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.app.Dialog
 import android.content.DialogInterface
@@ -16,10 +16,10 @@ import androidx.lifecycle.lifecycleScope
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.ChallengeRepository
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.databinding.FragmentReportMessageBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.ChallengeRepository
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.databinding.FragmentReportMessageBinding
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.common.habitica.helpers.setMarkdown

@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.helpers.SoundManager
-import com.habitrpg.android.habitica.ui.views.HabiticaSnackbar
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.helpers.SoundManager
+import xyz.prfn.android.habitica.ui.views.HabiticaSnackbar
 import com.habitrpg.shared.habitica.models.responses.TaskScoringResult
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.MainScope

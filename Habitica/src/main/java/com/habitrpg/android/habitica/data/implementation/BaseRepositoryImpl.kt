@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.BaseRepository
-import com.habitrpg.android.habitica.data.local.BaseLocalRepository
-import com.habitrpg.android.habitica.models.BaseObject
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.BaseRepository
+import xyz.prfn.android.habitica.data.local.BaseLocalRepository
+import xyz.prfn.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 
 abstract class BaseRepositoryImpl<T : BaseLocalRepository>(
     protected val localRepository: T,

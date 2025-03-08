@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
 import android.content.res.Resources
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.helpers.LanguageHelper
 import java.text.DateFormat
 import java.text.SimpleDateFormat

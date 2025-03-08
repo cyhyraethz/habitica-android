@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.graphics.Color
 import android.os.Build
@@ -9,11 +9,11 @@ import androidx.appcompat.widget.Toolbar
 import androidx.core.content.ContextCompat
 import androidx.core.view.WindowCompat
 import androidx.fragment.app.Fragment
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.setNavigationBarDarkIcons
-import com.habitrpg.android.habitica.extensions.updateStatusBarColor
-import com.habitrpg.android.habitica.ui.fragments.purchases.GemsPurchaseFragment
-import com.habitrpg.android.habitica.ui.fragments.purchases.SubscriptionFragment
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.setNavigationBarDarkIcons
+import xyz.prfn.android.habitica.extensions.updateStatusBarColor
+import xyz.prfn.android.habitica.ui.fragments.purchases.GemsPurchaseFragment
+import xyz.prfn.android.habitica.ui.fragments.purchases.SubscriptionFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

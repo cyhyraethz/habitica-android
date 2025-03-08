@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.ui.views.shops
+package xyz.prfn.android.habitica.ui.views.shops
 
 import android.content.Context
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogPurchaseContentGearBinding
-import com.habitrpg.android.habitica.models.inventory.Equipment
-import com.habitrpg.android.habitica.models.shops.ShopItem
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogPurchaseContentGearBinding
+import xyz.prfn.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.shops.ShopItem
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.views.PixelArtView
 

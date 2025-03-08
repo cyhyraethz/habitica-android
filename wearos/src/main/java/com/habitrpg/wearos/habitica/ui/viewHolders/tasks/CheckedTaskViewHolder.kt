@@ -5,7 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.wearos.habitica.models.tasks.Task
 
 abstract class CheckedTaskViewHolder(itemView: View) : TaskViewHolder(itemView) {

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui
+package xyz.prfn.android.habitica.ui
 
 import android.content.Context
 import android.graphics.Canvas

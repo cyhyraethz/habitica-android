@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import com.habitrpg.android.habitica.data.ChallengeRepository
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.helpers.NotificationsManager
+import xyz.prfn.android.habitica.data.ChallengeRepository
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.helpers.NotificationsManager
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.lifecycle.HiltViewModel

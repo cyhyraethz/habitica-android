@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.data.local.implementation
+package xyz.prfn.android.habitica.data.local.implementation
 
-import com.habitrpg.android.habitica.data.local.SocialLocalRepository
-import com.habitrpg.android.habitica.models.inventory.Quest
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.social.ChatMessageLike
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.models.social.GroupMembership
-import com.habitrpg.android.habitica.models.social.InboxConversation
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.data.local.SocialLocalRepository
+import xyz.prfn.android.habitica.models.inventory.Quest
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.social.ChatMessageLike
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.social.GroupMembership
+import xyz.prfn.android.habitica.models.social.InboxConversation
+import xyz.prfn.android.habitica.models.user.User
 import io.realm.Realm
 import io.realm.Sort
 import io.realm.kotlin.toFlow

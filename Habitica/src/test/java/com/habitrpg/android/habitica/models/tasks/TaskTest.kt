@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.tasks
+package xyz.prfn.android.habitica.models.tasks
 
-import com.habitrpg.android.habitica.extensions.matchesRepeatDays
-import com.habitrpg.android.habitica.extensions.toZonedDateTime
+import xyz.prfn.android.habitica.extensions.matchesRepeatDays
+import xyz.prfn.android.habitica.extensions.toZonedDateTime
 import com.habitrpg.shared.habitica.models.tasks.Frequency
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import io.kotest.core.spec.style.WordSpec

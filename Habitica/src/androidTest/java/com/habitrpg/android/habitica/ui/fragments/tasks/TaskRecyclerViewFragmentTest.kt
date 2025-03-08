@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.ui.fragments.tasks
+package xyz.prfn.android.habitica.ui.fragments.tasks
 
 import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.testing.launchFragmentInContainer
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.tasks.TaskList
-import com.habitrpg.android.habitica.ui.fragments.FragmentTestCase
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.tasks.TaskList
+import xyz.prfn.android.habitica.ui.fragments.FragmentTestCase
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import io.github.kakaocup.kakao.common.views.KView
 import io.github.kakaocup.kakao.recycler.KRecyclerItem

@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.ui.adapter
+package xyz.prfn.android.habitica.ui.adapter
 
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.BaseMainObject
 
 open class DiffCallback<T : BaseMainObject>(
     protected val oldList: List<BaseMainObject>,

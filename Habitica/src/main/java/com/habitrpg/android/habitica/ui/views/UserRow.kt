@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -19,7 +19,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.helpers.AppConfigManager
 import com.habitrpg.common.habitica.views.ComposableAvatarView
 import com.habitrpg.shared.habitica.models.Avatar
 

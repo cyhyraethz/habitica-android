@@ -6,10 +6,10 @@ import android.view.ViewGroup
 import androidx.appcompat.widget.SwitchCompat
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.RowFooterBinding
-import com.habitrpg.android.habitica.databinding.RowSettingsBinding
-import com.habitrpg.android.habitica.databinding.RowSpacerBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.RowFooterBinding
+import xyz.prfn.android.habitica.databinding.RowSettingsBinding
+import xyz.prfn.android.habitica.databinding.RowSpacerBinding
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.wearos.habitica.ui.viewHolders.BindableViewHolder

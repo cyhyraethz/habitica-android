@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewHolders.tasks
+package xyz.prfn.android.habitica.ui.viewHolders.tasks
 
 import android.content.Context
 import android.graphics.PorterDuff
@@ -12,10 +12,10 @@ import androidx.appcompat.content.res.AppCompatResources
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.helpers.GroupPlanInfoProvider
-import com.habitrpg.android.habitica.models.tasks.ChecklistItem
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.helpers.GroupPlanInfoProvider
+import xyz.prfn.android.habitica.models.tasks.ChecklistItem
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.isUsingNightModeResources
 import com.habitrpg.common.habitica.helpers.MarkdownParser

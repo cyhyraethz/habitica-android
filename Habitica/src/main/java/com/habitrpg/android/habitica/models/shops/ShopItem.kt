@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.models.shops
+package xyz.prfn.android.habitica.models.shops
 
 import android.content.Context
 import android.content.res.Resources
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.BaseObject
-import com.habitrpg.android.habitica.models.inventory.Customization
-import com.habitrpg.android.habitica.models.inventory.CustomizationSet
-import com.habitrpg.android.habitica.models.inventory.Equipment
-import com.habitrpg.android.habitica.models.inventory.ItemEvent
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.inventory.Customization
+import xyz.prfn.android.habitica.models.inventory.CustomizationSet
+import xyz.prfn.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.inventory.ItemEvent
+import xyz.prfn.android.habitica.models.user.User
 import io.realm.RealmList
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey

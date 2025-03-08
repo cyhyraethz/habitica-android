@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.graphics.drawable.Drawable
 import android.view.Gravity
@@ -10,8 +10,8 @@ import androidx.annotation.ColorInt
 import androidx.core.content.ContextCompat
 import com.google.android.material.snackbar.BaseTransientBottomBar
 import com.google.android.material.snackbar.Snackbar
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.SnackbarViewBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.SnackbarViewBinding
 import com.habitrpg.common.habitica.helpers.Animations
 import com.plattysoft.leonids.ParticleSystem
 

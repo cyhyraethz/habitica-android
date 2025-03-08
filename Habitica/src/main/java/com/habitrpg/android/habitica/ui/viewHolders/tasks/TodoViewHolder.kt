@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.viewHolders.tasks
+package xyz.prfn.android.habitica.ui.viewHolders.tasks
 
 import android.view.View
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.formatForLocale
-import com.habitrpg.android.habitica.helpers.GroupPlanInfoProvider
-import com.habitrpg.android.habitica.models.tasks.ChecklistItem
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.formatForLocale
+import xyz.prfn.android.habitica.helpers.GroupPlanInfoProvider
+import xyz.prfn.android.habitica.models.tasks.ChecklistItem
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.shared.habitica.models.responses.TaskDirection
 
 class TodoViewHolder(

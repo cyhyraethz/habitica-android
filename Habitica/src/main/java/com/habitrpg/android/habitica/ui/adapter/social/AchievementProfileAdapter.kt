@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.ui.adapter.social
+package xyz.prfn.android.habitica.ui.adapter.social
 
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ProfileAchievementItemBinding
-import com.habitrpg.android.habitica.models.Achievement
-import com.habitrpg.android.habitica.ui.activities.MainActivity
-import com.habitrpg.android.habitica.ui.viewHolders.SectionViewHolder
-import com.habitrpg.android.habitica.ui.views.dialogs.AchievementDetailDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ProfileAchievementItemBinding
+import xyz.prfn.android.habitica.models.Achievement
+import xyz.prfn.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.ui.viewHolders.SectionViewHolder
+import xyz.prfn.android.habitica.ui.views.dialogs.AchievementDetailDialog
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.extensions.loadImage
 

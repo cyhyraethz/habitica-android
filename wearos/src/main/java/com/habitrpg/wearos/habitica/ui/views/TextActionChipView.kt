@@ -6,8 +6,8 @@ import android.util.AttributeSet
 import android.view.Gravity
 import android.widget.RelativeLayout
 import androidx.core.view.isVisible
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.TextActionChipBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.TextActionChipBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 
 open class TextActionChipView

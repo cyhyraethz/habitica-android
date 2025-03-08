@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models
+package xyz.prfn.android.habitica.models
 
 data class CustomizationFilter(
     var onlyPurchased: Boolean = false,

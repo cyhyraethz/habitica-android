@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
 import com.google.gson.JsonObject
 

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.firebase.perf.FirebasePerformance
 import com.google.gson.JsonDeserializationContext
@@ -6,21 +6,21 @@ import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
 import com.google.gson.JsonParseException
 import com.google.gson.reflect.TypeToken
-import com.habitrpg.android.habitica.extensions.getAsString
-import com.habitrpg.android.habitica.models.ContentGear
-import com.habitrpg.android.habitica.models.ContentResult
-import com.habitrpg.android.habitica.models.FAQArticle
-import com.habitrpg.android.habitica.models.Skill
-import com.habitrpg.android.habitica.models.inventory.Customization
-import com.habitrpg.android.habitica.models.inventory.Egg
-import com.habitrpg.android.habitica.models.inventory.Equipment
-import com.habitrpg.android.habitica.models.inventory.EquipmentSet
-import com.habitrpg.android.habitica.models.inventory.Food
-import com.habitrpg.android.habitica.models.inventory.HatchingPotion
-import com.habitrpg.android.habitica.models.inventory.Mount
-import com.habitrpg.android.habitica.models.inventory.Pet
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.models.inventory.SpecialItem
+import xyz.prfn.android.habitica.extensions.getAsString
+import xyz.prfn.android.habitica.models.ContentGear
+import xyz.prfn.android.habitica.models.ContentResult
+import xyz.prfn.android.habitica.models.FAQArticle
+import xyz.prfn.android.habitica.models.Skill
+import xyz.prfn.android.habitica.models.inventory.Customization
+import xyz.prfn.android.habitica.models.inventory.Egg
+import xyz.prfn.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.inventory.EquipmentSet
+import xyz.prfn.android.habitica.models.inventory.Food
+import xyz.prfn.android.habitica.models.inventory.HatchingPotion
+import xyz.prfn.android.habitica.models.inventory.Mount
+import xyz.prfn.android.habitica.models.inventory.Pet
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.models.inventory.SpecialItem
 import io.realm.RealmList
 import java.lang.reflect.Type
 

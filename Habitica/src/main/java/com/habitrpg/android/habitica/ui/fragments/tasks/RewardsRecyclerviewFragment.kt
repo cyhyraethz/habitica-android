@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.tasks
+package xyz.prfn.android.habitica.ui.fragments.tasks
 
 import android.app.Activity
 import android.content.Context
@@ -13,14 +13,14 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.shops.ShopItem
-import com.habitrpg.android.habitica.ui.activities.MainActivity
-import com.habitrpg.android.habitica.ui.activities.SkillMemberActivity
-import com.habitrpg.android.habitica.ui.adapter.tasks.RewardsRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.helpers.SafeDefaultItemAnimator
-import com.habitrpg.android.habitica.ui.views.HabiticaSnackbar
-import com.habitrpg.android.habitica.ui.views.shops.PurchaseDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.shops.ShopItem
+import xyz.prfn.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.ui.activities.SkillMemberActivity
+import xyz.prfn.android.habitica.ui.adapter.tasks.RewardsRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.helpers.SafeDefaultItemAnimator
+import xyz.prfn.android.habitica.ui.views.HabiticaSnackbar
+import xyz.prfn.android.habitica.ui.views.shops.PurchaseDialog
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.shared.habitica.models.tasks.TaskType

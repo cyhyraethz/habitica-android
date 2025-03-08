@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.data
+package xyz.prfn.android.habitica.data
 
-import com.habitrpg.android.habitica.models.TutorialStep
+import xyz.prfn.android.habitica.models.TutorialStep
 import kotlinx.coroutines.flow.Flow
 
 interface TutorialRepository : BaseRepository {

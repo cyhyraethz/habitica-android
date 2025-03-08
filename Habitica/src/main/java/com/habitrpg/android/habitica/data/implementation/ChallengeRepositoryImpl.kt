@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.ChallengeRepository
-import com.habitrpg.android.habitica.data.local.ChallengeLocalRepository
-import com.habitrpg.android.habitica.models.LeaveChallengeBody
-import com.habitrpg.android.habitica.models.social.Challenge
-import com.habitrpg.android.habitica.models.social.ChallengeMembership
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.tasks.TaskList
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.ChallengeRepository
+import xyz.prfn.android.habitica.data.local.ChallengeLocalRepository
+import xyz.prfn.android.habitica.models.LeaveChallengeBody
+import xyz.prfn.android.habitica.models.social.Challenge
+import xyz.prfn.android.habitica.models.social.ChallengeMembership
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.tasks.TaskList
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import com.habitrpg.shared.habitica.models.tasks.TasksOrder
 import kotlinx.coroutines.flow.Flow

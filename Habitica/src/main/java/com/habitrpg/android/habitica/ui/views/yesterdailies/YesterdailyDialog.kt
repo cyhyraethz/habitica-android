@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.yesterdailies
+package xyz.prfn.android.habitica.ui.views.yesterdailies
 
 import android.app.Activity
 import android.content.Context
@@ -10,15 +10,15 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.helpers.EventCategory
-import com.habitrpg.android.habitica.helpers.HitType
-import com.habitrpg.android.habitica.models.tasks.ChecklistItem
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.helpers.EventCategory
+import xyz.prfn.android.habitica.helpers.HitType
+import xyz.prfn.android.habitica.models.tasks.ChecklistItem
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.isUsingNightModeResources

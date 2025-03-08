@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.firebase.perf.FirebasePerformance
 import com.google.gson.JsonArray
@@ -6,9 +6,9 @@ import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
 import com.google.gson.JsonObject
-import com.habitrpg.android.habitica.models.Tag
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.tasks.TaskList
+import xyz.prfn.android.habitica.models.Tag
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.tasks.TaskList
 import io.realm.Realm
 import io.realm.RealmList
 import java.lang.reflect.Type

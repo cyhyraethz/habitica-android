@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models.inventory
+package xyz.prfn.android.habitica.models.inventory
 
-import com.habitrpg.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.BaseObject
 import io.realm.RealmList
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey

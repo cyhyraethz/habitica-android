@@ -9,9 +9,9 @@ import android.widget.GridLayout
 import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.preference.PreferenceManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityTaskResultBinding
-import com.habitrpg.android.habitica.databinding.TaskRewardDropBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityTaskResultBinding
+import xyz.prfn.android.habitica.databinding.TaskRewardDropBinding
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.extensions.localizedCapitalize

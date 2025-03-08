@@ -12,7 +12,7 @@ import android.view.animation.Animation
 import android.view.animation.LinearInterpolator
 import androidx.core.animation.doOnEnd
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.extensions.dpToPx
 import kotlin.math.min
 

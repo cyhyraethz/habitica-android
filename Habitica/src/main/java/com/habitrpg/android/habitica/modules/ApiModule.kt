@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.modules
+package xyz.prfn.android.habitica.modules
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.habitrpg.android.habitica.api.MaintenanceApiService
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.implementation.ApiClientImpl
-import com.habitrpg.android.habitica.data.implementation.ApiClientImpl.Companion.createGsonFactory
-import com.habitrpg.android.habitica.helpers.MainNotificationsManager
-import com.habitrpg.android.habitica.helpers.NotificationsManager
+import xyz.prfn.android.habitica.api.MaintenanceApiService
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.implementation.ApiClientImpl
+import xyz.prfn.android.habitica.data.implementation.ApiClientImpl.Companion.createGsonFactory
+import xyz.prfn.android.habitica.helpers.MainNotificationsManager
+import xyz.prfn.android.habitica.helpers.NotificationsManager
 import com.habitrpg.common.habitica.api.HostConfig
 import com.habitrpg.common.habitica.helpers.KeyHelper
 import dagger.Module

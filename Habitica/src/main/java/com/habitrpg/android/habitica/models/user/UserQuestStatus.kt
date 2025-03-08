@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models.user
+package xyz.prfn.android.habitica.models.user
 
 enum class UserQuestStatus {
     NO_QUEST,

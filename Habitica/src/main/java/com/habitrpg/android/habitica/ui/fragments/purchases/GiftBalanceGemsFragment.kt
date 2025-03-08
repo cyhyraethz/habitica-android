@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.purchases
+package xyz.prfn.android.habitica.ui.fragments.purchases
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -7,14 +7,14 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.databinding.FragmentGiftGemBalanceBinding
-import com.habitrpg.android.habitica.extensions.addCloseButton
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.databinding.FragmentGiftGemBalanceBinding
+import xyz.prfn.android.habitica.extensions.addCloseButton
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

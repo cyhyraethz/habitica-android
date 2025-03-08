@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.ui.fragments.social.challenges
+package xyz.prfn.android.habitica.ui.fragments.social.challenges
 
 import android.app.Activity
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogChallengeFilterBinding
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.ui.adapter.social.challenges.ChallengesFilterRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaBottomSheetDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogChallengeFilterBinding
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.ui.adapter.social.challenges.ChallengesFilterRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaBottomSheetDialog
 
 internal class ChallengeFilterDialogHolder private constructor(
     view: View,

@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.data
+package xyz.prfn.android.habitica.data
 
-import com.habitrpg.android.habitica.models.FAQArticle
+import xyz.prfn.android.habitica.models.FAQArticle
 import kotlinx.coroutines.flow.Flow
 
 interface FAQRepository : BaseRepository {

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.insufficientCurrency
+package xyz.prfn.android.habitica.ui.views.insufficientCurrency
 
 import android.app.Activity
 import android.os.Bundle
@@ -8,12 +8,12 @@ import android.widget.TextView
 import androidx.core.os.bundleOf
 import androidx.core.view.isVisible
 import com.google.firebase.analytics.FirebaseAnalytics
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.addCloseButton
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.helpers.PurchaseHandler
-import com.habitrpg.android.habitica.helpers.PurchaseTypes
-import com.habitrpg.android.habitica.interactors.InsufficientGemsUseCase
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.addCloseButton
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.helpers.PurchaseHandler
+import xyz.prfn.android.habitica.helpers.PurchaseTypes
+import xyz.prfn.android.habitica.interactors.InsufficientGemsUseCase
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.EntryPoint

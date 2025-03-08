@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica
+package xyz.prfn.android.habitica
 
 import android.app.Activity
 import android.app.Application
@@ -28,15 +28,15 @@ import com.google.firebase.remoteconfig.ConfigUpdateListener
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.firebase.remoteconfig.FirebaseRemoteConfigException
 import com.google.firebase.remoteconfig.FirebaseRemoteConfigSettings
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.extensions.DateUtils
-import com.habitrpg.android.habitica.helpers.AdHandler
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.helpers.notifications.PushNotificationManager
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
-import com.habitrpg.android.habitica.ui.activities.BaseActivity
-import com.habitrpg.android.habitica.ui.activities.LoginActivity
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.extensions.DateUtils
+import xyz.prfn.android.habitica.helpers.AdHandler
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.helpers.notifications.PushNotificationManager
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.ui.activities.BaseActivity
+import xyz.prfn.android.habitica.ui.activities.LoginActivity
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.setupCoil
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.LanguageHelper

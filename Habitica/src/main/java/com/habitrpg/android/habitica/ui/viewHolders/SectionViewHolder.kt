@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewHolders
+package xyz.prfn.android.habitica.ui.viewHolders
 
 import android.content.Context
 import android.view.Gravity
@@ -13,11 +13,11 @@ import android.widget.TextView
 import androidx.appcompat.content.res.AppCompatResources
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.getImpreciseRemainingString
-import com.habitrpg.android.habitica.extensions.getTranslatedAnimalType
-import com.habitrpg.android.habitica.models.inventory.StableSection
-import com.habitrpg.android.habitica.ui.views.CurrencyView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.getImpreciseRemainingString
+import xyz.prfn.android.habitica.extensions.getTranslatedAnimalType
+import xyz.prfn.android.habitica.models.inventory.StableSection
+import xyz.prfn.android.habitica.ui.views.CurrencyView
 import com.habitrpg.common.habitica.extensions.inflate
 import java.util.Date
 

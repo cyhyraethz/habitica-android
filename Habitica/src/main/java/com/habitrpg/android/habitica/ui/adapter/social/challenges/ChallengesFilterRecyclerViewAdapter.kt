@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.adapter.social.challenges
+package xyz.prfn.android.habitica.ui.adapter.social.challenges
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogChallengeFilterGroupItemBinding
-import com.habitrpg.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogChallengeFilterGroupItemBinding
+import xyz.prfn.android.habitica.models.social.Group
 
 class ChallengesFilterRecyclerViewAdapter(entries: List<Group>) :
     RecyclerView.Adapter<ChallengesFilterRecyclerViewAdapter.ChallengeViewHolder>() {

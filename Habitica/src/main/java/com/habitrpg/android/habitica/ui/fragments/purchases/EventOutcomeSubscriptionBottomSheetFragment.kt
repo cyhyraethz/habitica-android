@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.ui.fragments.purchases
+package xyz.prfn.android.habitica.ui.fragments.purchases
 
 import android.os.Bundle
 import android.view.View
 import androidx.core.view.isVisible
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 class EventOutcomeSubscriptionBottomSheetFragment : SubscriptionBottomSheetFragment() {
     var eventType: String = ""

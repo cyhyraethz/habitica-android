@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.shops
+package xyz.prfn.android.habitica.ui.views.shops
 
 import android.content.Context
 import android.text.TextUtils
@@ -7,11 +7,11 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogPurchaseContentQuestBinding
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.models.inventory.QuestDropItem
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogPurchaseContentQuestBinding
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.models.inventory.QuestDropItem
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.views.PixelArtView

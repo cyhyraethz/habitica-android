@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewHolders
+package xyz.prfn.android.habitica.ui.viewHolders
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -9,15 +9,15 @@ import android.view.View
 import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ChatItemBinding
-import com.habitrpg.android.habitica.databinding.TavernChatIntroItemBinding
-import com.habitrpg.android.habitica.extensions.getAgoString
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.user.Permission
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ChatItemBinding
+import xyz.prfn.android.habitica.databinding.TavernChatIntroItemBinding
+import xyz.prfn.android.habitica.extensions.getAgoString
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.user.Permission
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.DataBindingUtils
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.setScaledPadding

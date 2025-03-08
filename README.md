@@ -4,7 +4,7 @@
 
 It's also on Google Play:
 
-<a href="https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica">
+<a href="https://play.google.com/store/apps/details?id=xyz.prfn.android.habitica">
   <img alt="Get it on Google Play"
        width="185"
        src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" />
@@ -70,7 +70,7 @@ We use Kotlin and follow the code style based on the [Android Kotlin Style Guide
 
    b. Create a new project called Habitica
 
-   c. Create two apps in the project: `com.habitrpg.android.habitica` and `com.habitrpg.android.habitica.debug`
+   c. Create two apps in the project: `xyz.prfn.android.habitica` and `xyz.prfn.android.habitica.debug`
 
    d. Creating each app will generate a `google-services.json` file. Download the `google-services.json` file from the second app and put it in `\Habitica\` and `\wearos\`
 

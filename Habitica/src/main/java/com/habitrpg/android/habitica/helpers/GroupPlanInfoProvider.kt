@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.content.res.Resources
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.tasks.Task
 
 interface GroupPlanInfoProvider {
     fun assignedTextForTask(

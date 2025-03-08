@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.ViewGroup
 import androidx.core.view.children
 import androidx.core.widget.NestedScrollView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.applyScrollContentWindowInsets
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.applyScrollContentWindowInsets
 
 class HabiticaScrollView @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.promo
+package xyz.prfn.android.habitica.ui.views.promo
 
 import android.content.Context
 import android.graphics.drawable.Drawable
@@ -7,8 +7,8 @@ import android.view.View
 import android.widget.ImageView
 import android.widget.RelativeLayout
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.PromoMenuBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.PromoMenuBinding
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.layoutInflater
 

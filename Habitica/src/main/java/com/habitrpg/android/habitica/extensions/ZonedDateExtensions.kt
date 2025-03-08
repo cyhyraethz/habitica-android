@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
-import com.habitrpg.android.habitica.models.tasks.Days
+import xyz.prfn.android.habitica.models.tasks.Days
 import java.time.DayOfWeek
 import java.time.LocalDateTime
 import java.time.ZoneId

@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.activities.ClassSelectionActivity
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.activities.ClassSelectionActivity
 import javax.inject.Inject
 
 class CheckClassSelectionUseCase

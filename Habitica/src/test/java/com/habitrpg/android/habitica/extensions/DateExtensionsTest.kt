@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
 import io.kotest.core.spec.style.WordSpec
 import io.kotest.matchers.shouldBe

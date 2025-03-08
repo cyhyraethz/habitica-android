@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -8,8 +8,8 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import androidx.core.content.ContextCompat
 import androidx.core.content.edit
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ViewCollapsibleSectionBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ViewCollapsibleSectionBinding
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.layoutInflater
 

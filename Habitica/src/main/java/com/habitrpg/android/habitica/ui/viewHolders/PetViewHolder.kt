@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewHolders
+package xyz.prfn.android.habitica.ui.viewHolders
 
 import android.app.Activity
 import android.graphics.PorterDuff
@@ -6,16 +6,16 @@ import android.graphics.drawable.BitmapDrawable
 import android.view.View
 import android.view.ViewGroup
 import androidx.core.graphics.drawable.toBitmap
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.PetDetailItemBinding
-import com.habitrpg.android.habitica.models.inventory.Animal
-import com.habitrpg.android.habitica.models.inventory.Egg
-import com.habitrpg.android.habitica.models.inventory.Food
-import com.habitrpg.android.habitica.models.inventory.HatchingPotion
-import com.habitrpg.android.habitica.models.inventory.Pet
-import com.habitrpg.android.habitica.ui.views.dialogs.PetSuggestHatchDialog
-import com.habitrpg.android.habitica.ui.views.showAsBottomSheet
-import com.habitrpg.android.habitica.ui.views.stable.PetBottomSheet
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.PetDetailItemBinding
+import xyz.prfn.android.habitica.models.inventory.Animal
+import xyz.prfn.android.habitica.models.inventory.Egg
+import xyz.prfn.android.habitica.models.inventory.Food
+import xyz.prfn.android.habitica.models.inventory.HatchingPotion
+import xyz.prfn.android.habitica.models.inventory.Pet
+import xyz.prfn.android.habitica.ui.views.dialogs.PetSuggestHatchDialog
+import xyz.prfn.android.habitica.ui.views.showAsBottomSheet
+import xyz.prfn.android.habitica.ui.views.stable.PetBottomSheet
 import com.habitrpg.common.habitica.extensions.DataBindingUtils
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.shared.habitica.models.responses.FeedResponse

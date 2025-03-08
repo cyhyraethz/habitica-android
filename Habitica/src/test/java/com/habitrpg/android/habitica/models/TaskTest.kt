@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models
+package xyz.prfn.android.habitica.models
 
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.tasks.Task
 import io.kotest.core.spec.style.WordSpec
 import io.kotest.matchers.shouldBe
 import java.util.Date

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.helpers
+package xyz.prfn.android.habitica.ui.helpers
 
 /*
  * Copyright 2015 Mike Penz All rights reserved.

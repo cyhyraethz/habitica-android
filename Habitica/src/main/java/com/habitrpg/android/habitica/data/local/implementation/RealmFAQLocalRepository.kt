@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.data.local.implementation
+package xyz.prfn.android.habitica.data.local.implementation
 
-import com.habitrpg.android.habitica.data.local.FAQLocalRepository
-import com.habitrpg.android.habitica.models.FAQArticle
+import xyz.prfn.android.habitica.data.local.FAQLocalRepository
+import xyz.prfn.android.habitica.models.FAQArticle
 import io.realm.Realm
 import io.realm.kotlin.toFlow
 import kotlinx.coroutines.flow.Flow

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,10 +6,10 @@ import android.text.method.LinkMovementMethod
 import android.view.View
 import androidx.core.net.toUri
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.api.MaintenanceApiService
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.databinding.ActivityMaintenanceBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.api.MaintenanceApiService
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.databinding.ActivityMaintenanceBinding
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.common.habitica.helpers.setMarkdown
 import dagger.hilt.android.AndroidEntryPoint

@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.views.promo
+package xyz.prfn.android.habitica.ui.views.promo
 
 import android.content.Context
 import android.util.AttributeSet
 import android.widget.Button
 import android.widget.RelativeLayout
 import androidx.core.os.bundleOf
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.helpers.MainNavigationController

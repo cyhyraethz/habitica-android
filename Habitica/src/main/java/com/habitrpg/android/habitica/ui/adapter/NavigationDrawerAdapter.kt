@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.adapter
+package xyz.prfn.android.habitica.ui.adapter
 
 import android.view.View
 import android.view.ViewGroup
@@ -6,16 +6,16 @@ import android.widget.TextView
 import androidx.compose.ui.platform.ComposeView
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.WorldStateEvent
-import com.habitrpg.android.habitica.models.promotions.HabiticaPromotion
-import com.habitrpg.android.habitica.ui.menu.HabiticaDrawerItem
-import com.habitrpg.android.habitica.ui.viewHolders.ComposableViewHolder
-import com.habitrpg.android.habitica.ui.views.promo.BirthdayBanner
-import com.habitrpg.android.habitica.ui.views.promo.PromoMenuView
-import com.habitrpg.android.habitica.ui.views.promo.PromoMenuViewHolder
-import com.habitrpg.android.habitica.ui.views.promo.SubscriptionBuyGemsPromoView
-import com.habitrpg.android.habitica.ui.views.promo.SubscriptionBuyGemsPromoViewHolder
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.WorldStateEvent
+import xyz.prfn.android.habitica.models.promotions.HabiticaPromotion
+import xyz.prfn.android.habitica.ui.menu.HabiticaDrawerItem
+import xyz.prfn.android.habitica.ui.viewHolders.ComposableViewHolder
+import xyz.prfn.android.habitica.ui.views.promo.BirthdayBanner
+import xyz.prfn.android.habitica.ui.views.promo.PromoMenuView
+import xyz.prfn.android.habitica.ui.views.promo.PromoMenuViewHolder
+import xyz.prfn.android.habitica.ui.views.promo.SubscriptionBuyGemsPromoView
+import xyz.prfn.android.habitica.ui.views.promo.SubscriptionBuyGemsPromoViewHolder
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.inflate
 import java.util.Date

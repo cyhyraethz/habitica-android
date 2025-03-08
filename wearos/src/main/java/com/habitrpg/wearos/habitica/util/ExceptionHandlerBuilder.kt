@@ -1,7 +1,7 @@
 package com.habitrpg.wearos.habitica.util
 
 import android.util.Log
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.wearos.habitica.managers.AppStateManager
 import com.habitrpg.wearos.habitica.models.DisplayedError
 import dagger.hilt.android.scopes.ViewModelScoped

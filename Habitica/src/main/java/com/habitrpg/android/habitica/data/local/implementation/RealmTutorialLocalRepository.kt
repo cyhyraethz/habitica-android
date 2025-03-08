@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.data.local.implementation
+package xyz.prfn.android.habitica.data.local.implementation
 
-import com.habitrpg.android.habitica.data.local.TutorialLocalRepository
-import com.habitrpg.android.habitica.models.TutorialStep
+import xyz.prfn.android.habitica.data.local.TutorialLocalRepository
+import xyz.prfn.android.habitica.models.TutorialStep
 import io.realm.Realm
 import io.realm.kotlin.toFlow
 import kotlinx.coroutines.flow.Flow

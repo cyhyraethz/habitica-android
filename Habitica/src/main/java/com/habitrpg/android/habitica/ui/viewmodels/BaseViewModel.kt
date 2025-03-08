@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import kotlinx.coroutines.launch
 

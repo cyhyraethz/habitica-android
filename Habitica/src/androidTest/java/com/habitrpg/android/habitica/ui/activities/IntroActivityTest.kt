@@ -2,9 +2,9 @@
 import androidx.test.ext.junit.rules.ActivityScenarioRule
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.LargeTest
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.activities.ActivityTestCase
-import com.habitrpg.android.habitica.ui.activities.IntroActivity
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.activities.ActivityTestCase
+import xyz.prfn.android.habitica.ui.activities.IntroActivity
 import io.github.kakaocup.kakao.screen.Screen
 import io.github.kakaocup.kakao.text.KButton
 import org.junit.Rule

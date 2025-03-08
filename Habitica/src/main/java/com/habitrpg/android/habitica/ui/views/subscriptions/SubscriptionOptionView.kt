@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.subscriptions
+package xyz.prfn.android.habitica.ui.views.subscriptions
 
 import android.animation.ArgbEvaluator
 import android.animation.ValueAnimator
@@ -19,8 +19,8 @@ import android.widget.FrameLayout
 import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
 import androidx.core.widget.TextViewCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.PurchaseSubscriptionViewBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.PurchaseSubscriptionViewBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 
 class SubscriptionOptionView(context: Context, attrs: AttributeSet) : FrameLayout(context, attrs) {

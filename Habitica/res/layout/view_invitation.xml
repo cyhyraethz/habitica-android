@@ -13,7 +13,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <com.habitrpg.android.habitica.ui.RoundedFrameLayout
+            <xyz.prfn.android.habitica.ui.RoundedFrameLayout
                 android:layout_width="@dimen/avatar_chat_size"
                 android:layout_height="@dimen/avatar_chat_size"
                 android:clipChildren="true"
@@ -26,7 +26,7 @@
                     android:layout_gravity="center"
                     app:showMount="false"
                     app:showPet="false" />
-            </com.habitrpg.android.habitica.ui.RoundedFrameLayout>
+            </xyz.prfn.android.habitica.ui.RoundedFrameLayout>
 
             <TextView
                 android:id="@+id/groupleader_text_view"

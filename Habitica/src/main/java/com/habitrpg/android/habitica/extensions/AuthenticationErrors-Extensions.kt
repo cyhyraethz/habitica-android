@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
 enum class AuthenticationErrors {
     // Google Auth

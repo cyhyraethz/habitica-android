@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica;
+package xyz.prfn.android.habitica;
 
-import com.habitrpg.android.habitica.modules.DeveloperModule;
+import xyz.prfn.android.habitica.modules.DeveloperModule;
 
 //change debug proxy here by override methods
 public class DebugDeveloperModule extends DeveloperModule {

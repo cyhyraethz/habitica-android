@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models.user
+package xyz.prfn.android.habitica.models.user
 
-import com.habitrpg.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.BaseObject
 
 interface OwnedObject : BaseObject {
     var userID: String?

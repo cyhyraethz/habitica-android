@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.navigation
+package xyz.prfn.android.habitica.ui.views.navigation
 
 import android.content.Context
 import android.graphics.PorterDuff
@@ -7,8 +7,8 @@ import android.util.AttributeSet
 import android.view.View
 import android.widget.RelativeLayout
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.BottomNavigationItemBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.BottomNavigationItemBinding
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.isUsingNightModeResources
 import com.habitrpg.common.habitica.extensions.layoutInflater

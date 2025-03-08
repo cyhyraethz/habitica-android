@@ -1,17 +1,17 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.content.Context
 import androidx.preference.PreferenceManager
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.habitrpg.android.habitica.BuildConfig
-import com.habitrpg.android.habitica.data.ContentRepository
-import com.habitrpg.android.habitica.models.WorldState
-import com.habitrpg.android.habitica.models.WorldStateEvent
-import com.habitrpg.android.habitica.models.promotions.HabiticaPromotion
-import com.habitrpg.android.habitica.models.promotions.HabiticaWebPromotion
-import com.habitrpg.android.habitica.models.promotions.getHabiticaPromotionFromKey
+import xyz.prfn.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.data.ContentRepository
+import xyz.prfn.android.habitica.models.WorldState
+import xyz.prfn.android.habitica.models.WorldStateEvent
+import xyz.prfn.android.habitica.models.promotions.HabiticaPromotion
+import xyz.prfn.android.habitica.models.promotions.HabiticaWebPromotion
+import xyz.prfn.android.habitica.models.promotions.getHabiticaPromotionFromKey
 import com.habitrpg.common.habitica.helpers.AppTestingLevel
 import com.habitrpg.common.habitica.helpers.launchCatching
 import kotlinx.coroutines.MainScope

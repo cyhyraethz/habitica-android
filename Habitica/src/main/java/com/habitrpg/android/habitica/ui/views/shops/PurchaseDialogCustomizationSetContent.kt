@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.views.shops
+package xyz.prfn.android.habitica.ui.views.shops
 
 import android.content.Context
 import android.widget.TextView
 import com.google.android.flexbox.FlexboxLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogPurchaseCustomizationsetBinding
-import com.habitrpg.android.habitica.models.shops.ShopItem
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogPurchaseCustomizationsetBinding
+import xyz.prfn.android.habitica.models.shops.ShopItem
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.loadImage

@@ -5,7 +5,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.databinding.ActivityHabitDirectionBinding
+import xyz.prfn.android.habitica.databinding.ActivityHabitDirectionBinding
 import com.habitrpg.shared.habitica.models.responses.TaskDirection
 import com.habitrpg.wearos.habitica.ui.viewmodels.HabitDirectionViewModel
 import dagger.hilt.android.AndroidEntryPoint

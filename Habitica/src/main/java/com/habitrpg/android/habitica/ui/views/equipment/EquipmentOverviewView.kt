@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.equipment
+package xyz.prfn.android.habitica.ui.views.equipment
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -23,12 +23,12 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.user.Outfit
-import com.habitrpg.android.habitica.models.user.Preferences
-import com.habitrpg.android.habitica.ui.theme.colors
-import com.habitrpg.android.habitica.ui.theme.pixelArtBackground
-import com.habitrpg.android.habitica.ui.views.PixelArtView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.user.Outfit
+import xyz.prfn.android.habitica.models.user.Preferences
+import xyz.prfn.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.ui.theme.pixelArtBackground
+import xyz.prfn.android.habitica.ui.views.PixelArtView
 import com.habitrpg.common.habitica.theme.HabiticaTheme
 import com.habitrpg.common.habitica.theme.caption2
 

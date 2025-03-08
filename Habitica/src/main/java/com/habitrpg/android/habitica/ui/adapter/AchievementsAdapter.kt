@@ -1,16 +1,16 @@
-package com.habitrpg.android.habitica.ui.adapter
+package xyz.prfn.android.habitica.ui.adapter
 
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.AchievementChallengeItemBinding
-import com.habitrpg.android.habitica.databinding.AchievementQuestItemBinding
-import com.habitrpg.android.habitica.databinding.AchievementSectionHeaderBinding
-import com.habitrpg.android.habitica.models.Achievement
-import com.habitrpg.android.habitica.models.QuestAchievement
-import com.habitrpg.android.habitica.ui.views.dialogs.AchievementDetailDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.AchievementChallengeItemBinding
+import xyz.prfn.android.habitica.databinding.AchievementQuestItemBinding
+import xyz.prfn.android.habitica.databinding.AchievementSectionHeaderBinding
+import xyz.prfn.android.habitica.models.Achievement
+import xyz.prfn.android.habitica.models.QuestAchievement
+import xyz.prfn.android.habitica.ui.views.dialogs.AchievementDetailDialog
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.views.PixelArtView

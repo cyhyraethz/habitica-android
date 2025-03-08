@@ -1,18 +1,18 @@
-package com.habitrpg.android.habitica.ui.adapter.tasks
+package xyz.prfn.android.habitica.ui.adapter.tasks
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.shops.ShopItem
-import com.habitrpg.android.habitica.models.tasks.ChecklistItem
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.adapter.BaseRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.viewHolders.ShopItemViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.RewardViewHolder
-import com.habitrpg.android.habitica.ui.viewmodels.TasksViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.shops.ShopItem
+import xyz.prfn.android.habitica.models.tasks.ChecklistItem
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.adapter.BaseRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.viewHolders.ShopItemViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.RewardViewHolder
+import xyz.prfn.android.habitica.ui.viewmodels.TasksViewModel
 import com.habitrpg.shared.habitica.models.responses.TaskDirection
 
 class RewardsRecyclerViewAdapter(

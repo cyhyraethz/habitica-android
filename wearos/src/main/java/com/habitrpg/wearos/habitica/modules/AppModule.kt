@@ -3,7 +3,7 @@ package com.habitrpg.wearos.habitica.modules
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.preference.PreferenceManager
-import com.habitrpg.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.BuildConfig
 import com.habitrpg.common.habitica.api.HostConfig
 import com.habitrpg.common.habitica.helpers.AppTestingLevel
 import com.habitrpg.common.habitica.helpers.KeyHelper

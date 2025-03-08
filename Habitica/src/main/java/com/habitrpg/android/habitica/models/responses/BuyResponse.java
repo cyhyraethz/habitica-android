@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models.responses;
+package xyz.prfn.android.habitica.models.responses;
 
-import com.habitrpg.android.habitica.models.user.Items;
+import xyz.prfn.android.habitica.models.user.Items;
 
 import java.util.HashMap;
 

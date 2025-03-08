@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.login
+package xyz.prfn.android.habitica.ui.views.login
 
 import android.content.Context
 import android.util.AttributeSet

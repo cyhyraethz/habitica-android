@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.preferences
+package xyz.prfn.android.habitica.ui.views.preferences
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -13,9 +13,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.theme.colors
-import com.habitrpg.android.habitica.ui.views.HabiticaButton
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.ui.views.HabiticaButton
 import com.habitrpg.common.habitica.theme.HabiticaTheme
 
 @Composable

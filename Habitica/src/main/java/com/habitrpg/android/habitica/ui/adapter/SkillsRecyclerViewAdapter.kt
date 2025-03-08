@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.adapter
+package xyz.prfn.android.habitica.ui.adapter
 
 import android.content.Context
 import android.graphics.drawable.BitmapDrawable
@@ -7,11 +7,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.SkillListItemBinding
-import com.habitrpg.android.habitica.models.Skill
-import com.habitrpg.android.habitica.models.user.OwnedItem
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.SkillListItemBinding
+import xyz.prfn.android.habitica.models.Skill
+import xyz.prfn.android.habitica.models.user.OwnedItem
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.extensions.isUsingNightModeResources
 import com.habitrpg.common.habitica.extensions.loadImage

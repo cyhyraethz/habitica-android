@@ -1,16 +1,16 @@
-package com.habitrpg.android.habitica.models.promotions
+package xyz.prfn.android.habitica.models.promotions
 
 import android.content.Context
 import android.graphics.drawable.Drawable
 import android.graphics.drawable.ShapeDrawable
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentGemPurchaseBinding
-import com.habitrpg.android.habitica.databinding.FragmentSubscriptionBinding
-import com.habitrpg.android.habitica.databinding.PurchaseGemViewBinding
-import com.habitrpg.android.habitica.ui.fragments.PromoInfoFragment
-import com.habitrpg.android.habitica.ui.fragments.PromoWebFragmentArgs
-import com.habitrpg.android.habitica.ui.views.promo.PromoMenuView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentGemPurchaseBinding
+import xyz.prfn.android.habitica.databinding.FragmentSubscriptionBinding
+import xyz.prfn.android.habitica.databinding.PurchaseGemViewBinding
+import xyz.prfn.android.habitica.ui.fragments.PromoInfoFragment
+import xyz.prfn.android.habitica.ui.fragments.PromoWebFragmentArgs
+import xyz.prfn.android.habitica.ui.views.promo.PromoMenuView
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import java.util.Date
 

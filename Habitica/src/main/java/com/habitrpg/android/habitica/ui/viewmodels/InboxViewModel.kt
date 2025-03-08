@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.SavedStateHandle
@@ -10,9 +10,9 @@ import androidx.paging.PagingData
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import androidx.paging.liveData
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.models.social.ChatMessage
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import dagger.hilt.android.lifecycle.HiltViewModel
 import io.realm.kotlin.toFlow

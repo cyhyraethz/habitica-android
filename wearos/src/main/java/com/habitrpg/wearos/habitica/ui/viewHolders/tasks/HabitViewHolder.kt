@@ -3,8 +3,8 @@ package com.habitrpg.wearos.habitica.ui.viewHolders.tasks
 import android.content.res.ColorStateList
 import android.view.View
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.RowHabitBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.RowHabitBinding
 import com.habitrpg.wearos.habitica.models.tasks.Task
 import com.habitrpg.wearos.habitica.ui.views.TaskTextView
 

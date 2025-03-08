@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.testing.launchFragmentInContainer
 import androidx.test.filters.LargeTest
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DrawerMainBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DrawerMainBinding
 import io.github.kakaocup.kakao.recycler.KRecyclerItem
 import io.github.kakaocup.kakao.recycler.KRecyclerView
 import io.github.kakaocup.kakao.screen.Screen

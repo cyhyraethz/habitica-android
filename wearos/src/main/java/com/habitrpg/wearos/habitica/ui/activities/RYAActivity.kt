@@ -7,9 +7,9 @@ import androidx.activity.viewModels
 import androidx.core.view.isVisible
 import androidx.lifecycle.Observer
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityRyaBinding
-import com.habitrpg.android.habitica.databinding.RowDailyBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityRyaBinding
+import xyz.prfn.android.habitica.databinding.RowDailyBinding
 import com.habitrpg.common.habitica.helpers.DeviceCommunication
 import com.habitrpg.wearos.habitica.models.tasks.Task
 import com.habitrpg.wearos.habitica.ui.viewHolders.tasks.DailyViewHolder

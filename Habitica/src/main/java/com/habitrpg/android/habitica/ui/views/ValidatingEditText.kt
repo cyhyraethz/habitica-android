@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.content.Context
 import android.text.InputType
@@ -6,8 +6,8 @@ import android.util.AttributeSet
 import android.view.View
 import android.widget.LinearLayout
 import androidx.core.widget.doOnTextChanged
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ValidatingEditTextBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ValidatingEditTextBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 
 class ValidatingEditText

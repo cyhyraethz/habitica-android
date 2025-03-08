@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.api
+package xyz.prfn.android.habitica.api
 
 import com.habitrpg.shared.habitica.models.responses.MaintenanceResponse
 import retrofit2.http.GET

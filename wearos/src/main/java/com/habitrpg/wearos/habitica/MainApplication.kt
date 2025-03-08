@@ -6,7 +6,7 @@ import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.analytics.ktx.analytics
 import com.google.firebase.crashlytics.ktx.crashlytics
 import com.google.firebase.ktx.Firebase
-import com.habitrpg.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.BuildConfig
 import com.habitrpg.common.habitica.extensions.setupCoil
 import com.habitrpg.common.habitica.helpers.MarkdownParser
 import com.habitrpg.wearos.habitica.data.repositories.TaskRepository

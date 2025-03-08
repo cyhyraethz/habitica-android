@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models.user
+package xyz.prfn.android.habitica.models.user
 
-import com.habitrpg.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.BaseMainObject
 import io.realm.RealmObject
 import io.realm.annotations.RealmClass
 

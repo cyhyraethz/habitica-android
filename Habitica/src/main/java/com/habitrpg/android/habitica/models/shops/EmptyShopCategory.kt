@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.models.shops
+package xyz.prfn.android.habitica.models.shops
 
 import android.content.Context
 import android.text.Spannable
 import android.text.SpannableString
 import android.text.style.ForegroundColorSpan
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 class EmptyShopCategory(val categoryIdentifier: String, val shopIdentifier: String?, context: Context?) {
     val title: String = context?.getString(R.string.you_own_all_items) ?: ""

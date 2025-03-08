@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.ui.views.dialogs
+package xyz.prfn.android.habitica.ui.views.dialogs
 
 import android.content.Context
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.models.inventory.QuestContent
 import kotlinx.coroutines.MainScope
 import kotlinx.coroutines.launch
 

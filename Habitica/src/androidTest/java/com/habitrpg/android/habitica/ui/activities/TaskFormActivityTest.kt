@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,9 +8,9 @@ import androidx.test.core.app.launchActivity
 import androidx.test.espresso.assertion.ViewAssertions
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.LargeTest
-import com.habitrpg.android.habitica.HabiticaBaseApplication
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.HabiticaBaseApplication
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.shared.habitica.models.tasks.Frequency
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import io.github.kakaocup.kakao.common.assertions.BaseAssertions

@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.models.tasks
+package xyz.prfn.android.habitica.models.tasks
 
 import android.content.Context
 import android.os.Parcel
 import android.os.Parcelable
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 @io.realm.annotations.RealmClass(embedded = true)
 open class Days() : io.realm.RealmObject(), Parcelable {

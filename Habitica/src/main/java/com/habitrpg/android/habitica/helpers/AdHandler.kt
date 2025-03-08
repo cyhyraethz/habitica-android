@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 /*import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.LoadAdError
@@ -13,7 +13,7 @@ import android.content.Context
 import android.content.SharedPreferences
 import android.provider.Settings
 import androidx.core.content.edit
-import com.habitrpg.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.BuildConfig
 import java.io.UnsupportedEncodingException
 import java.security.MessageDigest
 import java.util.Date

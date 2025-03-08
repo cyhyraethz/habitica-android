@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.models.social
+package xyz.prfn.android.habitica.models.social
 
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.models.user.Authentication
-import com.habitrpg.android.habitica.models.user.ContributorInfo
-import com.habitrpg.android.habitica.models.user.Profile
+import xyz.prfn.android.habitica.models.user.Authentication
+import xyz.prfn.android.habitica.models.user.ContributorInfo
+import xyz.prfn.android.habitica.models.user.Profile
 
 class FindUsernameResult {
     @SerializedName("_id")

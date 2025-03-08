@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.content.Context
 import android.util.AttributeSet
@@ -7,8 +7,8 @@ import android.widget.LinearLayout
 import androidx.core.content.ContextCompat
 import androidx.core.view.children
 import androidx.core.view.isVisible
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.SupportCollapsibleSectionBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.SupportCollapsibleSectionBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.helpers.MarkdownParser
 

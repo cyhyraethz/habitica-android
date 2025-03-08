@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.dialogs
+package xyz.prfn.android.habitica.ui.views.dialogs
 
 import android.content.Context
 import android.util.AttributeSet
@@ -9,11 +9,11 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogCompletedQuestContentBinding
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.models.inventory.QuestDropItem
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogCompletedQuestContentBinding
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.models.inventory.QuestDropItem
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.fromHtml
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.loadImage

@@ -1,5 +1,5 @@
-package com.habitrpg.android.habitica
+package xyz.prfn.android.habitica
 
-import com.habitrpg.android.habitica.modules.DeveloperModule
+import xyz.prfn.android.habitica.modules.DeveloperModule
 
 class ReleaseDeveloperModule : DeveloperModule()

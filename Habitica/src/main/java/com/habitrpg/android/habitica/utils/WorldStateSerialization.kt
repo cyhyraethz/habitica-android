@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
-import com.habitrpg.android.habitica.extensions.getAsString
-import com.habitrpg.android.habitica.models.WorldState
-import com.habitrpg.android.habitica.models.WorldStateEvent
-import com.habitrpg.android.habitica.models.inventory.QuestProgress
-import com.habitrpg.android.habitica.models.inventory.QuestRageStrike
+import xyz.prfn.android.habitica.extensions.getAsString
+import xyz.prfn.android.habitica.models.WorldState
+import xyz.prfn.android.habitica.models.WorldStateEvent
+import xyz.prfn.android.habitica.models.inventory.QuestProgress
+import xyz.prfn.android.habitica.models.inventory.QuestRageStrike
 import io.realm.RealmList
 import java.lang.reflect.Type
 

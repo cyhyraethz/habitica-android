@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.helpers.SoundManager
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.helpers.SoundManager
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.shared.habitica.models.responses.TaskScoringResult
 import javax.inject.Inject
 

@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.stable
+package xyz.prfn.android.habitica.ui.fragments.inventory.stable
 
 import android.os.Bundle
 import androidx.fragment.app.testing.launchFragmentInContainer
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentRecyclerviewBinding
-import com.habitrpg.android.habitica.interactors.FeedPetUseCase
-import com.habitrpg.android.habitica.models.user.OwnedItem
-import com.habitrpg.android.habitica.ui.fragments.FragmentTestCase
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentRecyclerviewBinding
+import xyz.prfn.android.habitica.interactors.FeedPetUseCase
+import xyz.prfn.android.habitica.models.user.OwnedItem
+import xyz.prfn.android.habitica.ui.fragments.FragmentTestCase
 import io.github.kakaocup.kakao.common.views.KView
 import io.github.kakaocup.kakao.recycler.KRecyclerView
 import io.github.kakaocup.kakao.screen.Screen

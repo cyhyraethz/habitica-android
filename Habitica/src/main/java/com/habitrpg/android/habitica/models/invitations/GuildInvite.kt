@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models.invitations
+package xyz.prfn.android.habitica.models.invitations
 
 import io.realm.RealmObject
 import io.realm.annotations.RealmClass

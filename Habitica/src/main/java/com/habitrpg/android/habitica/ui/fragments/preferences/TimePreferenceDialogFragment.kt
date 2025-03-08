@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.preferences
+package xyz.prfn.android.habitica.ui.fragments.preferences
 
 import android.content.Context
 import android.os.Build
@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.TimePicker
 import androidx.preference.PreferenceDialogFragmentCompat
 import androidx.preference.PreferenceFragmentCompat
-import com.habitrpg.android.habitica.prefs.TimePreference
+import xyz.prfn.android.habitica.prefs.TimePreference
 import dagger.hilt.android.AndroidEntryPoint
 import java.util.Locale
 

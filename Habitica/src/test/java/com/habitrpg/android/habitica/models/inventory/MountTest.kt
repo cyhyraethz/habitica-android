@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.models.inventory
+package xyz.prfn.android.habitica.models.inventory
 
 import android.content.Context
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.getTranslatedType
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.getTranslatedType
 import io.kotest.core.spec.style.WordSpec
 import io.kotest.matchers.shouldBe
 import io.mockk.every

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models.inventory
+package xyz.prfn.android.habitica.models.inventory
 
 class CustomizationSet {
     var text: String? = null

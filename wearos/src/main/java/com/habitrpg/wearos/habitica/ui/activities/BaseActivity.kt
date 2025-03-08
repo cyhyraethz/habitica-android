@@ -14,7 +14,7 @@ import com.google.android.gms.tasks.Tasks
 import com.google.android.gms.wearable.CapabilityClient
 import com.google.android.gms.wearable.MessageClient
 import com.google.android.gms.wearable.Wearable
-import com.habitrpg.android.habitica.databinding.ActivityWrapperBinding
+import xyz.prfn.android.habitica.databinding.ActivityWrapperBinding
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.wearos.habitica.managers.AppStateManager
 import com.habitrpg.wearos.habitica.ui.viewmodels.BaseViewModel

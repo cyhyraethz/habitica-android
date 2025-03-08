@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.equipment
+package xyz.prfn.android.habitica.ui.fragments.inventory.equipment
 
 import android.app.SearchManager
 import android.database.MatrixCursor
@@ -35,17 +35,17 @@ import androidx.cursoradapter.widget.SimpleCursorAdapter
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.databinding.FragmentEquipmentDetailBinding
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.helpers.ReviewManager
-import com.habitrpg.android.habitica.ui.adapter.inventory.EquipmentRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.helpers.KeyboardUtil
-import com.habitrpg.android.habitica.ui.helpers.SafeDefaultItemAnimator
-import com.habitrpg.android.habitica.ui.helpers.ToolbarColorHelper
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.databinding.FragmentEquipmentDetailBinding
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.helpers.ReviewManager
+import xyz.prfn.android.habitica.ui.adapter.inventory.EquipmentRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.helpers.KeyboardUtil
+import xyz.prfn.android.habitica.ui.helpers.SafeDefaultItemAnimator
+import xyz.prfn.android.habitica.ui.helpers.ToolbarColorHelper
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.observeOnce
 import com.habitrpg.common.habitica.helpers.EmptyItem

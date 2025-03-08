@@ -35,7 +35,7 @@
         tools:text="These are the notes"
         android:gravity="center"/>
 
-    <com.habitrpg.android.habitica.ui.views.tasks.form.StepperValueFormView
+    <xyz.prfn.android.habitica.ui.views.tasks.form.StepperValueFormView
         android:id="@+id/stepper_view"
         android:layout_width="match_parent"
         android:layout_height="56dp"

@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.data.local
+package xyz.prfn.android.habitica.data.local
 
-import com.habitrpg.android.habitica.models.inventory.Customization
+import xyz.prfn.android.habitica.models.inventory.Customization
 import kotlinx.coroutines.flow.Flow
 
 interface CustomizationLocalRepository : ContentLocalRepository {

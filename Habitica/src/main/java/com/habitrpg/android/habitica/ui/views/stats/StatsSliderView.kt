@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.stats
+package xyz.prfn.android.habitica.ui.views.stats
 
 import android.content.Context
 import android.content.res.ColorStateList
@@ -8,10 +8,10 @@ import android.view.Gravity
 import android.widget.LinearLayout
 import android.widget.SeekBar
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.StatsSliderViewBinding
-import com.habitrpg.android.habitica.extensions.AfterChangeTextWatcher
-import com.habitrpg.android.habitica.extensions.styledAttributes
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.StatsSliderViewBinding
+import xyz.prfn.android.habitica.extensions.AfterChangeTextWatcher
+import xyz.prfn.android.habitica.extensions.styledAttributes
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.setTintWith
 

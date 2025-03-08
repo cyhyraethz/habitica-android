@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -11,14 +11,14 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.core.util.Pair
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.activities.BaseActivity
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
-import com.habitrpg.android.habitica.ui.views.HabiticaSnackbar
-import com.habitrpg.android.habitica.ui.views.HabiticaSnackbar.SnackbarDisplayType
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.activities.BaseActivity
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.ui.views.HabiticaSnackbar
+import xyz.prfn.android.habitica.ui.views.HabiticaSnackbar.SnackbarDisplayType
 import java.text.NumberFormat
 import javax.inject.Inject
 import kotlin.math.abs

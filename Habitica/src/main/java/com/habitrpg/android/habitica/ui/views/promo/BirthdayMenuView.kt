@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.promo
+package xyz.prfn.android.habitica.ui.views.promo
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -31,9 +31,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.extensions.getShortRemainingString
-import com.habitrpg.android.habitica.ui.views.PixelArtView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.extensions.getShortRemainingString
+import xyz.prfn.android.habitica.ui.views.PixelArtView
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import kotlinx.coroutines.cancel
 import kotlinx.coroutines.delay

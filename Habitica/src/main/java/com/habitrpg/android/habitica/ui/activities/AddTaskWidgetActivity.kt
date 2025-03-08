@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.app.Activity
 import android.appwidget.AppWidgetManager
@@ -7,8 +7,8 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager
-import com.habitrpg.android.habitica.databinding.WidgetConfigureAddTaskBinding
-import com.habitrpg.android.habitica.widget.AddTaskWidgetProvider
+import xyz.prfn.android.habitica.databinding.WidgetConfigureAddTaskBinding
+import xyz.prfn.android.habitica.widget.AddTaskWidgetProvider
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import dagger.hilt.android.AndroidEntryPoint
 

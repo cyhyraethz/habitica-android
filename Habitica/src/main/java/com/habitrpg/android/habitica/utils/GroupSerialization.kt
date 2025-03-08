@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
@@ -8,11 +8,11 @@ import com.google.gson.JsonParseException
 import com.google.gson.JsonSerializationContext
 import com.google.gson.JsonSerializer
 import com.google.gson.reflect.TypeToken
-import com.habitrpg.android.habitica.models.inventory.Quest
-import com.habitrpg.android.habitica.models.inventory.QuestRageStrike
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.models.social.GroupCategory
+import xyz.prfn.android.habitica.models.inventory.Quest
+import xyz.prfn.android.habitica.models.inventory.QuestRageStrike
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.social.GroupCategory
 import com.habitrpg.shared.habitica.models.tasks.TasksOrder
 import io.realm.Realm
 import io.realm.RealmList

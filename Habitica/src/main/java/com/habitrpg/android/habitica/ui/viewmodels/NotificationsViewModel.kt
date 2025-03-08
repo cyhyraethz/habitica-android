@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 import android.os.Bundle
 import androidx.core.os.bundleOf
 import androidx.lifecycle.viewModelScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.helpers.NotificationsManager
-import com.habitrpg.android.habitica.models.social.UserParty
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.helpers.NotificationsManager
+import xyz.prfn.android.habitica.models.social.UserParty
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.habitrpg.common.habitica.helpers.launchCatching

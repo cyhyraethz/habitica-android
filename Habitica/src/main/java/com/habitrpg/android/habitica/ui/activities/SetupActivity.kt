@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.content.Intent
 import android.graphics.drawable.Drawable
@@ -14,18 +14,18 @@ import androidx.preference.PreferenceManager
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.tabs.TabLayoutMediator
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.databinding.ActivitySetupBinding
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.helpers.EventCategory
-import com.habitrpg.android.habitica.helpers.HitType
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.fragments.setup.AvatarSetupFragment
-import com.habitrpg.android.habitica.ui.fragments.setup.TaskSetupFragment
-import com.habitrpg.android.habitica.ui.fragments.setup.WelcomeFragment
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.databinding.ActivitySetupBinding
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.helpers.EventCategory
+import xyz.prfn.android.habitica.helpers.HitType
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.fragments.setup.AvatarSetupFragment
+import xyz.prfn.android.habitica.ui.fragments.setup.TaskSetupFragment
+import xyz.prfn.android.habitica.ui.fragments.setup.WelcomeFragment
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint

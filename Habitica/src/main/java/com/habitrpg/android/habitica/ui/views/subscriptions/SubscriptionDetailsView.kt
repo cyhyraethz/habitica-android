@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.subscriptions
+package xyz.prfn.android.habitica.ui.views.subscriptions
 
 import android.content.Context
 import android.content.Intent
@@ -7,11 +7,11 @@ import android.util.AttributeSet
 import android.view.View
 import android.widget.LinearLayout
 import androidx.core.view.isVisible
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.SubscriptionDetailsBinding
-import com.habitrpg.android.habitica.extensions.toZonedDateTime
-import com.habitrpg.android.habitica.models.user.SubscriptionPlan
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.SubscriptionDetailsBinding
+import xyz.prfn.android.habitica.extensions.toZonedDateTime
+import xyz.prfn.android.habitica.models.user.SubscriptionPlan
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import java.text.DateFormat
 import java.time.LocalDate

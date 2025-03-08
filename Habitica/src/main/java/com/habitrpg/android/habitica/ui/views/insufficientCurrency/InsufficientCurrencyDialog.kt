@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.views.insufficientCurrency
+package xyz.prfn.android.habitica.ui.views.insufficientCurrency
 
 import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.widget.ImageView
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 
 /**
  * Created by phillip on 27.09.17.

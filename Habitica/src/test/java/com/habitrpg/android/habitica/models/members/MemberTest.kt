@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models.members
+package xyz.prfn.android.habitica.models.members
 
-import com.habitrpg.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.user.Stats
 import io.kotest.core.spec.style.WordSpec
 import io.kotest.matchers.shouldBe
 

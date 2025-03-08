@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.annotation.SuppressLint
 import android.graphics.Typeface
@@ -11,10 +11,10 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.navArgs
 import com.google.android.material.bottomsheet.BottomSheetBehavior
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.databinding.ActivityReportMessageBinding
-import com.habitrpg.android.habitica.ui.helpers.dismissKeyboard
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.databinding.ActivityReportMessageBinding
+import xyz.prfn.android.habitica.ui.helpers.dismissKeyboard
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.setMarkdown

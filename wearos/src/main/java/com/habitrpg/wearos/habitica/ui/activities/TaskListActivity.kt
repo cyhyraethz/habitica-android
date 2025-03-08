@@ -9,9 +9,9 @@ import androidx.activity.viewModels
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
 import androidx.wear.widget.WearableLinearLayoutManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityTasklistBinding
-import com.habitrpg.android.habitica.databinding.EmptyTaskListBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityTasklistBinding
+import xyz.prfn.android.habitica.databinding.EmptyTaskListBinding
 import com.habitrpg.shared.habitica.models.responses.TaskDirection
 import com.habitrpg.shared.habitica.models.responses.TaskScoringResult
 import com.habitrpg.shared.habitica.models.tasks.TaskType

@@ -1,5 +1,5 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
-import com.habitrpg.android.habitica.HabiticaTestCase
+import xyz.prfn.android.habitica.HabiticaTestCase
 
 open class ActivityTestCase : HabiticaTestCase()

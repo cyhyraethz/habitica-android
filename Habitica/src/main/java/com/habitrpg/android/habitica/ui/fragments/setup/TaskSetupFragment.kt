@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.setup
+package xyz.prfn.android.habitica.ui.fragments.setup
 
 import android.graphics.drawable.BitmapDrawable
 import android.os.Bundle
@@ -6,16 +6,16 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.GridLayoutManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentSetupTasksBinding
-import com.habitrpg.android.habitica.extensions.applyScrollContentWindowInsets
-import com.habitrpg.android.habitica.models.tasks.Days
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.activities.SetupActivity
-import com.habitrpg.android.habitica.ui.adapter.setup.TaskSetupAdapter
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentSetupTasksBinding
+import xyz.prfn.android.habitica.extensions.applyScrollContentWindowInsets
+import xyz.prfn.android.habitica.models.tasks.Days
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.activities.SetupActivity
+import xyz.prfn.android.habitica.ui.adapter.setup.TaskSetupAdapter
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.shared.habitica.models.tasks.Frequency
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import dagger.hilt.android.AndroidEntryPoint

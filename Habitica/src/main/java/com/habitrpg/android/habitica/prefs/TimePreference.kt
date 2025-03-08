@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.prefs
+package xyz.prfn.android.habitica.prefs
 
 import android.content.Context
 import android.content.res.TypedArray

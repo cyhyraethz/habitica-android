@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.annotation.SuppressLint
 import android.content.Context
 import android.os.Environment
-import com.habitrpg.android.habitica.HabiticaBaseApplication
+import xyz.prfn.android.habitica.HabiticaBaseApplication
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import okhttp3.OkHttpClient

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.webkit.WebChromeClient
-import com.habitrpg.android.habitica.databinding.FragmentNewsBinding
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.databinding.FragmentNewsBinding
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

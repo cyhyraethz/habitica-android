@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.views.shops
+package xyz.prfn.android.habitica.ui.views.shops
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.Gravity
 import android.widget.LinearLayout
 import android.widget.TextView
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.models.shops.ShopItem
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.models.shops.ShopItem
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.fromHtml
 import com.habitrpg.common.habitica.extensions.loadImage

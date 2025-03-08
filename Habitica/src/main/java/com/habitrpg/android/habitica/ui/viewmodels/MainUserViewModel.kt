@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.asLiveData
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.models.TeamPlan
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.models.TeamPlan
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.MainScope

@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.ui.fragments.social.challenges
+package xyz.prfn.android.habitica.ui.fragments.social.challenges
 
-import com.habitrpg.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.social.Group
 
 data class ChallengeFilterOptions(
     var showByGroups: List<Group>,

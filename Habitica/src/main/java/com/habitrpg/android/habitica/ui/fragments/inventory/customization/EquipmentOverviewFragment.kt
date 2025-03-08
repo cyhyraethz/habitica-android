@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.customization
+package xyz.prfn.android.habitica.ui.fragments.inventory.customization
 
 import android.os.Bundle
 import dagger.hilt.android.AndroidEntryPoint

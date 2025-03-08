@@ -7,8 +7,8 @@ import android.widget.FrameLayout
 import androidx.activity.viewModels
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityLevelupBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityLevelupBinding
 import com.habitrpg.common.habitica.helpers.Animations
 import com.habitrpg.wearos.habitica.ui.viewmodels.LevelupViewModel
 import com.plattysoft.leonids.ParticleSystem

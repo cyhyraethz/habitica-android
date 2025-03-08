@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.responses
+package xyz.prfn.android.habitica.models.responses
 
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.user.User
 
 class SkillResponse {
     var user: User? = null

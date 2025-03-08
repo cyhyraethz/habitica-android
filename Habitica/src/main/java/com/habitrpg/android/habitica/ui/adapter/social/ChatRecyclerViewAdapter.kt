@@ -1,17 +1,17 @@
-package com.habitrpg.android.habitica.ui.adapter.social
+package xyz.prfn.android.habitica.ui.adapter.social
 
 import android.util.Log
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.SystemChatMessageBinding
-import com.habitrpg.android.habitica.models.BaseMainObject
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.adapter.BaseRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.adapter.DiffCallback
-import com.habitrpg.android.habitica.ui.viewHolders.ChatRecyclerMessageViewHolder
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.SystemChatMessageBinding
+import xyz.prfn.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.adapter.BaseRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.adapter.DiffCallback
+import xyz.prfn.android.habitica.ui.viewHolders.ChatRecyclerMessageViewHolder
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.helpers.LanguageHelper
 import java.text.DateFormat

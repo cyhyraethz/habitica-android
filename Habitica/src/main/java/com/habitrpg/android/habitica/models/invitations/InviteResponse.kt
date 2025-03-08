@@ -1,3 +1,3 @@
-package com.habitrpg.android.habitica.models.invitations
+package xyz.prfn.android.habitica.models.invitations
 
 class InviteResponse

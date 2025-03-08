@@ -9,8 +9,8 @@ import androidx.lifecycle.lifecycleScope
 import androidx.wear.widget.WearableLinearLayoutManager
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivitySettingsBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivitySettingsBinding
 import com.habitrpg.wearos.habitica.ui.adapters.SettingsAdapter
 import com.habitrpg.wearos.habitica.ui.adapters.SettingsItem
 import com.habitrpg.wearos.habitica.ui.viewmodels.SettingsViewModel

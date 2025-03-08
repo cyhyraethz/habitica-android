@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import android.app.Activity
 import android.view.LayoutInflater
@@ -6,14 +6,14 @@ import android.view.View
 import android.widget.TextView
 import androidx.lifecycle.LifecycleCoroutineScope
 import com.google.firebase.analytics.FirebaseAnalytics
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.views.HabiticaSnackbar
-import com.habitrpg.android.habitica.ui.views.SnackbarActivity
-import com.habitrpg.android.habitica.ui.views.dialogs.AchievementDialog
-import com.habitrpg.android.habitica.ui.views.dialogs.FirstDropDialog
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
-import com.habitrpg.android.habitica.ui.views.dialogs.WonChallengeDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.views.HabiticaSnackbar
+import xyz.prfn.android.habitica.ui.views.SnackbarActivity
+import xyz.prfn.android.habitica.ui.views.dialogs.AchievementDialog
+import xyz.prfn.android.habitica.ui.views.dialogs.FirstDropDialog
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.ui.views.dialogs.WonChallengeDialog
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.models.Notification

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
@@ -12,11 +12,11 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
-import com.habitrpg.android.habitica.ui.adapter.AchievementsAdapter
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
+import xyz.prfn.android.habitica.ui.adapter.AchievementsAdapter
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint

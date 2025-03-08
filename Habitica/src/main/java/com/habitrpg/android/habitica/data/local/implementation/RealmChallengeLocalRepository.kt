@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.data.local.implementation
+package xyz.prfn.android.habitica.data.local.implementation
 
-import com.habitrpg.android.habitica.data.local.ChallengeLocalRepository
-import com.habitrpg.android.habitica.models.social.Challenge
-import com.habitrpg.android.habitica.models.social.ChallengeMembership
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.data.local.ChallengeLocalRepository
+import xyz.prfn.android.habitica.models.social.Challenge
+import xyz.prfn.android.habitica.models.social.ChallengeMembership
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.user.User
 import io.realm.Realm
 import io.realm.Sort
 import io.realm.kotlin.toFlow

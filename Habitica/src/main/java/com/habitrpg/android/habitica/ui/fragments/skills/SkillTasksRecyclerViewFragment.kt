@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.skills
+package xyz.prfn.android.habitica.ui.fragments.skills
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,12 +6,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.asLiveData
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.databinding.FragmentRecyclerviewBinding
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.ui.adapter.SkillTasksRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.databinding.FragmentRecyclerviewBinding
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.ui.adapter.SkillTasksRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.map

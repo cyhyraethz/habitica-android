@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
 import com.google.gson.JsonParseException
-import com.habitrpg.android.habitica.extensions.getAsString
-import com.habitrpg.android.habitica.models.user.auth.SocialAuthentication
+import xyz.prfn.android.habitica.extensions.getAsString
+import xyz.prfn.android.habitica.models.user.auth.SocialAuthentication
 import java.lang.reflect.Type
 
 class SocialAuthenticationDeserializer : JsonDeserializer<SocialAuthentication> {

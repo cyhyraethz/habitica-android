@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.ui.adapter.social
+package xyz.prfn.android.habitica.ui.adapter.social
 
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ChallengeItemBinding
-import com.habitrpg.android.habitica.models.social.Challenge
-import com.habitrpg.android.habitica.models.social.ChallengeMembership
-import com.habitrpg.android.habitica.ui.adapter.BaseRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.fragments.social.challenges.ChallengeFilterOptions
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ChallengeItemBinding
+import xyz.prfn.android.habitica.models.social.Challenge
+import xyz.prfn.android.habitica.models.social.ChallengeMembership
+import xyz.prfn.android.habitica.ui.adapter.BaseRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.fragments.social.challenges.ChallengeFilterOptions
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.helpers.EmojiParser
 import io.realm.OrderedRealmCollection

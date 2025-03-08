@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,17 +6,17 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.databinding.FragmentStatsBinding
-import com.habitrpg.android.habitica.extensions.addOkButton
-import com.habitrpg.android.habitica.helpers.UserStatComputer
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
-import com.habitrpg.android.habitica.ui.views.stats.BulkAllocateStatsDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.databinding.FragmentStatsBinding
+import xyz.prfn.android.habitica.extensions.addOkButton
+import xyz.prfn.android.habitica.helpers.UserStatComputer
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.ui.views.stats.BulkAllocateStatsDialog
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.setScaledPadding
 import com.habitrpg.common.habitica.helpers.launchCatching

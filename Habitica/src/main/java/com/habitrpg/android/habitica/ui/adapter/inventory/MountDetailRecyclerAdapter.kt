@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.adapter.inventory
+package xyz.prfn.android.habitica.ui.adapter.inventory
 
 import android.view.ViewGroup
-import com.habitrpg.android.habitica.models.inventory.Mount
-import com.habitrpg.android.habitica.models.inventory.StableSection
-import com.habitrpg.android.habitica.models.user.OwnedMount
-import com.habitrpg.android.habitica.ui.viewHolders.MountViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.SectionViewHolder
+import xyz.prfn.android.habitica.models.inventory.Mount
+import xyz.prfn.android.habitica.models.inventory.StableSection
+import xyz.prfn.android.habitica.models.user.OwnedMount
+import xyz.prfn.android.habitica.ui.viewHolders.MountViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.SectionViewHolder
 
 class MountDetailRecyclerAdapter :
     androidx.recyclerview.widget.RecyclerView.Adapter<androidx.recyclerview.widget.RecyclerView.ViewHolder>() {

@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui
+package xyz.prfn.android.habitica.ui
 
 import android.content.Context
 import android.util.AttributeSet
 import android.widget.FrameLayout
 import com.android.billingclient.api.ProductDetails
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.PurchaseGemViewBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.PurchaseGemViewBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 
 class GemPurchaseOptionsView(context: Context, attrs: AttributeSet) : FrameLayout(context, attrs) {

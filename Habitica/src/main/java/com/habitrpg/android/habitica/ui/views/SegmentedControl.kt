@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.Row

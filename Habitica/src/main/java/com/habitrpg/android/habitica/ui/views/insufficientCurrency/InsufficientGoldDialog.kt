@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.ui.views.insufficientCurrency
+package xyz.prfn.android.habitica.ui.views.insufficientCurrency
 
 import android.content.Context
 import android.os.Bundle
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 class InsufficientGoldDialog(context: Context) : InsufficientCurrencyDialog(context) {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.models.promotions
+package xyz.prfn.android.habitica.models.promotions
 
 import android.content.Context
 import android.graphics.drawable.Drawable
-import com.habitrpg.android.habitica.BuildConfig
-import com.habitrpg.android.habitica.databinding.FragmentGemPurchaseBinding
-import com.habitrpg.android.habitica.databinding.FragmentSubscriptionBinding
-import com.habitrpg.android.habitica.databinding.PurchaseGemViewBinding
-import com.habitrpg.android.habitica.ui.fragments.PromoInfoFragment
-import com.habitrpg.android.habitica.ui.views.promo.PromoMenuView
+import xyz.prfn.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.databinding.FragmentGemPurchaseBinding
+import xyz.prfn.android.habitica.databinding.FragmentSubscriptionBinding
+import xyz.prfn.android.habitica.databinding.PurchaseGemViewBinding
+import xyz.prfn.android.habitica.ui.fragments.PromoInfoFragment
+import xyz.prfn.android.habitica.ui.views.promo.PromoMenuView
 import java.util.Date
 
 enum class PromoType {

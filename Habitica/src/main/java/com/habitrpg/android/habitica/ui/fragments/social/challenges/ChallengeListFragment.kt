@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.social.challenges
+package xyz.prfn.android.habitica.ui.fragments.social.challenges
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,17 +6,17 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.ChallengeRepository
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
-import com.habitrpg.android.habitica.models.social.Challenge
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.ui.adapter.social.ChallengesListViewAdapter
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
-import com.habitrpg.android.habitica.ui.helpers.SafeDefaultItemAnimator
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.ChallengeRepository
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.databinding.FragmentRefreshRecyclerviewBinding
+import xyz.prfn.android.habitica.models.social.Challenge
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.ui.adapter.social.ChallengesListViewAdapter
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.ui.helpers.SafeDefaultItemAnimator
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.common.habitica.helpers.EmptyItem
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.MainNavigationController

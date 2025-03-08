@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.widget
+package xyz.prfn.android.habitica.widget
 
 import android.content.Context
 import android.content.Intent
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.data.UserRepository
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 
 class DailiesListFactory(

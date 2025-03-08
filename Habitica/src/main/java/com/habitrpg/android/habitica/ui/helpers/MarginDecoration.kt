@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.ui.helpers
+package xyz.prfn.android.habitica.ui.helpers
 
 import android.content.Context
 import android.graphics.Rect
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 class MarginDecoration(context: Context?, private var noMarginViewTypes: Set<Int> = setOf()) :
     RecyclerView.ItemDecoration() {

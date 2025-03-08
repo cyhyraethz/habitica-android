@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.items
+package xyz.prfn.android.habitica.ui.fragments.inventory.items
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentViewpagerBinding
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentViewpagerBinding
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

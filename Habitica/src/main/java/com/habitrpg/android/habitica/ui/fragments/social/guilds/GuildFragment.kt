@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.social.guilds
+package xyz.prfn.android.habitica.ui.fragments.social.guilds
 
 import android.app.Activity
 import android.content.Intent
@@ -16,14 +16,14 @@ import androidx.viewpager2.adapter.FragmentStateAdapter
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.tabs.TabLayoutMediator
 import com.google.firebase.analytics.FirebaseAnalytics
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentViewpagerBinding
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.ui.activities.GroupFormActivity
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.fragments.social.ChatFragment
-import com.habitrpg.android.habitica.ui.viewmodels.GroupViewModel
-import com.habitrpg.android.habitica.ui.viewmodels.GroupViewType
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentViewpagerBinding
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.ui.activities.GroupFormActivity
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.fragments.social.ChatFragment
+import xyz.prfn.android.habitica.ui.viewmodels.GroupViewModel
+import xyz.prfn.android.habitica.ui.viewmodels.GroupViewType
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

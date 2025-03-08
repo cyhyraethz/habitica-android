@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.social
+package xyz.prfn.android.habitica.models.social
 
-import com.habitrpg.android.habitica.models.BaseObject
-import com.habitrpg.android.habitica.models.user.ContributorInfo
+import xyz.prfn.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.user.ContributorInfo
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey
 import java.util.Date

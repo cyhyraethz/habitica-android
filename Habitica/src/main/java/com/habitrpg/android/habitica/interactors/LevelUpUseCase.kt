@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import android.view.ViewGroup
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogLevelup10Binding
-import com.habitrpg.android.habitica.helpers.SoundManager
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.activities.BaseActivity
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
-import com.habitrpg.android.habitica.ui.views.HabiticaSnackbar
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogLevelup10Binding
+import xyz.prfn.android.habitica.helpers.SoundManager
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.activities.BaseActivity
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.ui.views.HabiticaSnackbar
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.common.habitica.views.AvatarView
 import kotlinx.coroutines.MainScope

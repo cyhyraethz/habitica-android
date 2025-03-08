@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.stats
+package xyz.prfn.android.habitica.ui.views.stats
 
 import android.content.Context
 import android.graphics.PorterDuff
@@ -31,10 +31,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.StatsViewBinding
-import com.habitrpg.android.habitica.helpers.HapticFeedbackManager
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.StatsViewBinding
+import xyz.prfn.android.habitica.helpers.HapticFeedbackManager
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.setTintWith

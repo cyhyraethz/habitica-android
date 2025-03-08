@@ -5,8 +5,8 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityTaskDetailBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityTaskDetailBinding
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import com.habitrpg.shared.habitica.models.tasks.streakString
 import com.habitrpg.wearos.habitica.ui.viewmodels.TaskDetailViewModel

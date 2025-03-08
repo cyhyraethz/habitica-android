@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.social
+package xyz.prfn.android.habitica.ui.fragments.social
 
 import android.annotation.SuppressLint
 import android.app.AlertDialog
@@ -11,18 +11,18 @@ import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.core.text.toHtml
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.databinding.FragmentQuestDetailBinding
-import com.habitrpg.android.habitica.helpers.HapticFeedbackManager
-import com.habitrpg.android.habitica.models.inventory.Quest
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.databinding.FragmentQuestDetailBinding
+import xyz.prfn.android.habitica.helpers.HapticFeedbackManager
+import xyz.prfn.android.habitica.models.inventory.Quest
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.extensions.fromHtml
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.helpers.ExceptionHandler

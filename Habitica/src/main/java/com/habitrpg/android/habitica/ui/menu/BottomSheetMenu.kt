@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.menu
+package xyz.prfn.android.habitica.ui.menu
 
 import android.content.Context
 import android.view.View
 import android.view.animation.LinearInterpolator
 import android.view.animation.TranslateAnimation
 import androidx.core.view.children
-import com.habitrpg.android.habitica.databinding.MenuBottomSheetBinding
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaBottomSheetDialog
+import xyz.prfn.android.habitica.databinding.MenuBottomSheetBinding
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaBottomSheetDialog
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.loadImage
 

@@ -1,22 +1,22 @@
 @file:OptIn(ExperimentalCoroutinesApi::class)
 
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
-import com.habitrpg.android.habitica.BuildConfig
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.local.SocialLocalRepository
-import com.habitrpg.android.habitica.models.Achievement
-import com.habitrpg.android.habitica.models.inventory.Quest
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.responses.PostChatMessageResult
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.social.FindUsernameResult
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.models.social.GroupMembership
-import com.habitrpg.android.habitica.models.social.InboxConversation
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.local.SocialLocalRepository
+import xyz.prfn.android.habitica.models.Achievement
+import xyz.prfn.android.habitica.models.inventory.Quest
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.responses.PostChatMessageResult
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.social.FindUsernameResult
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.social.GroupMembership
+import xyz.prfn.android.habitica.models.social.InboxConversation
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.emptyFlow

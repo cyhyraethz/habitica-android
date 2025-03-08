@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers.notifications
+package xyz.prfn.android.habitica.helpers.notifications
 
 import android.content.Context
 

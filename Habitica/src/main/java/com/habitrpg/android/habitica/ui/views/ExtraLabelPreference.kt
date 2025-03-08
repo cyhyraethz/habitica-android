@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.content.Context
 import android.util.AttributeSet
 import android.widget.TextView
 import androidx.preference.Preference
 import androidx.preference.PreferenceViewHolder
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 class ExtraLabelPreference(
     context: Context,

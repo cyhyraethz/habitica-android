@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica;
+package xyz.prfn.android.habitica;
 
-import com.habitrpg.android.habitica.modules.AppModule;
+import xyz.prfn.android.habitica.modules.AppModule;
 
 public class HabiticaApplication extends HabiticaBaseApplication {
 }

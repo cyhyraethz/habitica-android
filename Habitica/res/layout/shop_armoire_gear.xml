@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:background="@color/offset_background_30"
         android:padding="8dp">
-        <com.habitrpg.android.habitica.ui.views.CurrencyView
+        <xyz.prfn.android.habitica.ui.views.CurrencyView
             android:id="@+id/currency_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

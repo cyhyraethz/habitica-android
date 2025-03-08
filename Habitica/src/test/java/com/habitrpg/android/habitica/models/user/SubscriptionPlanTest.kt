@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models.user
+package xyz.prfn.android.habitica.models.user
 
 import android.content.Context
 import io.kotest.core.spec.style.WordSpec

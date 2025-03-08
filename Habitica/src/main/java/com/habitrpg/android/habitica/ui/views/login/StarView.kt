@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.login
+package xyz.prfn.android.habitica.ui.views.login
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -8,7 +8,7 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.View
 import androidx.appcompat.widget.AppCompatImageView
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 
 class StarView : AppCompatImageView {
     private var blinkDurations: List<Int>? = null

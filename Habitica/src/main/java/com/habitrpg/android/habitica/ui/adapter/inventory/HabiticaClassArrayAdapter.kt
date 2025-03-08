@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.adapter.inventory
+package xyz.prfn.android.habitica.ui.adapter.inventory
 
 import android.content.Context
 import android.view.View
@@ -7,9 +7,9 @@ import android.widget.ArrayAdapter
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.inflate
 
 class HabiticaClassArrayAdapter(context: Context, resource: Int, objects: List<CharSequence>) :

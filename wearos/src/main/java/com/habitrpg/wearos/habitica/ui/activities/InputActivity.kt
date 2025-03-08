@@ -8,7 +8,7 @@ import android.view.inputmethod.EditorInfo
 import android.view.inputmethod.InputMethodManager
 import androidx.activity.viewModels
 import androidx.core.view.postDelayed
-import com.habitrpg.android.habitica.databinding.ActivityInputBinding
+import xyz.prfn.android.habitica.databinding.ActivityInputBinding
 import com.habitrpg.wearos.habitica.ui.viewmodels.InputViewModel
 import dagger.hilt.android.AndroidEntryPoint
 

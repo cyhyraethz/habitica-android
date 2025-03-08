@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.models
+package xyz.prfn.android.habitica.models
 
-import com.habitrpg.android.habitica.models.inventory.Customization
-import com.habitrpg.android.habitica.models.inventory.Egg
-import com.habitrpg.android.habitica.models.inventory.Equipment
-import com.habitrpg.android.habitica.models.inventory.EquipmentSet
-import com.habitrpg.android.habitica.models.inventory.Food
-import com.habitrpg.android.habitica.models.inventory.HatchingPotion
-import com.habitrpg.android.habitica.models.inventory.Mount
-import com.habitrpg.android.habitica.models.inventory.Pet
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.models.inventory.SpecialItem
+import xyz.prfn.android.habitica.models.inventory.Customization
+import xyz.prfn.android.habitica.models.inventory.Egg
+import xyz.prfn.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.inventory.EquipmentSet
+import xyz.prfn.android.habitica.models.inventory.Food
+import xyz.prfn.android.habitica.models.inventory.HatchingPotion
+import xyz.prfn.android.habitica.models.inventory.Mount
+import xyz.prfn.android.habitica.models.inventory.Pet
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.models.inventory.SpecialItem
 import io.realm.RealmList
 
 /**

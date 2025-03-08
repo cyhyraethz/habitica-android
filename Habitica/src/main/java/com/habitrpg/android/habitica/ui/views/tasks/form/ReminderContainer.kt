@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks.form
+package xyz.prfn.android.habitica.ui.views.tasks.form
 
 import android.animation.LayoutTransition
 import android.content.Context
@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.LinearLayout
 import androidx.core.view.children
 import androidx.core.view.updateMargins
-import com.habitrpg.android.habitica.models.tasks.RemindersItem
+import xyz.prfn.android.habitica.models.tasks.RemindersItem
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 

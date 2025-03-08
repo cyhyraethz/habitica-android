@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -26,15 +26,15 @@ import androidx.compose.ui.tooling.preview.PreviewParameter
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.models.auth.LocalAuthentication
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.models.user.Authentication
-import com.habitrpg.android.habitica.models.user.Profile
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.models.auth.LocalAuthentication
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.user.Authentication
+import xyz.prfn.android.habitica.models.user.Profile
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.ui.theme.colors
 import com.habitrpg.common.habitica.theme.HabiticaTheme
 import com.habitrpg.common.habitica.views.ComposableAvatarView
 import kotlin.random.Random

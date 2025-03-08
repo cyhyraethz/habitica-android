@@ -43,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_weight="1" />
-    <com.habitrpg.android.habitica.ui.SpeechBubbleView
+    <xyz.prfn.android.habitica.ui.SpeechBubbleView
         android:id="@+id/speech_bubble"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -53,7 +53,7 @@
         android:layout_marginEnd="@dimen/content_inset"
         android:layout_marginBottom="12dp"/>
 
-    <com.habitrpg.android.habitica.ui.views.setup.AvatarCustomizationDrawer
+    <xyz.prfn.android.habitica.ui.views.setup.AvatarCustomizationDrawer
             android:id="@+id/customization_drawer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

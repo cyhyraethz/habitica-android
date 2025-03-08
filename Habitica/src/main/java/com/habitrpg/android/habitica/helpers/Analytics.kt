@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -8,8 +8,8 @@ import com.amplitude.android.Configuration
 import com.amplitude.android.events.Identify
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.crashlytics.FirebaseCrashlytics
-import com.habitrpg.android.habitica.BuildConfig
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.R
 
 enum class AnalyticsTarget {
     AMPLITUDE,

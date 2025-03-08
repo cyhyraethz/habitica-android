@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.models.social
+package xyz.prfn.android.habitica.models.social
 
-import com.habitrpg.android.habitica.models.user.Authentication
-import com.habitrpg.android.habitica.models.user.Flags
-import com.habitrpg.android.habitica.models.user.Items
-import com.habitrpg.android.habitica.models.user.Outfit
-import com.habitrpg.android.habitica.models.user.Preferences
-import com.habitrpg.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.user.Authentication
+import xyz.prfn.android.habitica.models.user.Flags
+import xyz.prfn.android.habitica.models.user.Items
+import xyz.prfn.android.habitica.models.user.Outfit
+import xyz.prfn.android.habitica.models.user.Preferences
+import xyz.prfn.android.habitica.models.user.Stats
 import com.habitrpg.shared.habitica.models.Avatar
 import io.realm.RealmObject
 import io.realm.annotations.RealmClass

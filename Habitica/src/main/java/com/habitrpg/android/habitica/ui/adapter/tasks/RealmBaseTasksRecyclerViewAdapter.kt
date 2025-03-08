@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.adapter.tasks
+package xyz.prfn.android.habitica.ui.adapter.tasks
 
 import android.graphics.drawable.BitmapDrawable
 import android.view.LayoutInflater
@@ -7,15 +7,15 @@ import android.view.ViewGroup
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.AdventureGuideMenuBannerBinding
-import com.habitrpg.android.habitica.models.tasks.ChecklistItem
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.adapter.BaseRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.BaseTaskViewHolder
-import com.habitrpg.android.habitica.ui.viewmodels.TasksViewModel
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.AdventureGuideMenuBannerBinding
+import xyz.prfn.android.habitica.models.tasks.ChecklistItem
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.adapter.BaseRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.BaseTaskViewHolder
+import xyz.prfn.android.habitica.ui.viewmodels.TasksViewModel
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.shared.habitica.models.responses.TaskDirection

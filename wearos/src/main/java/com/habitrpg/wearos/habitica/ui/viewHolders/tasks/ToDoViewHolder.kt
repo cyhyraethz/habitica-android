@@ -3,7 +3,7 @@ package com.habitrpg.wearos.habitica.ui.viewHolders.tasks
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
-import com.habitrpg.android.habitica.databinding.RowTodoBinding
+import xyz.prfn.android.habitica.databinding.RowTodoBinding
 import com.habitrpg.wearos.habitica.ui.views.TaskTextView
 
 class ToDoViewHolder(itemView: View) : CheckedTaskViewHolder(itemView) {

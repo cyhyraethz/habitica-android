@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.models.shops
+package xyz.prfn.android.habitica.models.shops
 
 import android.content.Context
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.BaseObject
 import io.realm.RealmObject
 import io.realm.annotations.RealmClass
 

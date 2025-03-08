@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewHolders
+package xyz.prfn.android.habitica.ui.viewHolders
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView

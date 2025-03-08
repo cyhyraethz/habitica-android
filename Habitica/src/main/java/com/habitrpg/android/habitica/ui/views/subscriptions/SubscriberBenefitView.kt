@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.ui.views.subscriptions
+package xyz.prfn.android.habitica.ui.views.subscriptions
 
 import android.content.Context
 import android.util.AttributeSet
 import android.widget.LinearLayout
 import androidx.core.view.isVisible
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.databinding.SubscriptionBenefitsBinding
-import com.habitrpg.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.databinding.SubscriptionBenefitsBinding
+import xyz.prfn.android.habitica.helpers.AppConfigManager
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.helpers.launchCatching

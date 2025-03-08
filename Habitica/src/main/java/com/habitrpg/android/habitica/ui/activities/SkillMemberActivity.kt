@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.app.Activity
 import android.content.Intent
@@ -6,11 +6,11 @@ import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.databinding.ActivitySkillMembersBinding
-import com.habitrpg.android.habitica.ui.adapter.social.PartyMemberRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.databinding.ActivitySkillMembersBinding
+import xyz.prfn.android.habitica.ui.adapter.social.PartyMemberRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint

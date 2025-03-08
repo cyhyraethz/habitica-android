@@ -5,7 +5,7 @@
     android:id="@+id/refreshLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <com.habitrpg.android.habitica.ui.views.HabiticaScrollView
+    <xyz.prfn.android.habitica.ui.views.HabiticaScrollView
         android:id="@+id/nested_scroll_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -21,7 +21,7 @@
                 style="@style/FlatCardView"
                 android:id="@+id/party_invitation_wrapper">
 
-                <com.habitrpg.android.habitica.ui.views.social.InvitationsView
+                <xyz.prfn.android.habitica.ui.views.social.InvitationsView
                     android:id="@+id/invitations_view"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -117,7 +117,7 @@
                             android:scaleType="fitCenter"
                             android:padding="@dimen/spacing_medium"
                             android:layout_gravity="center_horizontal"/>
-                        <com.habitrpg.android.habitica.ui.views.social.OldQuestProgressView
+                        <xyz.prfn.android.habitica.ui.views.social.OldQuestProgressView
                             android:visibility="gone"
                             tools:visibility="visible"
                             android:id="@+id/quest_progress_view"
@@ -268,5 +268,5 @@
                 android:text="@string/leave_party"
                 android:textSize="16sp" />
         </LinearLayout>
-    </com.habitrpg.android.habitica.ui.views.HabiticaScrollView>
+    </xyz.prfn.android.habitica.ui.views.HabiticaScrollView>
 </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

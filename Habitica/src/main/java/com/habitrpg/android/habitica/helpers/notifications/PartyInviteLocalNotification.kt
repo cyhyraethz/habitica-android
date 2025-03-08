@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.helpers.notifications
+package xyz.prfn.android.habitica.helpers.notifications
 
 import android.app.PendingIntent
 import android.content.Context
 import android.content.Intent
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.receivers.LocalNotificationActionReceiver
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.receivers.LocalNotificationActionReceiver
 
 class PartyInviteLocalNotification(context: Context, identifier: String?) :
     HabiticaLocalNotification(context, identifier) {

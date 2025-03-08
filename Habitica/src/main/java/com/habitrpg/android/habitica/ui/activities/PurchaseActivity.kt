@@ -1,3 +1,3 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 abstract class PurchaseActivity : BaseActivity()

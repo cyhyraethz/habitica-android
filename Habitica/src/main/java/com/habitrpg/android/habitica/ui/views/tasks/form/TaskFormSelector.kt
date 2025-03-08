@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks.form
+package xyz.prfn.android.habitica.ui.views.tasks.form
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.animateColor
@@ -31,8 +31,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.theme.colors
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.theme.HabiticaTheme
 

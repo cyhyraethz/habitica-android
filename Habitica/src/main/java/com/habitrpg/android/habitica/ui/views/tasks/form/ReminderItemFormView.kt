@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks.form
+package xyz.prfn.android.habitica.ui.views.tasks.form
 
 import android.app.DatePickerDialog
 import android.app.TimePickerDialog
@@ -14,9 +14,9 @@ import android.widget.DatePicker
 import android.widget.LinearLayout
 import android.widget.TimePicker
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.TaskFormReminderItemBinding
-import com.habitrpg.android.habitica.models.tasks.RemindersItem
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.TaskFormReminderItemBinding
+import xyz.prfn.android.habitica.models.tasks.RemindersItem
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.layoutInflater

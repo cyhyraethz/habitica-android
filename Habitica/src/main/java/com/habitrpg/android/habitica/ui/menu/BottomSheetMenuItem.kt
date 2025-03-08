@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.menu
+package xyz.prfn.android.habitica.ui.menu
 
 import android.content.Context
 import android.content.res.ColorStateList
@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.MenuBottomSheetItemBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.MenuBottomSheetItemBinding
 
 class BottomSheetMenuItem(
     private val title: String,

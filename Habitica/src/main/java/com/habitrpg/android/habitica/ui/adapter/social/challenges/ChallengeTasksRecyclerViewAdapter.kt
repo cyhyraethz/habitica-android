@@ -1,20 +1,20 @@
-package com.habitrpg.android.habitica.ui.adapter.social.challenges
+package xyz.prfn.android.habitica.ui.adapter.social.challenges
 
 import android.content.Context
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.ui.adapter.tasks.BaseTasksRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.viewHolders.BindableViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.BaseTaskViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.DailyViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.HabitViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.RewardViewHolder
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.TodoViewHolder
-import com.habitrpg.android.habitica.ui.viewmodels.TasksViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.ui.adapter.tasks.BaseTasksRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.viewHolders.BindableViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.BaseTaskViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.DailyViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.HabitViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.RewardViewHolder
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.TodoViewHolder
+import xyz.prfn.android.habitica.ui.viewmodels.TasksViewModel
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 
 class ChallengeTasksRecyclerViewAdapter(

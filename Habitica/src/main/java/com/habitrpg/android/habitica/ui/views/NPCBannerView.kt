@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -8,8 +8,8 @@ import android.util.AttributeSet
 import android.widget.ImageView
 import android.widget.RelativeLayout
 import androidx.core.graphics.drawable.toBitmap
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.NpcBannerBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.NpcBannerBinding
 import com.habitrpg.common.habitica.extensions.DataBindingUtils
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import kotlinx.coroutines.MainScope

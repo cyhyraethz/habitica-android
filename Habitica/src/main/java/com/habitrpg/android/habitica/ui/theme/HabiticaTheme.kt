@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.theme
+package xyz.prfn.android.habitica.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.runtime.Composable
@@ -6,8 +6,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.colorResource
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.theme.HabiticaColors
 import com.habitrpg.common.habitica.theme.HabiticaTheme

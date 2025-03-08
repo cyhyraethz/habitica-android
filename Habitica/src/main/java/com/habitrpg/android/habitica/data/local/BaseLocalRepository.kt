@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.data.local
+package xyz.prfn.android.habitica.data.local
 
-import com.habitrpg.android.habitica.models.BaseMainObject
-import com.habitrpg.android.habitica.models.BaseObject
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.user.User
 import io.realm.Realm
 
 interface BaseLocalRepository {

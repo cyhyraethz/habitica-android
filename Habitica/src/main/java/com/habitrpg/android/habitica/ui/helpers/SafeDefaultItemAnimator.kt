@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.helpers
+package xyz.prfn.android.habitica.ui.helpers
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter

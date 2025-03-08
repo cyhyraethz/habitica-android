@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.ui.views.tasks.form
+package xyz.prfn.android.habitica.ui.views.tasks.form
 
 import android.content.Context
 import android.graphics.drawable.Drawable
 import android.util.AttributeSet
 import android.widget.RelativeLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FormStepperValueBinding
-import com.habitrpg.android.habitica.extensions.OnChangeTextWatcher
-import com.habitrpg.android.habitica.extensions.asDrawable
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FormStepperValueBinding
+import xyz.prfn.android.habitica.extensions.OnChangeTextWatcher
+import xyz.prfn.android.habitica.extensions.asDrawable
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import java.text.DecimalFormat
 

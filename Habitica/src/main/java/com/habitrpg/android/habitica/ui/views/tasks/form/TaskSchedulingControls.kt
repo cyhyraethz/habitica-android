@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks.form
+package xyz.prfn.android.habitica.ui.views.tasks.form
 
 import android.app.DatePickerDialog
 import android.content.Context
@@ -17,10 +17,10 @@ import android.widget.Space
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.core.view.children
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.TaskFormTaskSchedulingBinding
-import com.habitrpg.android.habitica.models.tasks.Days
-import com.habitrpg.android.habitica.ui.adapter.SimpleSpinnerAdapter
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.TaskFormTaskSchedulingBinding
+import xyz.prfn.android.habitica.models.tasks.Days
+import xyz.prfn.android.habitica.ui.adapter.SimpleSpinnerAdapter
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.layoutInflater

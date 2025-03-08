@@ -7,8 +7,8 @@ import android.util.TypedValue
 import android.view.Gravity
 import android.widget.LinearLayout
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.TaskRewardChipBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.TaskRewardChipBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.setScaledPadding
 import com.habitrpg.shared.habitica.extensions.round

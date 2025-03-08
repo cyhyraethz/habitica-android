@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.ui.adapter.setup
+package xyz.prfn.android.habitica.ui.adapter.setup
 
 import android.graphics.PorterDuff
 import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SetupCustomizationRepository
-import com.habitrpg.android.habitica.databinding.SetupCustomizationItemBinding
-import com.habitrpg.android.habitica.models.SetupCustomization
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SetupCustomizationRepository
+import xyz.prfn.android.habitica.databinding.SetupCustomizationItemBinding
+import xyz.prfn.android.habitica.models.SetupCustomization
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.extensions.setTintWith
 

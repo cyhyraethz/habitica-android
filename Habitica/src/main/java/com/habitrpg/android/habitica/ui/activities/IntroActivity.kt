@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.content.Intent
 import android.os.Build
@@ -12,11 +12,11 @@ import androidx.lifecycle.lifecycleScope
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.tabs.TabLayoutMediator
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.ContentRepository
-import com.habitrpg.android.habitica.databinding.ActivityIntroBinding
-import com.habitrpg.android.habitica.extensions.setNavigationBarDarkIcons
-import com.habitrpg.android.habitica.ui.fragments.setup.IntroFragment
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.ContentRepository
+import xyz.prfn.android.habitica.databinding.ActivityIntroBinding
+import xyz.prfn.android.habitica.extensions.setNavigationBarDarkIcons
+import xyz.prfn.android.habitica.ui.fragments.setup.IntroFragment
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch

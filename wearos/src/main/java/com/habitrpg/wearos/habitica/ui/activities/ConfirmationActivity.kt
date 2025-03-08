@@ -3,7 +3,7 @@ package com.habitrpg.wearos.habitica.ui.activities
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.databinding.ActivityConfirmationBinding
+import xyz.prfn.android.habitica.databinding.ActivityConfirmationBinding
 import com.habitrpg.wearos.habitica.ui.viewmodels.ConfirmactionActivityViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.delay

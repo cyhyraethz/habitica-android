@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/refreshLayout">
-    <com.habitrpg.android.habitica.ui.views.HabiticaScrollView
+    <xyz.prfn.android.habitica.ui.views.HabiticaScrollView
         android:id="@+id/nested_scroll_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -128,7 +128,7 @@
                     android:paddingStart="@dimen/spacing_large"
                     android:paddingEnd="@dimen/spacing_large"
                     android:baselineAligned="false">
-                    <com.habitrpg.android.habitica.ui.RoundedFrameLayout
+                    <xyz.prfn.android.habitica.ui.RoundedFrameLayout
                         android:layout_width="40dp"
                         android:layout_height="40dp"
                         android:clipChildren="true"
@@ -140,14 +140,14 @@
                             android:layout_height="78dp"
                             android:layout_gravity="center"
                             android:paddingTop="8dp"/>
-                    </com.habitrpg.android.habitica.ui.RoundedFrameLayout>
+                    </xyz.prfn.android.habitica.ui.RoundedFrameLayout>
                     <LinearLayout
                         android:layout_width="0dp"
                         android:layout_weight="1"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
                         android:gravity="center_vertical">
-                        <com.habitrpg.android.habitica.ui.views.UsernameLabel
+                        <xyz.prfn.android.habitica.ui.views.UsernameLabel
                             android:id="@+id/leader_profile_name"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content" />
@@ -158,7 +158,7 @@
                             android:layout_marginTop="2dp"/>
                     </LinearLayout>
                 </LinearLayout>
-                <com.habitrpg.android.habitica.ui.views.CollapsibleSectionView
+                <xyz.prfn.android.habitica.ui.views.CollapsibleSectionView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:title="@string/guild_summary"
@@ -171,8 +171,8 @@
                         android:layout_marginTop="@dimen/spacing_large"
                         android:background="@drawable/layout_rounded_bg_window"
                         android:padding="@dimen/spacing_large"/>
-                </com.habitrpg.android.habitica.ui.views.CollapsibleSectionView>
-                <com.habitrpg.android.habitica.ui.views.CollapsibleSectionView
+                </xyz.prfn.android.habitica.ui.views.CollapsibleSectionView>
+                <xyz.prfn.android.habitica.ui.views.CollapsibleSectionView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:title="@string/guild_description"
@@ -185,7 +185,7 @@
                         android:layout_marginTop="@dimen/spacing_large"
                         android:background="@drawable/layout_rounded_bg_window"
                         android:padding="@dimen/spacing_large" />
-                </com.habitrpg.android.habitica.ui.views.CollapsibleSectionView>
+                </xyz.prfn.android.habitica.ui.views.CollapsibleSectionView>
 
             </LinearLayout>
             <Button
@@ -196,5 +196,5 @@
                 style="@style/HabiticaButton.Red"
                 android:text="@string/leave_guild"/>
         </LinearLayout>
-    </com.habitrpg.android.habitica.ui.views.HabiticaScrollView>
+    </xyz.prfn.android.habitica.ui.views.HabiticaScrollView>
 </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

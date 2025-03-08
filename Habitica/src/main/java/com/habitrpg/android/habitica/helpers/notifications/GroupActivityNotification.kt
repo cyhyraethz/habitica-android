@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers.notifications
+package xyz.prfn.android.habitica.helpers.notifications
 
 import android.app.Notification
 import android.app.NotificationManager
@@ -10,8 +10,8 @@ import androidx.core.app.NotificationCompat
 import androidx.core.app.Person
 import androidx.core.app.RemoteInput
 import androidx.core.os.bundleOf
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.receivers.LocalNotificationActionReceiver
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.receivers.LocalNotificationActionReceiver
 import com.habitrpg.common.habitica.helpers.EmojiParser
 import java.text.SimpleDateFormat
 import java.util.Date

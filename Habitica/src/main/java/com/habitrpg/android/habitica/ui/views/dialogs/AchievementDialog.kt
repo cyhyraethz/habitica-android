@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.ui.views.dialogs
+package xyz.prfn.android.habitica.ui.views.dialogs
 
 import android.content.Context
 import android.graphics.Typeface
 import android.util.TypedValue
 import android.view.View
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.DialogAchievementDetailBinding
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.DialogAchievementDetailBinding
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.common.habitica.extensions.fromHtml
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.loadImage

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.login
+package xyz.prfn.android.habitica.ui.views.login
 
 import android.animation.ObjectAnimator
 import android.animation.ValueAnimator
@@ -11,7 +11,7 @@ import android.view.WindowManager
 import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.RelativeLayout
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import java.util.Random
 
 class LoginBackgroundView(context: Context, attrs: AttributeSet?) : RelativeLayout(context, attrs) {

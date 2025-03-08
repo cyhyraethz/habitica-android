@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.views.dialogs
+package xyz.prfn.android.habitica.ui.views.dialogs
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.extensions.fromHtml
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.models.notifications.ChallengeWonData

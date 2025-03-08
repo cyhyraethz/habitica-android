@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers.notifications
+package xyz.prfn.android.habitica.helpers.notifications
 
 import android.app.Notification
 import android.app.NotificationManager
@@ -9,8 +9,8 @@ import android.os.Build
 import androidx.core.app.NotificationCompat
 import androidx.core.app.RemoteInput
 import androidx.core.os.bundleOf
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.receivers.LocalNotificationActionReceiver
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.receivers.LocalNotificationActionReceiver
 import com.habitrpg.common.habitica.helpers.EmojiParser
 
 class ReceivedPrivateMessageLocalNotification(context: Context, identifier: String?) :

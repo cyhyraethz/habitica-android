@@ -32,9 +32,9 @@ import androidx.annotation.VisibleForTesting
 import androidx.core.content.res.use
 import androidx.core.os.ConfigurationCompat
 import androidx.core.view.isGone
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.CurvedTimeTextBinding
-import com.habitrpg.android.habitica.databinding.StraightTimeTextBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.CurvedTimeTextBinding
+import xyz.prfn.android.habitica.databinding.StraightTimeTextBinding
 import com.habitrpg.wearos.habitica.ui.views.TimeText.Clock
 import com.habitrpg.wearos.habitica.ui.views.TimeTextViewBinding.TimeTextCurvedViewBinding
 import com.habitrpg.wearos.habitica.ui.views.TimeTextViewBinding.TimeTextStraightViewBinding

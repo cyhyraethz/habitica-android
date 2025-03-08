@@ -1,16 +1,16 @@
-package com.habitrpg.android.habitica.modules
+package xyz.prfn.android.habitica.modules
 
 import android.content.Context
 import android.content.SharedPreferences
 import android.content.res.Resources
 import androidx.preference.PreferenceManager
-import com.habitrpg.android.habitica.BuildConfig
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.ContentRepository
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.helpers.ReviewManager
-import com.habitrpg.android.habitica.helpers.SoundFileLoader
-import com.habitrpg.android.habitica.helpers.notifications.PushNotificationManager
+import xyz.prfn.android.habitica.BuildConfig
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.ContentRepository
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.helpers.ReviewManager
+import xyz.prfn.android.habitica.helpers.SoundFileLoader
+import xyz.prfn.android.habitica.helpers.notifications.PushNotificationManager
 import com.habitrpg.common.habitica.helpers.KeyHelper
 import com.habitrpg.common.habitica.helpers.KeyHelper.Companion.getInstance
 import com.habitrpg.shared.habitica.HLogger

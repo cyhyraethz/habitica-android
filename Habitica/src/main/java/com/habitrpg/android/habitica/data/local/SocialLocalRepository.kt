@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.data.local
+package xyz.prfn.android.habitica.data.local
 
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.models.social.GroupMembership
-import com.habitrpg.android.habitica.models.social.InboxConversation
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.social.GroupMembership
+import xyz.prfn.android.habitica.models.social.InboxConversation
+import xyz.prfn.android.habitica.models.user.User
 import io.realm.RealmResults
 import kotlinx.coroutines.flow.Flow
 

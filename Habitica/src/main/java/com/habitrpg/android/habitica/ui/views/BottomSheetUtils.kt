@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.app.Activity
 import android.view.ViewGroup
@@ -34,8 +34,8 @@ import androidx.compose.ui.platform.ComposeView
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.unit.dp
 import androidx.fragment.app.Fragment
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.theme.colors
 import com.habitrpg.common.habitica.theme.HabiticaTheme
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

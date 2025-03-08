@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
 import androidx.viewbinding.ViewBinding
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.habitrpg.android.habitica.data.TutorialRepository
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.data.TutorialRepository
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.ui.activities.MainActivity
 import com.habitrpg.common.habitica.helpers.launchCatching
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.firstOrNull

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.widget
+package xyz.prfn.android.habitica.widget
 
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
@@ -6,11 +6,11 @@ import android.content.Context
 import android.os.Bundle
 import android.widget.RemoteViews
 import android.widget.Toast
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.helpers.EventCategory
-import com.habitrpg.android.habitica.helpers.HitType
-import com.habitrpg.android.habitica.interactors.NotifyUserUseCase
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.helpers.EventCategory
+import xyz.prfn.android.habitica.helpers.HitType
+import xyz.prfn.android.habitica.interactors.NotifyUserUseCase
 import com.habitrpg.shared.habitica.models.responses.TaskScoringResult
 import javax.inject.Inject
 

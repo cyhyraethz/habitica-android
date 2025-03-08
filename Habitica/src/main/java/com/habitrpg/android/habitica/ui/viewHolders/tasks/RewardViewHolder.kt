@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.ui.viewHolders.tasks
+package xyz.prfn.android.habitica.ui.viewHolders.tasks
 
 import android.view.View
 import androidx.core.content.ContextCompat
 import androidx.core.graphics.ColorUtils
 import androidx.core.graphics.drawable.toDrawable
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.RewardItemCardBinding
-import com.habitrpg.android.habitica.helpers.GroupPlanInfoProvider
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.RewardItemCardBinding
+import xyz.prfn.android.habitica.helpers.GroupPlanInfoProvider
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.helpers.NumberAbbreviator
 import com.habitrpg.shared.habitica.models.responses.TaskDirection

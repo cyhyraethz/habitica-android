@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.social
+package xyz.prfn.android.habitica.ui.views.social
 
 import android.content.Context
 import android.text.method.LinkMovementMethod
@@ -6,12 +6,12 @@ import android.util.AttributeSet
 import android.widget.LinearLayout
 import androidx.lifecycle.findViewTreeLifecycleOwner
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.MainNavDirections
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ViewInvitationBinding
-import com.habitrpg.android.habitica.helpers.HapticFeedbackManager
-import com.habitrpg.android.habitica.models.invitations.GenericInvitation
-import com.habitrpg.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.MainNavDirections
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ViewInvitationBinding
+import xyz.prfn.android.habitica.helpers.HapticFeedbackManager
+import xyz.prfn.android.habitica.models.invitations.GenericInvitation
+import xyz.prfn.android.habitica.models.members.Member
 import com.habitrpg.common.habitica.extensions.flash
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.helpers.MainNavigationController

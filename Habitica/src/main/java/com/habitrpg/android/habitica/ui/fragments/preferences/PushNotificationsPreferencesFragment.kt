@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.ui.fragments.preferences
+package xyz.prfn.android.habitica.ui.fragments.preferences
 
 import android.content.SharedPreferences
 import androidx.lifecycle.lifecycleScope
 import androidx.preference.CheckBoxPreference
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.user.User
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint
 

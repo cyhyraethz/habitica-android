@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.data
+package xyz.prfn.android.habitica.data
 
-import com.habitrpg.android.habitica.models.Tag
+import xyz.prfn.android.habitica.models.Tag
 import kotlinx.coroutines.flow.Flow
 
 interface TagRepository : BaseRepository {

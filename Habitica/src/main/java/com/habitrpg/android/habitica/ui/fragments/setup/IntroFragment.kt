@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.fragments.setup
+package xyz.prfn.android.habitica.ui.fragments.setup
 
 import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.habitrpg.android.habitica.databinding.FragmentIntroBinding
-import com.habitrpg.android.habitica.ui.fragments.BaseFragment
+import xyz.prfn.android.habitica.databinding.FragmentIntroBinding
+import xyz.prfn.android.habitica.ui.fragments.BaseFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

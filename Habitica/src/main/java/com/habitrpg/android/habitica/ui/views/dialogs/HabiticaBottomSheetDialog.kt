@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.dialogs
+package xyz.prfn.android.habitica.ui.views.dialogs
 
 import android.content.Context
 import android.view.View
@@ -6,9 +6,9 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.updatePadding
 import com.google.android.material.bottomsheet.BottomSheetDialog
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.BottomSheetWrapperBinding
-import com.habitrpg.android.habitica.extensions.consumeWindowInsetsAbove30
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.BottomSheetWrapperBinding
+import xyz.prfn.android.habitica.extensions.consumeWindowInsetsAbove30
 
 open class HabiticaBottomSheetDialog(context: Context) :
     BottomSheetDialog(context, R.style.SheetDialog) {

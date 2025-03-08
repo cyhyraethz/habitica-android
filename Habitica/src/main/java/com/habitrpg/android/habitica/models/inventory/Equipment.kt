@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.inventory
+package xyz.prfn.android.habitica.models.inventory
 
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.models.BaseMainObject
+import xyz.prfn.android.habitica.models.BaseMainObject
 import io.realm.RealmModel
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey

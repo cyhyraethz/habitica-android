@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewHolders.tasks
+package xyz.prfn.android.habitica.ui.viewHolders.tasks
 
 import android.content.Context
 import android.text.method.LinkMovementMethod
@@ -12,11 +12,11 @@ import android.widget.LinearLayout
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.helpers.GroupPlanInfoProvider
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.ui.viewHolders.BindableViewHolder
-import com.habitrpg.android.habitica.ui.views.EllipsisTextView
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.helpers.GroupPlanInfoProvider
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.ui.viewHolders.BindableViewHolder
+import xyz.prfn.android.habitica.ui.views.EllipsisTextView
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.helpers.MarkdownParser

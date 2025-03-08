@@ -10,8 +10,8 @@ import androidx.activity.viewModels
 import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityTaskFormBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityTaskFormBinding
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import com.habitrpg.wearos.habitica.ui.viewmodels.TaskFormViewModel
 import dagger.hilt.android.AndroidEntryPoint

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.preferences
+package xyz.prfn.android.habitica.ui.fragments.preferences
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,11 +6,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.preference.PreferenceFragmentCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.extensions.applyScrollContentWindowInsets
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.extensions.applyScrollContentWindowInsets
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import javax.inject.Inject
 
 abstract class BasePreferencesFragment : PreferenceFragmentCompat() {

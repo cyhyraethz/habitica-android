@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.CustomizationRepository
-import com.habitrpg.android.habitica.data.local.CustomizationLocalRepository
-import com.habitrpg.android.habitica.models.inventory.Customization
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.CustomizationRepository
+import xyz.prfn.android.habitica.data.local.CustomizationLocalRepository
+import xyz.prfn.android.habitica.models.inventory.Customization
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import kotlinx.coroutines.flow.Flow
 
 class CustomizationRepositoryImpl(

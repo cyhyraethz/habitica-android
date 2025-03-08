@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.widget
+package xyz.prfn.android.habitica.widget
 
 import android.appwidget.AppWidgetManager
 import android.content.Context
@@ -6,10 +6,10 @@ import android.content.Intent
 import android.text.SpannableStringBuilder
 import android.widget.RemoteViews
 import android.widget.RemoteViewsService
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.MarkdownParser
 import com.habitrpg.shared.habitica.models.tasks.TaskType

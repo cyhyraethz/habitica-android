@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers.notifications
+package xyz.prfn.android.habitica.helpers.notifications
 
 import android.app.PendingIntent
 import android.content.Context
@@ -8,8 +8,8 @@ import androidx.annotation.CallSuper
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.ui.activities.MainActivity
 import java.util.Date
 
 /**

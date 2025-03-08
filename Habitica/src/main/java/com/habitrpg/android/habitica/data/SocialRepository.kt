@@ -1,16 +1,16 @@
-package com.habitrpg.android.habitica.data
+package xyz.prfn.android.habitica.data
 
-import com.habitrpg.android.habitica.models.Achievement
-import com.habitrpg.android.habitica.models.inventory.Quest
-import com.habitrpg.android.habitica.models.invitations.InviteResponse
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.responses.PostChatMessageResult
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.social.FindUsernameResult
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.models.social.GroupMembership
-import com.habitrpg.android.habitica.models.social.InboxConversation
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.Achievement
+import xyz.prfn.android.habitica.models.inventory.Quest
+import xyz.prfn.android.habitica.models.invitations.InviteResponse
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.responses.PostChatMessageResult
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.social.FindUsernameResult
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.social.GroupMembership
+import xyz.prfn.android.habitica.models.social.InboxConversation
+import xyz.prfn.android.habitica.models.user.User
 import io.realm.RealmResults
 import kotlinx.coroutines.flow.Flow
 

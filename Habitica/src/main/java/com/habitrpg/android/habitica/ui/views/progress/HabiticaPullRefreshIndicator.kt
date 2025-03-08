@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.progress
+package xyz.prfn.android.habitica.ui.views.progress
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
@@ -21,7 +21,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.habitrpg.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.ui.theme.colors
 import com.habitrpg.common.habitica.theme.HabiticaTheme
 import com.habitrpg.common.habitica.views.HabiticaCircularProgressView
 

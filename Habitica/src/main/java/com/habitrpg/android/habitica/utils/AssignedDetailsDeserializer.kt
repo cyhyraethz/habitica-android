@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
-import com.habitrpg.android.habitica.models.tasks.GroupAssignedDetails
+import xyz.prfn.android.habitica.models.tasks.GroupAssignedDetails
 import io.realm.RealmList
 import java.lang.reflect.Type
 

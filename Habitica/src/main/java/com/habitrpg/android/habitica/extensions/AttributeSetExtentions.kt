@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
 import android.content.Context
 import android.content.res.TypedArray

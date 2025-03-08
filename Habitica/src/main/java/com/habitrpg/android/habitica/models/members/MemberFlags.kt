@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.models.members
+package xyz.prfn.android.habitica.models.members
 
 import com.habitrpg.shared.habitica.models.AvatarFlags
 import io.realm.RealmObject

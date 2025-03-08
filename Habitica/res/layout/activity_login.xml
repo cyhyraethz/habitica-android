@@ -5,14 +5,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".ui.activities.LoginActivity">
 
-    <com.habitrpg.android.habitica.ui.views.login.LockableScrollView
+    <xyz.prfn.android.habitica.ui.views.login.LockableScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/background_container"
         android:scrollIndicators="none"
         android:scrollbars="none">
 
-        <com.habitrpg.android.habitica.ui.views.login.LoginBackgroundView
+        <xyz.prfn.android.habitica.ui.views.login.LoginBackgroundView
             android:id="@+id/background_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -57,9 +57,9 @@
                 android:scaleType="centerCrop"
                 android:paddingBottom="400dp"
                 />
-        </com.habitrpg.android.habitica.ui.views.login.LoginBackgroundView>
+        </xyz.prfn.android.habitica.ui.views.login.LoginBackgroundView>
 
-    </com.habitrpg.android.habitica.ui.views.login.LockableScrollView>
+    </xyz.prfn.android.habitica.ui.views.login.LockableScrollView>
 
 
     <FrameLayout

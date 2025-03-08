@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.widget
+package xyz.prfn.android.habitica.widget
 
 import android.content.Intent
 import android.widget.RemoteViewsService
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.data.UserRepository
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

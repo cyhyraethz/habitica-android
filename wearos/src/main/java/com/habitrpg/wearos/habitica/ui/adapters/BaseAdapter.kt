@@ -2,8 +2,8 @@ package com.habitrpg.wearos.habitica.ui.adapters
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.databinding.RowHeaderBinding
-import com.habitrpg.android.habitica.databinding.RowSpacerBinding
+import xyz.prfn.android.habitica.databinding.RowHeaderBinding
+import xyz.prfn.android.habitica.databinding.RowSpacerBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.wearos.habitica.ui.viewHolders.HeaderViewHolder
 import com.habitrpg.wearos.habitica.ui.viewHolders.SpacerViewHolder

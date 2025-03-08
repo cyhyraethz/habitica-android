@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.modules
+package xyz.prfn.android.habitica.modules
 
 import dagger.Module
 import dagger.hilt.InstallIn

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks
+package xyz.prfn.android.habitica.ui.views.tasks
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -25,12 +25,12 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.models.Assignable
-import com.habitrpg.android.habitica.ui.theme.colors
-import com.habitrpg.android.habitica.ui.views.CompletedAt
-import com.habitrpg.android.habitica.ui.views.UserRow
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.models.Assignable
+import xyz.prfn.android.habitica.ui.theme.colors
+import xyz.prfn.android.habitica.ui.views.CompletedAt
+import xyz.prfn.android.habitica.ui.views.UserRow
 import com.habitrpg.common.habitica.theme.HabiticaTheme
 import java.util.Date
 

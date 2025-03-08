@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -8,11 +8,11 @@ import android.view.View
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.updatePadding
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityGroupFormBinding
-import com.habitrpg.android.habitica.extensions.consumeWindowInsetsAbove30
-import com.habitrpg.android.habitica.ui.helpers.AutocompleteAdapter
-import com.habitrpg.android.habitica.ui.helpers.dismissKeyboard
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityGroupFormBinding
+import xyz.prfn.android.habitica.extensions.consumeWindowInsetsAbove30
+import xyz.prfn.android.habitica.ui.helpers.AutocompleteAdapter
+import xyz.prfn.android.habitica.ui.helpers.dismissKeyboard
 import com.habitrpg.common.habitica.helpers.MarkdownParser
 import dagger.hilt.android.AndroidEntryPoint
 

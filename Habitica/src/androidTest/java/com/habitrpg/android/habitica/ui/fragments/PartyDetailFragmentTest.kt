@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.testing.launchFragmentInContainer
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.LargeTest
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentPartyDetailBinding
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.ui.fragments.social.party.PartyDetailFragment
-import com.habitrpg.android.habitica.ui.viewmodels.PartyViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentPartyDetailBinding
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.ui.fragments.social.party.PartyDetailFragment
+import xyz.prfn.android.habitica.ui.viewmodels.PartyViewModel
 import io.github.kakaocup.kakao.common.views.KView
 import io.github.kakaocup.kakao.image.KImageView
 import io.github.kakaocup.kakao.screen.Screen

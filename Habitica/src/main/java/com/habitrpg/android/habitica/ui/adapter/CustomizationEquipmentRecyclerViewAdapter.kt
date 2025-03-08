@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.ui.adapter
+package xyz.prfn.android.habitica.ui.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.CustomizationGridItemBinding
-import com.habitrpg.android.habitica.models.inventory.CustomizationSet
-import com.habitrpg.android.habitica.models.inventory.Equipment
-import com.habitrpg.android.habitica.models.shops.ShopItem
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.CustomizationGridItemBinding
+import xyz.prfn.android.habitica.models.inventory.CustomizationSet
+import xyz.prfn.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.shops.ShopItem
 import com.habitrpg.common.habitica.extensions.loadImage
 
 class CustomizationEquipmentRecyclerViewAdapter :

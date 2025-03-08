@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.widget
+package xyz.prfn.android.habitica.widget
 
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 class TodoListWidgetProvider : TaskListWidgetProvider() {
     override val serviceClass: Class<*>

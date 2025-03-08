@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.tasks
+package xyz.prfn.android.habitica.ui.fragments.tasks
 
 import android.app.Activity
 import android.content.Intent
@@ -20,17 +20,17 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import androidx.viewpager2.widget.ViewPager2
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TagRepository
-import com.habitrpg.android.habitica.databinding.FragmentViewpagerBinding
-import com.habitrpg.android.habitica.helpers.Analytics
-import com.habitrpg.android.habitica.helpers.EventCategory
-import com.habitrpg.android.habitica.helpers.HitType
-import com.habitrpg.android.habitica.ui.activities.TaskFormActivity
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.viewmodels.TasksViewModel
-import com.habitrpg.android.habitica.ui.views.navigation.HabiticaBottomNavigationViewListener
-import com.habitrpg.android.habitica.ui.views.tasks.TaskFilterDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TagRepository
+import xyz.prfn.android.habitica.databinding.FragmentViewpagerBinding
+import xyz.prfn.android.habitica.helpers.Analytics
+import xyz.prfn.android.habitica.helpers.EventCategory
+import xyz.prfn.android.habitica.helpers.HitType
+import xyz.prfn.android.habitica.ui.activities.TaskFormActivity
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.viewmodels.TasksViewModel
+import xyz.prfn.android.habitica.ui.views.navigation.HabiticaBottomNavigationViewListener
+import xyz.prfn.android.habitica.ui.views.tasks.TaskFilterDialog
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.setTintWith
 import com.habitrpg.common.habitica.helpers.MainNavigationController

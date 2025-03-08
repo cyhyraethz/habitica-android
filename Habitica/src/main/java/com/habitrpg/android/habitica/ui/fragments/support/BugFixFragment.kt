@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.support
+package xyz.prfn.android.habitica.ui.fragments.support
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -10,12 +10,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.os.bundleOf
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentSupportBugFixBinding
-import com.habitrpg.android.habitica.databinding.KnownIssueBinding
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.ui.fragments.BaseMainFragment
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentSupportBugFixBinding
+import xyz.prfn.android.habitica.databinding.KnownIssueBinding
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.ui.fragments.BaseMainFragment
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.helpers.AppTestingLevel
 import com.habitrpg.common.habitica.helpers.ExceptionHandler

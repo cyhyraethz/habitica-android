@@ -6,8 +6,8 @@ import android.view.View.INVISIBLE
 import android.view.View.VISIBLE
 import androidx.activity.viewModels
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityStatsBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityStatsBinding
 import com.habitrpg.wearos.habitica.models.user.Stats
 import com.habitrpg.wearos.habitica.models.user.User
 import com.habitrpg.wearos.habitica.ui.viewmodels.StatsViewModel

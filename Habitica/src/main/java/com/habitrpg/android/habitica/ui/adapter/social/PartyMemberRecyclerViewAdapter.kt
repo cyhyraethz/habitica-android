@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.ui.adapter.social
+package xyz.prfn.android.habitica.ui.adapter.social
 
 import android.view.ViewGroup
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.ui.adapter.BaseRecyclerViewAdapter
-import com.habitrpg.android.habitica.ui.viewHolders.GroupMemberViewHolder
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.ui.adapter.BaseRecyclerViewAdapter
+import xyz.prfn.android.habitica.ui.viewHolders.GroupMemberViewHolder
 import com.habitrpg.common.habitica.extensions.inflate
 
 class PartyMemberRecyclerViewAdapter : BaseRecyclerViewAdapter<Member, GroupMemberViewHolder>() {

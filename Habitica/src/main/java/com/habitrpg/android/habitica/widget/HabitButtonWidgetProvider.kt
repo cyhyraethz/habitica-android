@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.widget
+package xyz.prfn.android.habitica.widget
 
 import android.appwidget.AppWidgetManager
 import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
 import android.widget.RemoteViews
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TaskRepository
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.shared.habitica.models.responses.TaskDirection
 import dagger.hilt.android.AndroidEntryPoint
@@ -100,8 +100,8 @@ class HabitButtonWidgetProvider : BaseWidgetProvider() {
     }
 
     companion object {
-        const val HABIT_ACTION = "com.habitrpg.android.habitica.HABIT_ACTION"
-        const val TASK_ID = "com.habitrpg.android.habitica.TASK_ID_ITEM"
-        const val TASK_DIRECTION = "com.habitrpg.android.habitica.TASK_DIRECTION"
+        const val HABIT_ACTION = "xyz.prfn.android.habitica.HABIT_ACTION"
+        const val TASK_ID = "xyz.prfn.android.habitica.TASK_ID_ITEM"
+        const val TASK_DIRECTION = "xyz.prfn.android.habitica.TASK_DIRECTION"
     }
 }

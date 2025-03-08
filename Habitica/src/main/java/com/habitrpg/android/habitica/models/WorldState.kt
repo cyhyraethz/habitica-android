@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.models
+package xyz.prfn.android.habitica.models
 
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.models.inventory.QuestProgress
-import com.habitrpg.android.habitica.models.inventory.QuestRageStrike
+import xyz.prfn.android.habitica.models.inventory.QuestProgress
+import xyz.prfn.android.habitica.models.inventory.QuestRageStrike
 import io.realm.RealmList
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey

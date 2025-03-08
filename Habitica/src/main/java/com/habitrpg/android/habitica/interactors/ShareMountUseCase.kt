@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -11,10 +11,10 @@ import androidx.compose.ui.draw.clip
 import androidx.core.view.doOnNextLayout
 import androidx.lifecycle.setViewTreeLifecycleOwner
 import androidx.savedstate.setViewTreeSavedStateRegistryOwner
-import com.habitrpg.android.habitica.HabiticaBaseApplication
-import com.habitrpg.android.habitica.databinding.MountImageviewBinding
-import com.habitrpg.android.habitica.ui.activities.BaseActivity
-import com.habitrpg.android.habitica.ui.views.BackgroundScene
+import xyz.prfn.android.habitica.HabiticaBaseApplication
+import xyz.prfn.android.habitica.databinding.MountImageviewBinding
+import xyz.prfn.android.habitica.ui.activities.BaseActivity
+import xyz.prfn.android.habitica.ui.views.BackgroundScene
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.theme.HabiticaTheme

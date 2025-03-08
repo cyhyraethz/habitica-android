@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.modules
+package xyz.prfn.android.habitica.modules
 
 import android.content.Context
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.ContentRepository
-import com.habitrpg.android.habitica.data.implementation.ContentRepositoryImpl
-import com.habitrpg.android.habitica.data.local.ContentLocalRepository
-import com.habitrpg.android.habitica.data.local.implementation.RealmContentLocalRepository
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.ContentRepository
+import xyz.prfn.android.habitica.data.implementation.ContentRepositoryImpl
+import xyz.prfn.android.habitica.data.local.ContentLocalRepository
+import xyz.prfn.android.habitica.data.local.implementation.RealmContentLocalRepository
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

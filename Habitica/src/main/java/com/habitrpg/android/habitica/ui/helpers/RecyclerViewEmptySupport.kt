@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.helpers
+package xyz.prfn.android.habitica.ui.helpers
 
 import android.content.Context
 import android.util.AttributeSet
@@ -6,7 +6,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.updatePadding
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.extensions.consumeWindowInsetsAbove30
+import xyz.prfn.android.habitica.extensions.consumeWindowInsetsAbove30
 import com.habitrpg.common.habitica.helpers.EmptyItem
 import com.habitrpg.common.habitica.helpers.RecyclerViewState
 import com.habitrpg.common.habitica.helpers.RecyclerViewStateAdapter

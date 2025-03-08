@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.modules
+package xyz.prfn.android.habitica.modules
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.helpers.TaskAlarmManager
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.helpers.TaskAlarmManager
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

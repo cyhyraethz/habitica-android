@@ -1,13 +1,13 @@
-package com.habitrpg.android.habitica.utils;
+package xyz.prfn.android.habitica.utils;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
-import com.habitrpg.android.habitica.models.user.OwnedCustomization;
-import com.habitrpg.android.habitica.models.user.Purchases;
-import com.habitrpg.android.habitica.models.user.SubscriptionPlan;
+import xyz.prfn.android.habitica.models.user.OwnedCustomization;
+import xyz.prfn.android.habitica.models.user.Purchases;
+import xyz.prfn.android.habitica.models.user.SubscriptionPlan;
 
 import java.lang.reflect.Type;
 import java.util.Arrays;

@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.ui.viewmodels.inventory.equipment
+package xyz.prfn.android.habitica.ui.viewmodels.inventory.equipment
 
-import com.habitrpg.android.habitica.data.InventoryRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.models.user.Preferences
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.data.InventoryRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.models.user.Preferences
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
 import io.kotest.core.spec.style.WordSpec
 import io.kotest.matchers.shouldBe
 import io.mockk.clearMocks

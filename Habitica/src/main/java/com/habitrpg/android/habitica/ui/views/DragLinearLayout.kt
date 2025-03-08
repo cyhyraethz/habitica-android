@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views
+package xyz.prfn.android.habitica.ui.views
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -20,7 +20,7 @@ import android.view.ViewTreeObserver.OnPreDrawListener
 import android.widget.LinearLayout
 import android.widget.ScrollView
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.min
@@ -68,7 +68,7 @@ constructor(
     private var dragUpdater: Runnable? = null
 
     /**
-     * Use with [com.habitrpg.android.habitica.ui.views.DragLinearLayout.setOnViewSwapListener]
+     * Use with [xyz.prfn.android.habitica.ui.views.DragLinearLayout.setOnViewSwapListener]
      * to listen for draggable view swaps.
      */
     interface OnViewSwapListener {
@@ -248,7 +248,7 @@ constructor(
     }
 
     /**
-     * See [com.habitrpg.android.habitica.ui.views.DragLinearLayout.OnViewSwapListener].
+     * See [xyz.prfn.android.habitica.ui.views.DragLinearLayout.OnViewSwapListener].
      */
     fun setOnViewSwapListener(swapListener: OnViewSwapListener) {
         this.swapListener = swapListener
@@ -269,7 +269,7 @@ constructor(
 
     /**
      * Initiates a new [.draggedItem] unless the current one is still
-     * [com.habitrpg.android.habitica.ui.views.DragLinearLayout.DragItem.detecting].
+     * [xyz.prfn.android.habitica.ui.views.DragLinearLayout.DragItem.detecting].
      */
     private fun startDetectingDrag(child: View) {
         if (draggedItem.detecting) {

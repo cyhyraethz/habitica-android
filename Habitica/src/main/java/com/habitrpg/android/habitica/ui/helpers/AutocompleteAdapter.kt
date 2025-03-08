@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.helpers
+package xyz.prfn.android.habitica.ui.helpers
 
 import android.content.Context
 import android.view.View
@@ -7,14 +7,14 @@ import android.widget.BaseAdapter
 import android.widget.Filter
 import android.widget.Filterable
 import android.widget.TextView
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.models.auth.LocalAuthentication
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.social.FindUsernameResult
-import com.habitrpg.android.habitica.models.user.Authentication
-import com.habitrpg.android.habitica.models.user.Profile
-import com.habitrpg.android.habitica.ui.views.UsernameLabel
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.models.auth.LocalAuthentication
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.social.FindUsernameResult
+import xyz.prfn.android.habitica.models.user.Authentication
+import xyz.prfn.android.habitica.models.user.Profile
+import xyz.prfn.android.habitica.ui.views.UsernameLabel
 import com.habitrpg.common.habitica.extensions.inflate
 import com.habitrpg.common.habitica.helpers.EmojiMap
 import com.habitrpg.common.habitica.helpers.EmojiParser

@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.utils
+package xyz.prfn.android.habitica.utils
 
 import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
-import com.habitrpg.android.habitica.extensions.getAsString
-import com.habitrpg.android.habitica.models.Achievement
+import xyz.prfn.android.habitica.extensions.getAsString
+import xyz.prfn.android.habitica.models.Achievement
 import java.lang.reflect.Type
 
 class AchievementListDeserializer : JsonDeserializer<List<Achievement?>> {

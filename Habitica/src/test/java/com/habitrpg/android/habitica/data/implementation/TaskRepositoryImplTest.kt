@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.data.local.TaskLocalRepository
-import com.habitrpg.android.habitica.models.BaseObject
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.models.tasks.TaskList
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.data.local.TaskLocalRepository
+import xyz.prfn.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.models.tasks.TaskList
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import com.habitrpg.shared.habitica.models.responses.TaskDirectionData
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import com.habitrpg.shared.habitica.models.tasks.TasksOrder

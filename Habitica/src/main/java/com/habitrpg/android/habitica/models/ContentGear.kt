@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models
+package xyz.prfn.android.habitica.models
 
-import com.habitrpg.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.inventory.Equipment
 import io.realm.RealmList
 
 class ContentGear {

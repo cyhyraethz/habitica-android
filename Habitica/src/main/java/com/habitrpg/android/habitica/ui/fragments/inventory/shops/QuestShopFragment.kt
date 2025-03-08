@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.shops
+package xyz.prfn.android.habitica.ui.fragments.inventory.shops
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.models.shops.Shop
+import xyz.prfn.android.habitica.models.shops.Shop
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint
 

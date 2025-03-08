@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.app.Activity
 import android.appwidget.AppWidgetManager
@@ -8,11 +8,11 @@ import android.view.View
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TaskRepository
-import com.habitrpg.android.habitica.databinding.WidgetConfigureHabitButtonBinding
-import com.habitrpg.android.habitica.ui.adapter.SkillTasksRecyclerViewAdapter
-import com.habitrpg.android.habitica.widget.HabitButtonWidgetProvider
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TaskRepository
+import xyz.prfn.android.habitica.databinding.WidgetConfigureHabitButtonBinding
+import xyz.prfn.android.habitica.ui.adapter.SkillTasksRecyclerViewAdapter
+import xyz.prfn.android.habitica.widget.HabitButtonWidgetProvider
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.shared.habitica.models.tasks.TaskType
 import dagger.hilt.android.AndroidEntryPoint

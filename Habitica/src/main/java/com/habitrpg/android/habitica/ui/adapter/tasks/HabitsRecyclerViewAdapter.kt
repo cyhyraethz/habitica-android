@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.ui.adapter.tasks
+package xyz.prfn.android.habitica.ui.adapter.tasks
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.habitrpg.android.habitica.ui.viewHolders.tasks.HabitViewHolder
-import com.habitrpg.android.habitica.ui.viewmodels.TasksViewModel
+import xyz.prfn.android.habitica.ui.viewHolders.tasks.HabitViewHolder
+import xyz.prfn.android.habitica.ui.viewmodels.TasksViewModel
 
 class HabitsRecyclerViewAdapter(layoutResource: Int, viewModel: TasksViewModel) : RealmBaseTasksRecyclerViewAdapter(layoutResource, viewModel) {
     override fun onCreateViewHolder(

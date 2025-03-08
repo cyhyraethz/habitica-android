@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks
+package xyz.prfn.android.habitica.ui.views.tasks
 
 import androidx.compose.animation.animateColor
 import androidx.compose.animation.core.FastOutLinearInEasing
@@ -37,10 +37,10 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.ui.views.UserRow
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.ui.views.UserRow
 
 @Composable
 fun AssignSheet(

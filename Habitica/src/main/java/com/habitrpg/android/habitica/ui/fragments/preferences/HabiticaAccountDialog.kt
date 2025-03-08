@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments.preferences
+package xyz.prfn.android.habitica.ui.fragments.preferences
 
 import android.app.Dialog
 import android.content.Context
@@ -20,13 +20,13 @@ import androidx.lifecycle.lifecycleScope
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.databinding.DialogHabiticaAccountBinding
-import com.habitrpg.android.habitica.extensions.addCancelButton
-import com.habitrpg.android.habitica.extensions.addOkButton
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.databinding.DialogHabiticaAccountBinding
+import xyz.prfn.android.habitica.extensions.addCancelButton
+import xyz.prfn.android.habitica.extensions.addOkButton
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

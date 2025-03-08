@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.social
+package xyz.prfn.android.habitica.ui.views.social
 
 import android.content.Context
 import android.content.res.Configuration
@@ -12,13 +12,13 @@ import androidx.core.content.ContextCompat
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.updatePadding
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ChatBarViewBinding
-import com.habitrpg.android.habitica.extensions.OnChangeTextWatcher
-import com.habitrpg.android.habitica.extensions.consumeWindowInsetsAbove30
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.ui.helpers.AutocompleteAdapter
-import com.habitrpg.android.habitica.ui.helpers.AutocompleteTokenizer
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ChatBarViewBinding
+import xyz.prfn.android.habitica.extensions.OnChangeTextWatcher
+import xyz.prfn.android.habitica.extensions.consumeWindowInsetsAbove30
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.ui.helpers.AutocompleteAdapter
+import xyz.prfn.android.habitica.ui.helpers.AutocompleteTokenizer
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.helpers.MainNavigationController

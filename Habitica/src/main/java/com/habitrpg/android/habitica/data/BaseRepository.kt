@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.data
+package xyz.prfn.android.habitica.data
 
-import com.habitrpg.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.BaseObject
 
 interface BaseRepository {
     val isClosed: Boolean

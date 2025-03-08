@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import com.habitrpg.common.habitica.helpers.HealthFormatter
 import io.kotest.core.spec.style.StringSpec

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

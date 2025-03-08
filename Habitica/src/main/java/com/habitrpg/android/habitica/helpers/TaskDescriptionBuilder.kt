@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.helpers
+package xyz.prfn.android.habitica.helpers
 
 import android.content.Context
 import android.icu.text.MessageFormat
 import android.os.Build
 import android.text.format.DateUtils
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.models.tasks.Task
 import com.habitrpg.common.habitica.extensions.nameSentenceRes
 import com.habitrpg.common.habitica.helpers.LanguageHelper
 import com.habitrpg.shared.habitica.models.tasks.Frequency

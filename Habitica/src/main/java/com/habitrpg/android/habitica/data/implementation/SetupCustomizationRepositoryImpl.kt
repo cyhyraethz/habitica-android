@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
 import android.content.Context
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SetupCustomizationRepository
-import com.habitrpg.android.habitica.models.SetupCustomization
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SetupCustomizationRepository
+import xyz.prfn.android.habitica.models.SetupCustomization
+import xyz.prfn.android.habitica.models.user.User
 import javax.inject.Inject
 
 @Suppress("StringLiteralDuplication")

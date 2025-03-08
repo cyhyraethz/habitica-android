@@ -3,7 +3,7 @@ package com.habitrpg.wearos.habitica.models.tasks
 import android.os.Parcel
 import android.os.Parcelable
 import android.text.Spanned
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.shared.habitica.models.tasks.Attribute
 import com.habitrpg.shared.habitica.models.tasks.BaseTask
 import com.habitrpg.shared.habitica.models.tasks.Frequency

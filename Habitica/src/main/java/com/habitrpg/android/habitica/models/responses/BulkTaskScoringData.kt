@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.models.responses
+package xyz.prfn.android.habitica.models.responses
 
 import com.google.gson.annotations.SerializedName
-import com.habitrpg.android.habitica.models.user.Buffs
-import com.habitrpg.android.habitica.models.user.Training
+import xyz.prfn.android.habitica.models.user.Buffs
+import xyz.prfn.android.habitica.models.user.Training
 import com.habitrpg.shared.habitica.models.responses.TaskDirectionData
 
 class BulkTaskScoringData {

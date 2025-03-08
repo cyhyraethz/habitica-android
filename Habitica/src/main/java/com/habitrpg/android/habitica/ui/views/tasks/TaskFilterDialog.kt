@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.tasks
+package xyz.prfn.android.habitica.ui.views.tasks
 
 import android.content.Context
 import android.content.res.ColorStateList
@@ -16,15 +16,15 @@ import androidx.core.view.isVisible
 import androidx.core.widget.CompoundButtonCompat
 import androidx.lifecycle.lifecycleScope
 import com.google.android.material.button.MaterialButton
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.TagRepository
-import com.habitrpg.android.habitica.databinding.DialogTaskFilterBinding
-import com.habitrpg.android.habitica.databinding.EditTagItemBinding
-import com.habitrpg.android.habitica.extensions.OnChangeTextWatcher
-import com.habitrpg.android.habitica.models.Tag
-import com.habitrpg.android.habitica.models.tasks.Task
-import com.habitrpg.android.habitica.ui.viewmodels.TasksViewModel
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaBottomSheetDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.TagRepository
+import xyz.prfn.android.habitica.databinding.DialogTaskFilterBinding
+import xyz.prfn.android.habitica.databinding.EditTagItemBinding
+import xyz.prfn.android.habitica.extensions.OnChangeTextWatcher
+import xyz.prfn.android.habitica.models.Tag
+import xyz.prfn.android.habitica.models.tasks.Task
+import xyz.prfn.android.habitica.ui.viewmodels.TasksViewModel
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaBottomSheetDialog
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.shared.habitica.models.tasks.TaskType

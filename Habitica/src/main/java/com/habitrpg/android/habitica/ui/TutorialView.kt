@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui
+package xyz.prfn.android.habitica.ui
 
 import android.content.Context
 import android.view.View
 import android.view.ViewGroup
 import android.widget.FrameLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.OverlayTutorialBinding
-import com.habitrpg.android.habitica.models.TutorialStep
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.OverlayTutorialBinding
+import xyz.prfn.android.habitica.models.TutorialStep
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 

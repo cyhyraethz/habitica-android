@@ -1,9 +1,9 @@
-package com.habitrpg.android.habitica.interactors
+package xyz.prfn.android.habitica.interactors
 
 import android.app.Activity
-import com.habitrpg.android.habitica.helpers.PurchaseHandler
-import com.habitrpg.android.habitica.helpers.PurchaseTypes
-import com.habitrpg.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.helpers.PurchaseHandler
+import xyz.prfn.android.habitica.helpers.PurchaseTypes
+import xyz.prfn.android.habitica.ui.activities.MainActivity
 import javax.inject.Inject
 
 class InsufficientGemsUseCase

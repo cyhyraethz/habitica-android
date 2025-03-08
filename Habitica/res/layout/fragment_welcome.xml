@@ -23,7 +23,7 @@
         android:layout_marginBottom="@dimen/spacing_large"
         />
 
-    <com.habitrpg.android.habitica.ui.views.DayNightTextView
+    <xyz.prfn.android.habitica.ui.views.DayNightTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:dayTextColor="@color/brand_200"
@@ -118,7 +118,7 @@
         android:layout_weight="1"
         android:layout_marginTop="@dimen/spacing_large"/>
 
-    <com.habitrpg.android.habitica.ui.SpeechBubbleView
+    <xyz.prfn.android.habitica.ui.SpeechBubbleView
         android:id="@+id/speech_bubble"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 import android.os.Bundle
 import androidx.compose.runtime.mutableStateListOf
@@ -7,15 +7,15 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import com.habitrpg.android.habitica.data.ChallengeRepository
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.helpers.NotificationsManager
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.social.Challenge
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.ui.views.LoadingButtonState
+import xyz.prfn.android.habitica.data.ChallengeRepository
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.helpers.NotificationsManager
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.social.Challenge
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.ui.views.LoadingButtonState
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.habitrpg.common.habitica.helpers.launchCatching

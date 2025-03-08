@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.data.local
+package xyz.prfn.android.habitica.data.local
 
-import com.habitrpg.android.habitica.models.Achievement
-import com.habitrpg.android.habitica.models.QuestAchievement
-import com.habitrpg.android.habitica.models.Skill
-import com.habitrpg.android.habitica.models.TeamPlan
-import com.habitrpg.android.habitica.models.TutorialStep
-import com.habitrpg.android.habitica.models.social.ChatMessage
-import com.habitrpg.android.habitica.models.social.Group
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.models.user.UserQuestStatus
+import xyz.prfn.android.habitica.models.Achievement
+import xyz.prfn.android.habitica.models.QuestAchievement
+import xyz.prfn.android.habitica.models.Skill
+import xyz.prfn.android.habitica.models.TeamPlan
+import xyz.prfn.android.habitica.models.TutorialStep
+import xyz.prfn.android.habitica.models.social.ChatMessage
+import xyz.prfn.android.habitica.models.social.Group
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.user.UserQuestStatus
 import io.realm.RealmResults
 import kotlinx.coroutines.flow.Flow
 

@@ -1,14 +1,14 @@
-package com.habitrpg.android.habitica.ui.fragments.inventory.shops
+package xyz.prfn.android.habitica.ui.fragments.inventory.shops
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
-import com.habitrpg.android.habitica.models.shops.Shop
-import com.habitrpg.android.habitica.ui.fragments.purchases.EventOutcomeSubscriptionBottomSheetFragment
-import com.habitrpg.android.habitica.ui.fragments.purchases.SubscriptionBottomSheetFragment
-import com.habitrpg.android.habitica.ui.views.CurrencyText
+import xyz.prfn.android.habitica.models.shops.Shop
+import xyz.prfn.android.habitica.ui.fragments.purchases.EventOutcomeSubscriptionBottomSheetFragment
+import xyz.prfn.android.habitica.ui.fragments.purchases.SubscriptionBottomSheetFragment
+import xyz.prfn.android.habitica.ui.views.CurrencyText
 import com.habitrpg.common.habitica.helpers.launchCatching
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.delay

@@ -7,7 +7,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.viewModels
 import androidx.core.view.isVisible
 import com.google.android.gms.auth.api.signin.GoogleSignIn
-import com.habitrpg.android.habitica.databinding.ActivityLoginBinding
+import xyz.prfn.android.habitica.databinding.ActivityLoginBinding
 import com.habitrpg.common.habitica.helpers.DeviceCommunication
 import com.habitrpg.wearos.habitica.ui.viewmodels.LoginViewModel
 import dagger.hilt.android.AndroidEntryPoint

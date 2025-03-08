@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -11,9 +11,9 @@ import android.view.animation.AccelerateInterpolator
 import android.widget.Toast
 import androidx.core.net.toUri
 import com.google.firebase.analytics.FirebaseAnalytics
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.FragmentAboutBinding
-import com.habitrpg.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.FragmentAboutBinding
+import xyz.prfn.android.habitica.helpers.AppConfigManager
 import com.habitrpg.common.habitica.extensions.DataBindingUtils
 import com.habitrpg.common.habitica.helpers.MainNavigationController
 import com.plattysoft.leonids.ParticleSystem
@@ -34,7 +34,7 @@ class AboutFragment : BaseMainFragment<FragmentAboutBinding>() {
 
     private fun openGooglePlay() {
         val intent = Intent(Intent.ACTION_VIEW)
-        intent.data = "market://details?id=com.habitrpg.android.habitica".toUri()
+        intent.data = "market://details?id=xyz.prfn.android.habitica".toUri()
         startActivity(intent)
     }
 

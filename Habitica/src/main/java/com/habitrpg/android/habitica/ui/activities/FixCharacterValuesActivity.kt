@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.graphics.PorterDuff
 import android.os.Bundle
@@ -7,12 +7,12 @@ import android.view.MenuItem
 import android.view.View
 import android.widget.EditText
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityFixcharacterBinding
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.models.user.User
-import com.habitrpg.android.habitica.ui.viewmodels.MainUserViewModel
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityFixcharacterBinding
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.models.user.User
+import xyz.prfn.android.habitica.ui.viewmodels.MainUserViewModel
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
 import com.habitrpg.common.habitica.extensions.setTintWith
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

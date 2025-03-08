@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.habitrpg.android.habitica.databinding.FragmentPromoInfoBinding
-import com.habitrpg.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.databinding.FragmentPromoInfoBinding
+import xyz.prfn.android.habitica.helpers.AppConfigManager
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

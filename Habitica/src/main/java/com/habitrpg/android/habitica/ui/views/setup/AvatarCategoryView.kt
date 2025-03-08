@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.setup
+package xyz.prfn.android.habitica.ui.views.setup
 
 import android.content.Context
 import android.graphics.PorterDuff
@@ -8,7 +8,7 @@ import android.view.View
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.core.content.ContextCompat
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.extensions.setTintWith
 
 class AvatarCategoryView(context: Context, attrs: AttributeSet?) : LinearLayout(context, attrs) {

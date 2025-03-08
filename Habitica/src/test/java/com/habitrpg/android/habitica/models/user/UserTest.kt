@@ -1,6 +1,6 @@
-package com.habitrpg.android.habitica.models.user
+package xyz.prfn.android.habitica.models.user
 
-import com.habitrpg.android.habitica.models.social.UserParty
+import xyz.prfn.android.habitica.models.social.UserParty
 import io.kotest.core.spec.style.WordSpec
 import io.kotest.matchers.shouldBe
 import io.realm.RealmList

@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.data.local
+package xyz.prfn.android.habitica.data.local
 
-import com.habitrpg.android.habitica.models.ContentResult
-import com.habitrpg.android.habitica.models.WorldState
+import xyz.prfn.android.habitica.models.ContentResult
+import xyz.prfn.android.habitica.models.WorldState
 import kotlinx.coroutines.flow.Flow
 
 interface ContentLocalRepository : BaseLocalRepository {

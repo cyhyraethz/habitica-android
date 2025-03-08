@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.fragments
+package xyz.prfn.android.habitica.ui.fragments
 
 import android.graphics.PorterDuff
 import android.os.Build
@@ -16,12 +16,12 @@ import androidx.viewbinding.ViewBinding
 import com.google.android.material.appbar.AppBarLayout
 import com.google.android.material.tabs.TabLayout
 import com.google.firebase.analytics.FirebaseAnalytics
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.UserRepository
-import com.habitrpg.android.habitica.extensions.setNavigationBarDarkIcons
-import com.habitrpg.android.habitica.helpers.SoundManager
-import com.habitrpg.android.habitica.ui.activities.MainActivity
-import com.habitrpg.android.habitica.ui.helpers.ToolbarColorHelper
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.extensions.setNavigationBarDarkIcons
+import xyz.prfn.android.habitica.helpers.SoundManager
+import xyz.prfn.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.ui.helpers.ToolbarColorHelper
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import com.habitrpg.common.habitica.extensions.isUsingNightModeResources
 import javax.inject.Inject

@@ -8,7 +8,7 @@ import android.text.TextUtils
 import android.text.style.ForegroundColorSpan
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatTextView
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 
 /**
  * A custom [AppCompatTextView] that allows custom ellipsis and ellipsisColor.

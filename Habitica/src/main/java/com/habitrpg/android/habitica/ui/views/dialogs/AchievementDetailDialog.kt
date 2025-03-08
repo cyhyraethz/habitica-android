@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.ui.views.dialogs
+package xyz.prfn.android.habitica.ui.views.dialogs
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.TextView
-import com.habitrpg.android.habitica.databinding.DialogAchievementDetailBinding
-import com.habitrpg.android.habitica.extensions.addCloseButton
-import com.habitrpg.android.habitica.models.Achievement
+import xyz.prfn.android.habitica.databinding.DialogAchievementDetailBinding
+import xyz.prfn.android.habitica.extensions.addCloseButton
+import xyz.prfn.android.habitica.models.Achievement
 import com.habitrpg.common.habitica.extensions.fromHtml
 import com.habitrpg.common.habitica.extensions.loadImage
 import com.habitrpg.common.habitica.views.PixelArtView

@@ -1,12 +1,12 @@
-package com.habitrpg.android.habitica.receivers
+package xyz.prfn.android.habitica.receivers
 
 import android.content.Intent
 import com.google.android.gms.wearable.MessageEvent
 import com.google.android.gms.wearable.Wearable
 import com.google.android.gms.wearable.WearableListenerService
-import com.habitrpg.android.habitica.ui.activities.LoginActivity
-import com.habitrpg.android.habitica.ui.activities.MainActivity
-import com.habitrpg.android.habitica.ui.activities.TaskFormActivity
+import xyz.prfn.android.habitica.ui.activities.LoginActivity
+import xyz.prfn.android.habitica.ui.activities.MainActivity
+import xyz.prfn.android.habitica.ui.activities.TaskFormActivity
 import com.habitrpg.common.habitica.api.HostConfig
 import com.habitrpg.common.habitica.helpers.DeviceCommunication
 import dagger.hilt.android.AndroidEntryPoint

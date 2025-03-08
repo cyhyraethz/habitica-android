@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.ui.viewmodels
+package xyz.prfn.android.habitica.ui.viewmodels
 
 import androidx.compose.runtime.mutableStateOf
-import com.habitrpg.android.habitica.data.UserRepository
+import xyz.prfn.android.habitica.data.UserRepository
 import com.habitrpg.shared.habitica.models.tasks.Attribute
 import com.habitrpg.shared.habitica.models.tasks.HabitResetOption
 import com.habitrpg.shared.habitica.models.tasks.TaskDifficulty

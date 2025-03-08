@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.ui.views.social
+package xyz.prfn.android.habitica.ui.views.social
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.QuestCollectBinding
-import com.habitrpg.android.habitica.databinding.QuestProgressOldBinding
-import com.habitrpg.android.habitica.models.inventory.QuestContent
-import com.habitrpg.android.habitica.models.inventory.QuestProgress
-import com.habitrpg.android.habitica.models.inventory.QuestProgressCollect
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.QuestCollectBinding
+import xyz.prfn.android.habitica.databinding.QuestProgressOldBinding
+import xyz.prfn.android.habitica.models.inventory.QuestContent
+import xyz.prfn.android.habitica.models.inventory.QuestProgress
+import xyz.prfn.android.habitica.models.inventory.QuestProgressCollect
 import com.habitrpg.common.habitica.extensions.dpToPx
 import com.habitrpg.common.habitica.extensions.layoutInflater
 import com.habitrpg.common.habitica.extensions.loadImage

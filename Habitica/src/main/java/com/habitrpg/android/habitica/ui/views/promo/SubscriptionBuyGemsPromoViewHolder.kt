@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.views.promo
+package xyz.prfn.android.habitica.ui.views.promo
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView

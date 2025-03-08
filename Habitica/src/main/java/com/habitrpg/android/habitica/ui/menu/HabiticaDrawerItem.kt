@@ -1,8 +1,8 @@
-package com.habitrpg.android.habitica.ui.menu
+package xyz.prfn.android.habitica.ui.menu
 
 import android.graphics.drawable.Drawable
 import android.os.Bundle
-import com.habitrpg.android.habitica.models.user.User
+import xyz.prfn.android.habitica.models.user.User
 
 data class HabiticaDrawerItem(
     var transitionId: Int,

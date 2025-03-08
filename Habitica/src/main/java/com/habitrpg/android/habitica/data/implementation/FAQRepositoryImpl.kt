@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.data.implementation
+package xyz.prfn.android.habitica.data.implementation
 
-import com.habitrpg.android.habitica.data.ApiClient
-import com.habitrpg.android.habitica.data.FAQRepository
-import com.habitrpg.android.habitica.data.local.FAQLocalRepository
-import com.habitrpg.android.habitica.models.FAQArticle
-import com.habitrpg.android.habitica.modules.AuthenticationHandler
+import xyz.prfn.android.habitica.data.ApiClient
+import xyz.prfn.android.habitica.data.FAQRepository
+import xyz.prfn.android.habitica.data.local.FAQLocalRepository
+import xyz.prfn.android.habitica.models.FAQArticle
+import xyz.prfn.android.habitica.modules.AuthenticationHandler
 import kotlinx.coroutines.flow.Flow
 
 class FAQRepositoryImpl(

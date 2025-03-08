@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.ui
+package xyz.prfn.android.habitica.ui
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.View
 import android.widget.FrameLayout
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.SpeechbubbleBinding
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.SpeechbubbleBinding
 import com.habitrpg.common.habitica.extensions.layoutInflater
 
 class SpeechBubbleView(context: Context, attrs: AttributeSet) :

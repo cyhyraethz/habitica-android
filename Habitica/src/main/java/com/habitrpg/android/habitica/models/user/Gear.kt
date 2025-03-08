@@ -1,7 +1,7 @@
-package com.habitrpg.android.habitica.models.user
+package xyz.prfn.android.habitica.models.user
 
-import com.habitrpg.android.habitica.models.BaseObject
-import com.habitrpg.android.habitica.models.inventory.Equipment
+import xyz.prfn.android.habitica.models.BaseObject
+import xyz.prfn.android.habitica.models.inventory.Equipment
 import com.habitrpg.shared.habitica.models.AvatarGear
 import io.realm.RealmList
 import io.realm.RealmObject

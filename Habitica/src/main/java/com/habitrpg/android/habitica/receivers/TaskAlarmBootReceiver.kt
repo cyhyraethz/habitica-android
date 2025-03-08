@@ -1,11 +1,11 @@
-package com.habitrpg.android.habitica.receivers
+package xyz.prfn.android.habitica.receivers
 
 import android.app.AlarmManager
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
-import com.habitrpg.android.habitica.helpers.TaskAlarmManager
+import xyz.prfn.android.habitica.helpers.TaskAlarmManager
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import com.habitrpg.shared.habitica.HLogger
 import com.habitrpg.shared.habitica.LogLevel

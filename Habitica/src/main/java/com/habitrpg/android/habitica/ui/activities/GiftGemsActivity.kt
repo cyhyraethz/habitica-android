@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.os.Bundle
 import android.view.View
@@ -7,17 +7,17 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.navArgs
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.google.android.material.tabs.TabLayoutMediator
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.data.SocialRepository
-import com.habitrpg.android.habitica.databinding.ActivityGiftGemsBinding
-import com.habitrpg.android.habitica.extensions.addCloseButton
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.helpers.PurchaseHandler
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.ui.fragments.purchases.GiftBalanceGemsFragment
-import com.habitrpg.android.habitica.ui.fragments.purchases.GiftPurchaseGemsFragment
-import com.habitrpg.android.habitica.ui.views.CurrencyView
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.data.SocialRepository
+import xyz.prfn.android.habitica.databinding.ActivityGiftGemsBinding
+import xyz.prfn.android.habitica.extensions.addCloseButton
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.helpers.PurchaseHandler
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.ui.fragments.purchases.GiftBalanceGemsFragment
+import xyz.prfn.android.habitica.ui.fragments.purchases.GiftPurchaseGemsFragment
+import xyz.prfn.android.habitica.ui.views.CurrencyView
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.helpers.ExceptionHandler
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.firstOrNull

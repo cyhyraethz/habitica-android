@@ -1,10 +1,10 @@
-package com.habitrpg.android.habitica.extensions
+package xyz.prfn.android.habitica.extensions
 
 import android.os.Build
 import android.view.View
 import android.view.Window
 import android.view.WindowInsetsController
-import com.habitrpg.android.habitica.R
+import xyz.prfn.android.habitica.R
 import com.habitrpg.common.habitica.extensions.getThemeColor
 import kotlin.and
 import kotlin.or

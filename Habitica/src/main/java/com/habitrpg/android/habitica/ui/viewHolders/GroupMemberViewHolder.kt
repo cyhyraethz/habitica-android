@@ -1,15 +1,15 @@
-package com.habitrpg.android.habitica.ui.viewHolders
+package xyz.prfn.android.habitica.ui.viewHolders
 
 import android.annotation.SuppressLint
 import android.view.MenuItem
 import android.view.View
 import androidx.appcompat.widget.PopupMenu
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.PartyMemberBinding
-import com.habitrpg.android.habitica.models.members.Member
-import com.habitrpg.android.habitica.models.user.Stats
-import com.habitrpg.android.habitica.ui.views.HabiticaIconsHelper
-import com.habitrpg.android.habitica.ui.views.getTranslatedClassName
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.PartyMemberBinding
+import xyz.prfn.android.habitica.models.members.Member
+import xyz.prfn.android.habitica.models.user.Stats
+import xyz.prfn.android.habitica.ui.views.HabiticaIconsHelper
+import xyz.prfn.android.habitica.ui.views.getTranslatedClassName
 
 class GroupMemberViewHolder(itemView: View) :
     androidx.recyclerview.widget.RecyclerView.ViewHolder(itemView),

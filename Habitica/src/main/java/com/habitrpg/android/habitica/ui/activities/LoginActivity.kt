@@ -1,4 +1,4 @@
-package com.habitrpg.android.habitica.ui.activities
+package xyz.prfn.android.habitica.ui.activities
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -32,18 +32,18 @@ import com.google.android.gms.tasks.Tasks
 import com.google.android.gms.wearable.CapabilityClient
 import com.google.android.gms.wearable.MessageClient
 import com.google.android.gms.wearable.Wearable
-import com.habitrpg.android.habitica.R
-import com.habitrpg.android.habitica.databinding.ActivityLoginBinding
-import com.habitrpg.android.habitica.extensions.addCancelButton
-import com.habitrpg.android.habitica.extensions.addOkButton
-import com.habitrpg.android.habitica.extensions.lifecycleLaunchWhen
-import com.habitrpg.android.habitica.extensions.updateStatusBarColor
-import com.habitrpg.android.habitica.helpers.AppConfigManager
-import com.habitrpg.android.habitica.ui.helpers.dismissKeyboard
-import com.habitrpg.android.habitica.extensions.AuthenticationErrors
-import com.habitrpg.android.habitica.extensions.setNavigationBarDarkIcons
-import com.habitrpg.android.habitica.ui.viewmodels.AuthenticationViewModel
-import com.habitrpg.android.habitica.ui.views.dialogs.HabiticaAlertDialog
+import xyz.prfn.android.habitica.R
+import xyz.prfn.android.habitica.databinding.ActivityLoginBinding
+import xyz.prfn.android.habitica.extensions.addCancelButton
+import xyz.prfn.android.habitica.extensions.addOkButton
+import xyz.prfn.android.habitica.extensions.lifecycleLaunchWhen
+import xyz.prfn.android.habitica.extensions.updateStatusBarColor
+import xyz.prfn.android.habitica.helpers.AppConfigManager
+import xyz.prfn.android.habitica.ui.helpers.dismissKeyboard
+import xyz.prfn.android.habitica.extensions.AuthenticationErrors
+import xyz.prfn.android.habitica.extensions.setNavigationBarDarkIcons
+import xyz.prfn.android.habitica.ui.viewmodels.AuthenticationViewModel
+import xyz.prfn.android.habitica.ui.views.dialogs.HabiticaAlertDialog
 import com.habitrpg.common.habitica.helpers.launchCatching
 import com.habitrpg.common.habitica.models.auth.UserAuthResponse
 import dagger.hilt.android.AndroidEntryPoint
