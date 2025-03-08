@@ -20,10 +20,10 @@ plugins {
 
 android {
     compileSdk = libs.versions.targetSdk.get().toInt()
-    namespace = "com.habitrpg.android.habitica"
+    namespace = "xyz.prfn.android.habitica"
 
     defaultConfig {
-        applicationId = "com.habitrpg.android.habitica"
+        applicationId = "xyz.prfn.android.habitica"
         minSdk = libs.versions.minSdk.get().toInt()
         compileSdk = libs.versions.targetSdk.get().toInt()
         vectorDrawables.useSupportLibrary = true
@@ -59,7 +59,7 @@ android {
             ext["enableCrashlytics"] = false
             ext["alwaysUpdateBuildId"] = false
             enableUnitTestCoverage = false
-            resValue("string", "content_provider", "com.habitrpg.android.habitica.debug.fileprovider")
+            resValue("string", "content_provider", "xyz.prfn.android.habitica.debug.fileprovider")
             resValue("string", "app_name", "Habitica Debug")
         }
         create("debugIAP") {
@@ -72,7 +72,7 @@ android {
             // Disable fabric build ID generation for debug builds
             ext["enableCrashlytics"] = false
             ext["alwaysUpdateBuildId"] = false
-            resValue("string", "content_provider", "com.habitrpg.android.habitica.fileprovider")
+            resValue("string", "content_provider", "xyz.prfn.android.habitica.fileprovider")
             resValue("string", "app_name", "Habitica Debug")
         }
         release {
@@ -81,7 +81,7 @@ android {
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
-            resValue("string", "content_provider", "com.habitrpg.android.habitica.fileprovider")
+            resValue("string", "content_provider", "xyz.prfn.android.habitica.fileprovider")
             resValue("string", "app_name", "Habitica")
         }
     }

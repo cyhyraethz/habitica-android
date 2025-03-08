@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-    namespace = "com.habitrpg.android.habitica"
+    namespace = "xyz.prfn.android.habitica"
     compileSdk = libs.versions.targetSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.habitrpg.android.habitica"
+        applicationId = "xyz.prfn.android.habitica"
         minSdk = libs.versions.minSdk.get().toInt()
         targetSdk = libs.versions.wearOsTargetSdk.get().toInt()
         compileSdk = libs.versions.targetSdk.get().toInt()

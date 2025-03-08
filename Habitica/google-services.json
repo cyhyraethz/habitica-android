@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189335189807",
+    "project_id": "habitica-fb521",
+    "storage_bucket": "habitica-fb521.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189335189807:android:2d5c7083fb2696fb4389da",
+        "android_client_info": {
+          "package_name": "xyz.prfn.android.habitica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRv6cE1wnsAi9PJM59D6gZG_cO9BzxNuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189335189807:android:64595ebdf3cdbec64389da",
+        "android_client_info": {
+          "package_name": "xyz.prfn.android.habitica.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRv6cE1wnsAi9PJM59D6gZG_cO9BzxNuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
